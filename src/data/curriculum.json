@@ -1,0 +1,2832 @@
+{
+  "themes": [
+    {
+      "title": "Giới thiệu bản thân",
+      "words": [
+        [
+          "저",
+          "tôi (lịch sự)"
+        ],
+        [
+          "나",
+          "tôi"
+        ],
+        [
+          "이름",
+          "tên"
+        ],
+        [
+          "사람",
+          "người"
+        ],
+        [
+          "학생",
+          "học sinh"
+        ],
+        [
+          "선생님",
+          "giáo viên"
+        ],
+        [
+          "친구",
+          "bạn"
+        ],
+        [
+          "한국",
+          "Hàn Quốc"
+        ],
+        [
+          "베트남",
+          "Việt Nam"
+        ],
+        [
+          "누구",
+          "ai"
+        ],
+        [
+          "안녕하세요",
+          "xin chào"
+        ],
+        [
+          "반갑습니다",
+          "rất vui được gặp"
+        ]
+      ]
+    },
+    {
+      "title": "Gia đình",
+      "words": [
+        [
+          "가족",
+          "gia đình"
+        ],
+        [
+          "아버지",
+          "bố"
+        ],
+        [
+          "어머니",
+          "mẹ"
+        ],
+        [
+          "부모님",
+          "cha mẹ"
+        ],
+        [
+          "형",
+          "anh trai (nam gọi)"
+        ],
+        [
+          "오빠",
+          "anh trai (nữ gọi)"
+        ],
+        [
+          "누나",
+          "chị gái (nam gọi)"
+        ],
+        [
+          "언니",
+          "chị gái (nữ gọi)"
+        ],
+        [
+          "동생",
+          "em"
+        ],
+        [
+          "할머니",
+          "bà"
+        ],
+        [
+          "할아버지",
+          "ông"
+        ],
+        [
+          "아들",
+          "con trai"
+        ]
+      ]
+    },
+    {
+      "title": "Đồ vật lớp học",
+      "words": [
+        [
+          "책",
+          "sách"
+        ],
+        [
+          "공책",
+          "vở"
+        ],
+        [
+          "연필",
+          "bút chì"
+        ],
+        [
+          "볼펜",
+          "bút bi"
+        ],
+        [
+          "가방",
+          "cặp"
+        ],
+        [
+          "책상",
+          "bàn học"
+        ],
+        [
+          "의자",
+          "ghế"
+        ],
+        [
+          "교실",
+          "lớp học"
+        ],
+        [
+          "학교",
+          "trường học"
+        ],
+        [
+          "칠판",
+          "bảng"
+        ],
+        [
+          "문",
+          "cửa"
+        ],
+        [
+          "창문",
+          "cửa sổ"
+        ]
+      ]
+    },
+    {
+      "title": "Địa điểm",
+      "words": [
+        [
+          "집",
+          "nhà"
+        ],
+        [
+          "학교",
+          "trường học"
+        ],
+        [
+          "회사",
+          "công ty"
+        ],
+        [
+          "식당",
+          "nhà hàng"
+        ],
+        [
+          "은행",
+          "ngân hàng"
+        ],
+        [
+          "병원",
+          "bệnh viện"
+        ],
+        [
+          "약국",
+          "hiệu thuốc"
+        ],
+        [
+          "도서관",
+          "thư viện"
+        ],
+        [
+          "공원",
+          "công viên"
+        ],
+        [
+          "시장",
+          "chợ"
+        ],
+        [
+          "가게",
+          "cửa hàng"
+        ],
+        [
+          "우체국",
+          "bưu điện"
+        ]
+      ]
+    },
+    {
+      "title": "Hoạt động hằng ngày",
+      "words": [
+        [
+          "가다",
+          "đi"
+        ],
+        [
+          "오다",
+          "đến"
+        ],
+        [
+          "먹다",
+          "ăn"
+        ],
+        [
+          "마시다",
+          "uống"
+        ],
+        [
+          "자다",
+          "ngủ"
+        ],
+        [
+          "일어나다",
+          "thức dậy"
+        ],
+        [
+          "공부하다",
+          "học"
+        ],
+        [
+          "일하다",
+          "làm việc"
+        ],
+        [
+          "쉬다",
+          "nghỉ ngơi"
+        ],
+        [
+          "읽다",
+          "đọc"
+        ],
+        [
+          "쓰다",
+          "viết"
+        ],
+        [
+          "보다",
+          "xem"
+        ]
+      ]
+    },
+    {
+      "title": "Thời gian",
+      "words": [
+        [
+          "오늘",
+          "hôm nay"
+        ],
+        [
+          "어제",
+          "hôm qua"
+        ],
+        [
+          "내일",
+          "ngày mai"
+        ],
+        [
+          "아침",
+          "buổi sáng"
+        ],
+        [
+          "점심",
+          "buổi trưa"
+        ],
+        [
+          "저녁",
+          "buổi tối"
+        ],
+        [
+          "시간",
+          "thời gian"
+        ],
+        [
+          "시",
+          "giờ"
+        ],
+        [
+          "분",
+          "phút"
+        ],
+        [
+          "주말",
+          "cuối tuần"
+        ],
+        [
+          "지금",
+          "bây giờ"
+        ],
+        [
+          "나중에",
+          "lát nữa"
+        ]
+      ]
+    },
+    {
+      "title": "Ôn tập nền tảng",
+      "words": [
+        [
+          "네",
+          "vâng"
+        ],
+        [
+          "아니요",
+          "không"
+        ],
+        [
+          "감사합니다",
+          "cảm ơn"
+        ],
+        [
+          "죄송합니다",
+          "xin lỗi"
+        ],
+        [
+          "괜찮아요",
+          "không sao"
+        ],
+        [
+          "맞아요",
+          "đúng"
+        ],
+        [
+          "아니에요",
+          "không phải"
+        ],
+        [
+          "좋아요",
+          "tốt"
+        ],
+        [
+          "있어요",
+          "có"
+        ],
+        [
+          "없어요",
+          "không có"
+        ],
+        [
+          "여기",
+          "ở đây"
+        ],
+        [
+          "저기",
+          "đằng kia"
+        ]
+      ]
+    },
+    {
+      "title": "Ăn uống",
+      "words": [
+        [
+          "밥",
+          "cơm"
+        ],
+        [
+          "물",
+          "nước"
+        ],
+        [
+          "빵",
+          "bánh mì"
+        ],
+        [
+          "우유",
+          "sữa"
+        ],
+        [
+          "커피",
+          "cà phê"
+        ],
+        [
+          "차",
+          "trà"
+        ],
+        [
+          "고기",
+          "thịt"
+        ],
+        [
+          "생선",
+          "cá"
+        ],
+        [
+          "과일",
+          "trái cây"
+        ],
+        [
+          "사과",
+          "táo"
+        ],
+        [
+          "김치",
+          "kimchi"
+        ],
+        [
+          "맛있다",
+          "ngon"
+        ]
+      ]
+    },
+    {
+      "title": "Địa điểm và hành động",
+      "words": [
+        [
+          "안",
+          "bên trong"
+        ],
+        [
+          "밖",
+          "bên ngoài"
+        ],
+        [
+          "앞",
+          "phía trước"
+        ],
+        [
+          "뒤",
+          "phía sau"
+        ],
+        [
+          "옆",
+          "bên cạnh"
+        ],
+        [
+          "위",
+          "phía trên"
+        ],
+        [
+          "아래",
+          "phía dưới"
+        ],
+        [
+          "왼쪽",
+          "bên trái"
+        ],
+        [
+          "오른쪽",
+          "bên phải"
+        ],
+        [
+          "근처",
+          "gần"
+        ],
+        [
+          "멀다",
+          "xa"
+        ],
+        [
+          "가깝다",
+          "gần"
+        ]
+      ]
+    },
+    {
+      "title": "Ngày tháng",
+      "words": [
+        [
+          "월요일",
+          "thứ hai"
+        ],
+        [
+          "화요일",
+          "thứ ba"
+        ],
+        [
+          "수요일",
+          "thứ tư"
+        ],
+        [
+          "목요일",
+          "thứ năm"
+        ],
+        [
+          "금요일",
+          "thứ sáu"
+        ],
+        [
+          "토요일",
+          "thứ bảy"
+        ],
+        [
+          "일요일",
+          "chủ nhật"
+        ],
+        [
+          "월",
+          "tháng"
+        ],
+        [
+          "일",
+          "ngày"
+        ],
+        [
+          "년",
+          "năm"
+        ],
+        [
+          "생일",
+          "sinh nhật"
+        ],
+        [
+          "날짜",
+          "ngày tháng"
+        ]
+      ]
+    },
+    {
+      "title": "Mua sắm",
+      "words": [
+        [
+          "돈",
+          "tiền"
+        ],
+        [
+          "가격",
+          "giá"
+        ],
+        [
+          "얼마",
+          "bao nhiêu"
+        ],
+        [
+          "싸다",
+          "rẻ"
+        ],
+        [
+          "비싸다",
+          "đắt"
+        ],
+        [
+          "사다",
+          "mua"
+        ],
+        [
+          "팔다",
+          "bán"
+        ],
+        [
+          "옷",
+          "quần áo"
+        ],
+        [
+          "신발",
+          "giày"
+        ],
+        [
+          "모자",
+          "mũ"
+        ],
+        [
+          "치마",
+          "váy"
+        ],
+        [
+          "바지",
+          "quần dài"
+        ]
+      ]
+    },
+    {
+      "title": "Tính từ cơ bản",
+      "words": [
+        [
+          "크다",
+          "to"
+        ],
+        [
+          "작다",
+          "nhỏ"
+        ],
+        [
+          "좋다",
+          "tốt"
+        ],
+        [
+          "나쁘다",
+          "xấu"
+        ],
+        [
+          "많다",
+          "nhiều"
+        ],
+        [
+          "적다",
+          "ít"
+        ],
+        [
+          "길다",
+          "dài"
+        ],
+        [
+          "짧다",
+          "ngắn"
+        ],
+        [
+          "쉽다",
+          "dễ"
+        ],
+        [
+          "어렵다",
+          "khó"
+        ],
+        [
+          "빠르다",
+          "nhanh"
+        ],
+        [
+          "느리다",
+          "chậm"
+        ]
+      ]
+    },
+    {
+      "title": "Thì quá khứ",
+      "words": [
+        [
+          "어제",
+          "hôm qua"
+        ],
+        [
+          "지난주",
+          "tuần trước"
+        ],
+        [
+          "작년",
+          "năm ngoái"
+        ],
+        [
+          "만나다",
+          "gặp"
+        ],
+        [
+          "배우다",
+          "học"
+        ],
+        [
+          "만들다",
+          "làm ra"
+        ],
+        [
+          "듣다",
+          "nghe"
+        ],
+        [
+          "걷다",
+          "đi bộ"
+        ],
+        [
+          "놀다",
+          "chơi"
+        ],
+        [
+          "운동하다",
+          "tập thể thao"
+        ],
+        [
+          "청소하다",
+          "dọn dẹp"
+        ],
+        [
+          "요리하다",
+          "nấu ăn"
+        ]
+      ]
+    },
+    {
+      "title": "Ôn tập tuần 2",
+      "words": [
+        [
+          "다시",
+          "lại"
+        ],
+        [
+          "항상",
+          "luôn luôn"
+        ],
+        [
+          "자주",
+          "thường xuyên"
+        ],
+        [
+          "가끔",
+          "thỉnh thoảng"
+        ],
+        [
+          "보통",
+          "thường"
+        ],
+        [
+          "매일",
+          "mỗi ngày"
+        ],
+        [
+          "매주",
+          "mỗi tuần"
+        ],
+        [
+          "먼저",
+          "trước tiên"
+        ],
+        [
+          "그리고",
+          "và"
+        ],
+        [
+          "하지만",
+          "nhưng"
+        ],
+        [
+          "그래서",
+          "vì vậy"
+        ],
+        [
+          "정말",
+          "thật sự"
+        ]
+      ]
+    },
+    {
+      "title": "Dự định và kế hoạch",
+      "words": [
+        [
+          "계획",
+          "kế hoạch"
+        ],
+        [
+          "여행",
+          "du lịch"
+        ],
+        [
+          "방학",
+          "kỳ nghỉ"
+        ],
+        [
+          "휴가",
+          "nghỉ phép"
+        ],
+        [
+          "약속",
+          "cuộc hẹn"
+        ],
+        [
+          "준비하다",
+          "chuẩn bị"
+        ],
+        [
+          "시작하다",
+          "bắt đầu"
+        ],
+        [
+          "끝나다",
+          "kết thúc"
+        ],
+        [
+          "다음",
+          "tiếp theo"
+        ],
+        [
+          "이번",
+          "lần này"
+        ],
+        [
+          "다음 주",
+          "tuần sau"
+        ],
+        [
+          "다음 달",
+          "tháng sau"
+        ]
+      ]
+    },
+    {
+      "title": "Sở thích",
+      "words": [
+        [
+          "취미",
+          "sở thích"
+        ],
+        [
+          "음악",
+          "âm nhạc"
+        ],
+        [
+          "영화",
+          "phim"
+        ],
+        [
+          "노래",
+          "bài hát"
+        ],
+        [
+          "춤",
+          "điệu nhảy"
+        ],
+        [
+          "사진",
+          "ảnh"
+        ],
+        [
+          "그림",
+          "tranh"
+        ],
+        [
+          "운동",
+          "thể thao"
+        ],
+        [
+          "수영",
+          "bơi"
+        ],
+        [
+          "축구",
+          "bóng đá"
+        ],
+        [
+          "게임",
+          "trò chơi"
+        ],
+        [
+          "좋아하다",
+          "thích"
+        ]
+      ]
+    },
+    {
+      "title": "Yêu cầu",
+      "words": [
+        [
+          "주세요",
+          "làm ơn cho"
+        ],
+        [
+          "기다리다",
+          "chờ"
+        ],
+        [
+          "앉다",
+          "ngồi"
+        ],
+        [
+          "서다",
+          "đứng"
+        ],
+        [
+          "열다",
+          "mở"
+        ],
+        [
+          "닫다",
+          "đóng"
+        ],
+        [
+          "들어오다",
+          "đi vào"
+        ],
+        [
+          "나가다",
+          "đi ra"
+        ],
+        [
+          "말하다",
+          "nói"
+        ],
+        [
+          "조용하다",
+          "yên tĩnh"
+        ],
+        [
+          "천천히",
+          "chậm rãi"
+        ],
+        [
+          "빨리",
+          "nhanh lên"
+        ]
+      ]
+    },
+    {
+      "title": "Phủ định",
+      "words": [
+        [
+          "안",
+          "không"
+        ],
+        [
+          "못",
+          "không thể"
+        ],
+        [
+          "아직",
+          "vẫn chưa"
+        ],
+        [
+          "전혀",
+          "hoàn toàn không"
+        ],
+        [
+          "별로",
+          "không mấy"
+        ],
+        [
+          "바쁘다",
+          "bận"
+        ],
+        [
+          "피곤하다",
+          "mệt"
+        ],
+        [
+          "아프다",
+          "đau/ốm"
+        ],
+        [
+          "싫어하다",
+          "không thích"
+        ],
+        [
+          "모르다",
+          "không biết"
+        ],
+        [
+          "잊다",
+          "quên"
+        ],
+        [
+          "늦다",
+          "muộn"
+        ]
+      ]
+    },
+    {
+      "title": "Thói quen",
+      "words": [
+        [
+          "씻다",
+          "rửa/tắm"
+        ],
+        [
+          "세수하다",
+          "rửa mặt"
+        ],
+        [
+          "양치하다",
+          "đánh răng"
+        ],
+        [
+          "입다",
+          "mặc"
+        ],
+        [
+          "벗다",
+          "cởi"
+        ],
+        [
+          "타다",
+          "đi xe"
+        ],
+        [
+          "내리다",
+          "xuống xe"
+        ],
+        [
+          "전화하다",
+          "gọi điện"
+        ],
+        [
+          "보내다",
+          "gửi"
+        ],
+        [
+          "받다",
+          "nhận"
+        ],
+        [
+          "켜다",
+          "bật"
+        ],
+        [
+          "끄다",
+          "tắt"
+        ]
+      ]
+    },
+    {
+      "title": "Thời tiết và cảm xúc",
+      "words": [
+        [
+          "날씨",
+          "thời tiết"
+        ],
+        [
+          "비",
+          "mưa"
+        ],
+        [
+          "눈",
+          "tuyết"
+        ],
+        [
+          "바람",
+          "gió"
+        ],
+        [
+          "맑다",
+          "trong xanh"
+        ],
+        [
+          "흐리다",
+          "nhiều mây"
+        ],
+        [
+          "덥다",
+          "nóng"
+        ],
+        [
+          "춥다",
+          "lạnh"
+        ],
+        [
+          "따뜻하다",
+          "ấm"
+        ],
+        [
+          "시원하다",
+          "mát"
+        ],
+        [
+          "기쁘다",
+          "vui"
+        ],
+        [
+          "슬프다",
+          "buồn"
+        ]
+      ]
+    },
+    {
+      "title": "Ôn tập tuần 3",
+      "words": [
+        [
+          "왜",
+          "tại sao"
+        ],
+        [
+          "어떻게",
+          "như thế nào"
+        ],
+        [
+          "어디",
+          "ở đâu"
+        ],
+        [
+          "언제",
+          "khi nào"
+        ],
+        [
+          "무엇",
+          "cái gì"
+        ],
+        [
+          "몇",
+          "mấy"
+        ],
+        [
+          "어느",
+          "nào"
+        ],
+        [
+          "어떤",
+          "loại nào"
+        ],
+        [
+          "누가",
+          "ai (chủ ngữ)"
+        ],
+        [
+          "무슨",
+          "gì"
+        ],
+        [
+          "얼마나",
+          "bao nhiêu/mức độ"
+        ],
+        [
+          "같이",
+          "cùng nhau"
+        ]
+      ]
+    },
+    {
+      "title": "Đối lập",
+      "words": [
+        [
+          "재미있다",
+          "thú vị"
+        ],
+        [
+          "재미없다",
+          "không thú vị"
+        ],
+        [
+          "깨끗하다",
+          "sạch"
+        ],
+        [
+          "더럽다",
+          "bẩn"
+        ],
+        [
+          "편하다",
+          "thoải mái"
+        ],
+        [
+          "불편하다",
+          "bất tiện"
+        ],
+        [
+          "조용하다",
+          "yên tĩnh"
+        ],
+        [
+          "시끄럽다",
+          "ồn"
+        ],
+        [
+          "새롭다",
+          "mới"
+        ],
+        [
+          "오래되다",
+          "cũ"
+        ],
+        [
+          "건강하다",
+          "khỏe mạnh"
+        ],
+        [
+          "위험하다",
+          "nguy hiểm"
+        ]
+      ]
+    },
+    {
+      "title": "Điều kiện",
+      "words": [
+        [
+          "필요하다",
+          "cần"
+        ],
+        [
+          "가능하다",
+          "có thể"
+        ],
+        [
+          "문제",
+          "vấn đề"
+        ],
+        [
+          "방법",
+          "phương pháp"
+        ],
+        [
+          "도움",
+          "sự giúp đỡ"
+        ],
+        [
+          "시간이 있다",
+          "có thời gian"
+        ],
+        [
+          "돈이 있다",
+          "có tiền"
+        ],
+        [
+          "날씨가 좋다",
+          "thời tiết đẹp"
+        ],
+        [
+          "괜찮다",
+          "ổn"
+        ],
+        [
+          "좋겠다",
+          "ước gì tốt"
+        ],
+        [
+          "그러면",
+          "nếu vậy"
+        ],
+        [
+          "만약",
+          "nếu như"
+        ]
+      ]
+    },
+    {
+      "title": "Khả năng",
+      "words": [
+        [
+          "할 수 있다",
+          "có thể làm"
+        ],
+        [
+          "할 수 없다",
+          "không thể làm"
+        ],
+        [
+          "수영하다",
+          "bơi"
+        ],
+        [
+          "운전하다",
+          "lái xe"
+        ],
+        [
+          "요리하다",
+          "nấu ăn"
+        ],
+        [
+          "노래하다",
+          "hát"
+        ],
+        [
+          "외국어",
+          "ngoại ngữ"
+        ],
+        [
+          "한국어",
+          "tiếng Hàn"
+        ],
+        [
+          "영어",
+          "tiếng Anh"
+        ],
+        [
+          "잘",
+          "tốt/giỏi"
+        ],
+        [
+          "못하다",
+          "không giỏi"
+        ],
+        [
+          "연습하다",
+          "luyện tập"
+        ]
+      ]
+    },
+    {
+      "title": "Quy tắc và nghĩa vụ",
+      "words": [
+        [
+          "규칙",
+          "quy tắc"
+        ],
+        [
+          "숙제",
+          "bài tập về nhà"
+        ],
+        [
+          "시험",
+          "kỳ thi"
+        ],
+        [
+          "수업",
+          "tiết học"
+        ],
+        [
+          "지각하다",
+          "đến muộn"
+        ],
+        [
+          "조심하다",
+          "cẩn thận"
+        ],
+        [
+          "지키다",
+          "tuân thủ"
+        ],
+        [
+          "기억하다",
+          "ghi nhớ"
+        ],
+        [
+          "꼭",
+          "nhất định"
+        ],
+        [
+          "반드시",
+          "bắt buộc"
+        ],
+        [
+          "안전",
+          "an toàn"
+        ],
+        [
+          "금지",
+          "cấm"
+        ]
+      ]
+    },
+    {
+      "title": "Du lịch",
+      "words": [
+        [
+          "기차",
+          "tàu hỏa"
+        ],
+        [
+          "버스",
+          "xe buýt"
+        ],
+        [
+          "지하철",
+          "tàu điện ngầm"
+        ],
+        [
+          "택시",
+          "taxi"
+        ],
+        [
+          "비행기",
+          "máy bay"
+        ],
+        [
+          "공항",
+          "sân bay"
+        ],
+        [
+          "역",
+          "ga"
+        ],
+        [
+          "표",
+          "vé"
+        ],
+        [
+          "여권",
+          "hộ chiếu"
+        ],
+        [
+          "호텔",
+          "khách sạn"
+        ],
+        [
+          "예약하다",
+          "đặt trước"
+        ],
+        [
+          "출발하다",
+          "khởi hành"
+        ]
+      ]
+    },
+    {
+      "title": "Dạng câu dễ TOPIK",
+      "words": [
+        [
+          "안내",
+          "hướng dẫn"
+        ],
+        [
+          "입구",
+          "lối vào"
+        ],
+        [
+          "출구",
+          "lối ra"
+        ],
+        [
+          "무료",
+          "miễn phí"
+        ],
+        [
+          "유료",
+          "có phí"
+        ],
+        [
+          "휴무",
+          "nghỉ bán"
+        ],
+        [
+          "영업",
+          "kinh doanh"
+        ],
+        [
+          "주차",
+          "bãi đỗ xe"
+        ],
+        [
+          "금연",
+          "cấm hút thuốc"
+        ],
+        [
+          "모집",
+          "tuyển"
+        ],
+        [
+          "신청",
+          "đăng ký"
+        ],
+        [
+          "문의",
+          "liên hệ"
+        ]
+      ]
+    },
+    {
+      "title": "Đề thử đầu tiên",
+      "words": [
+        [
+          "정답",
+          "đáp án đúng"
+        ],
+        [
+          "문제",
+          "câu hỏi"
+        ],
+        [
+          "보기",
+          "lựa chọn"
+        ],
+        [
+          "내용",
+          "nội dung"
+        ],
+        [
+          "다음",
+          "sau đây"
+        ],
+        [
+          "알맞다",
+          "phù hợp"
+        ],
+        [
+          "고르다",
+          "chọn"
+        ],
+        [
+          "읽다",
+          "đọc"
+        ],
+        [
+          "듣다",
+          "nghe"
+        ],
+        [
+          "쓰다",
+          "viết"
+        ],
+        [
+          "풀다",
+          "giải"
+        ],
+        [
+          "확인하다",
+          "kiểm tra"
+        ]
+      ]
+    },
+    {
+      "title": "Nghe phản hồi",
+      "words": [
+        [
+          "여보세요",
+          "alô"
+        ],
+        [
+          "잠깐",
+          "chốc lát"
+        ],
+        [
+          "물론",
+          "tất nhiên"
+        ],
+        [
+          "알겠습니다",
+          "đã hiểu"
+        ],
+        [
+          "그래요",
+          "vậy à"
+        ],
+        [
+          "그렇군요",
+          "ra vậy"
+        ],
+        [
+          "좋습니다",
+          "tốt"
+        ],
+        [
+          "미안합니다",
+          "xin lỗi"
+        ],
+        [
+          "축하합니다",
+          "chúc mừng"
+        ],
+        [
+          "어서 오세요",
+          "chào mừng"
+        ],
+        [
+          "안녕히 가세요",
+          "tạm biệt (người đi)"
+        ],
+        [
+          "안녕히 계세요",
+          "tạm biệt (người ở)"
+        ]
+      ]
+    },
+    {
+      "title": "Nghe tranh và tình huống",
+      "words": [
+        [
+          "서점",
+          "hiệu sách"
+        ],
+        [
+          "미용실",
+          "tiệm tóc"
+        ],
+        [
+          "빵집",
+          "tiệm bánh"
+        ],
+        [
+          "카페",
+          "quán cà phê"
+        ],
+        [
+          "수영장",
+          "hồ bơi"
+        ],
+        [
+          "운동장",
+          "sân vận động"
+        ],
+        [
+          "백화점",
+          "trung tâm thương mại"
+        ],
+        [
+          "마트",
+          "siêu thị"
+        ],
+        [
+          "영화관",
+          "rạp phim"
+        ],
+        [
+          "박물관",
+          "bảo tàng"
+        ],
+        [
+          "동물원",
+          "sở thú"
+        ],
+        [
+          "정류장",
+          "trạm xe"
+        ]
+      ]
+    },
+    {
+      "title": "Nghe hội thoại",
+      "words": [
+        [
+          "직원",
+          "nhân viên"
+        ],
+        [
+          "손님",
+          "khách"
+        ],
+        [
+          "사장님",
+          "chủ cửa hàng"
+        ],
+        [
+          "의사",
+          "bác sĩ"
+        ],
+        [
+          "간호사",
+          "y tá"
+        ],
+        [
+          "경찰",
+          "cảnh sát"
+        ],
+        [
+          "기사",
+          "tài xế"
+        ],
+        [
+          "요리사",
+          "đầu bếp"
+        ],
+        [
+          "배달",
+          "giao hàng"
+        ],
+        [
+          "서비스",
+          "dịch vụ"
+        ],
+        [
+          "전화",
+          "điện thoại"
+        ],
+        [
+          "연락",
+          "liên lạc"
+        ]
+      ]
+    },
+    {
+      "title": "Nghe ý chính",
+      "words": [
+        [
+          "이야기",
+          "câu chuyện"
+        ],
+        [
+          "생각",
+          "suy nghĩ"
+        ],
+        [
+          "의견",
+          "ý kiến"
+        ],
+        [
+          "이유",
+          "lý do"
+        ],
+        [
+          "목적",
+          "mục đích"
+        ],
+        [
+          "소식",
+          "tin tức"
+        ],
+        [
+          "행사",
+          "sự kiện"
+        ],
+        [
+          "축제",
+          "lễ hội"
+        ],
+        [
+          "모임",
+          "cuộc gặp"
+        ],
+        [
+          "회의",
+          "cuộc họp"
+        ],
+        [
+          "발표",
+          "thuyết trình"
+        ],
+        [
+          "소개",
+          "giới thiệu"
+        ]
+      ]
+    },
+    {
+      "title": "Nghe chi tiết",
+      "words": [
+        [
+          "색깔",
+          "màu sắc"
+        ],
+        [
+          "빨간색",
+          "màu đỏ"
+        ],
+        [
+          "파란색",
+          "màu xanh dương"
+        ],
+        [
+          "노란색",
+          "màu vàng"
+        ],
+        [
+          "검은색",
+          "màu đen"
+        ],
+        [
+          "흰색",
+          "màu trắng"
+        ],
+        [
+          "하나",
+          "một (thuần Hàn)"
+        ],
+        [
+          "둘",
+          "hai"
+        ],
+        [
+          "셋",
+          "ba"
+        ],
+        [
+          "넷",
+          "bốn"
+        ],
+        [
+          "다섯",
+          "năm"
+        ],
+        [
+          "열",
+          "mười"
+        ]
+      ]
+    },
+    {
+      "title": "Đọc điền từ",
+      "words": [
+        [
+          "때문에",
+          "vì"
+        ],
+        [
+          "그래서",
+          "vì vậy"
+        ],
+        [
+          "그러나",
+          "tuy nhiên"
+        ],
+        [
+          "그런데",
+          "nhưng/mà"
+        ],
+        [
+          "또",
+          "và còn"
+        ],
+        [
+          "또는",
+          "hoặc"
+        ],
+        [
+          "특히",
+          "đặc biệt"
+        ],
+        [
+          "예를 들면",
+          "ví dụ"
+        ],
+        [
+          "먼저",
+          "trước tiên"
+        ],
+        [
+          "마지막으로",
+          "cuối cùng"
+        ],
+        [
+          "이후",
+          "sau đó"
+        ],
+        [
+          "동안",
+          "trong khi"
+        ]
+      ]
+    },
+    {
+      "title": "Ôn tập nghe",
+      "words": [
+        [
+          "대답",
+          "câu trả lời"
+        ],
+        [
+          "질문",
+          "câu hỏi"
+        ],
+        [
+          "목소리",
+          "giọng nói"
+        ],
+        [
+          "소리",
+          "âm thanh"
+        ],
+        [
+          "듣기",
+          "nghe hiểu"
+        ],
+        [
+          "읽기",
+          "đọc hiểu"
+        ],
+        [
+          "반복하다",
+          "lặp lại"
+        ],
+        [
+          "천천히",
+          "chậm rãi"
+        ],
+        [
+          "정확하다",
+          "chính xác"
+        ],
+        [
+          "틀리다",
+          "sai"
+        ],
+        [
+          "맞다",
+          "đúng"
+        ],
+        [
+          "설명하다",
+          "giải thích"
+        ]
+      ]
+    },
+    {
+      "title": "Đọc thông báo",
+      "words": [
+        [
+          "공지",
+          "thông báo"
+        ],
+        [
+          "안내문",
+          "bảng hướng dẫn"
+        ],
+        [
+          "운영",
+          "vận hành"
+        ],
+        [
+          "시간표",
+          "thời khóa biểu"
+        ],
+        [
+          "휴일",
+          "ngày nghỉ"
+        ],
+        [
+          "변경",
+          "thay đổi"
+        ],
+        [
+          "취소",
+          "hủy"
+        ],
+        [
+          "연기",
+          "hoãn"
+        ],
+        [
+          "참가",
+          "tham gia"
+        ],
+        [
+          "접수",
+          "tiếp nhận đăng ký"
+        ],
+        [
+          "기간",
+          "khoảng thời gian"
+        ],
+        [
+          "장소",
+          "địa điểm"
+        ]
+      ]
+    },
+    {
+      "title": "Đọc quảng cáo",
+      "words": [
+        [
+          "할인",
+          "giảm giá"
+        ],
+        [
+          "판매",
+          "bán"
+        ],
+        [
+          "상품",
+          "sản phẩm"
+        ],
+        [
+          "선물",
+          "quà tặng"
+        ],
+        [
+          "고객",
+          "khách hàng"
+        ],
+        [
+          "주문",
+          "đặt hàng"
+        ],
+        [
+          "배송",
+          "giao hàng"
+        ],
+        [
+          "교환",
+          "đổi hàng"
+        ],
+        [
+          "환불",
+          "hoàn tiền"
+        ],
+        [
+          "영수증",
+          "hóa đơn"
+        ],
+        [
+          "현금",
+          "tiền mặt"
+        ],
+        [
+          "카드",
+          "thẻ"
+        ]
+      ]
+    },
+    {
+      "title": "Đọc điền chỗ trống",
+      "words": [
+        [
+          "행복하다",
+          "hạnh phúc"
+        ],
+        [
+          "걱정하다",
+          "lo lắng"
+        ],
+        [
+          "놀라다",
+          "ngạc nhiên"
+        ],
+        [
+          "무섭다",
+          "sợ"
+        ],
+        [
+          "외롭다",
+          "cô đơn"
+        ],
+        [
+          "즐겁다",
+          "vui vẻ"
+        ],
+        [
+          "부끄럽다",
+          "ngại ngùng"
+        ],
+        [
+          "화나다",
+          "tức giận"
+        ],
+        [
+          "마음",
+          "tấm lòng"
+        ],
+        [
+          "기분",
+          "tâm trạng"
+        ],
+        [
+          "웃다",
+          "cười"
+        ],
+        [
+          "울다",
+          "khóc"
+        ]
+      ]
+    },
+    {
+      "title": "Sắp xếp câu",
+      "words": [
+        [
+          "처음",
+          "ban đầu"
+        ],
+        [
+          "다음",
+          "tiếp theo"
+        ],
+        [
+          "그다음",
+          "sau đó"
+        ],
+        [
+          "그 후",
+          "sau đó"
+        ],
+        [
+          "마지막",
+          "cuối cùng"
+        ],
+        [
+          "이전",
+          "trước đó"
+        ],
+        [
+          "이후",
+          "sau đó"
+        ],
+        [
+          "갑자기",
+          "đột nhiên"
+        ],
+        [
+          "드디어",
+          "cuối cùng"
+        ],
+        [
+          "벌써",
+          "đã rồi"
+        ],
+        [
+          "아직",
+          "vẫn chưa"
+        ],
+        [
+          "곧",
+          "sắp"
+        ]
+      ]
+    },
+    {
+      "title": "Đọc đoạn dài",
+      "words": [
+        [
+          "생활",
+          "đời sống"
+        ],
+        [
+          "경험",
+          "kinh nghiệm"
+        ],
+        [
+          "문화",
+          "văn hóa"
+        ],
+        [
+          "전통",
+          "truyền thống"
+        ],
+        [
+          "습관",
+          "thói quen"
+        ],
+        [
+          "환경",
+          "môi trường"
+        ],
+        [
+          "자연",
+          "thiên nhiên"
+        ],
+        [
+          "계절",
+          "mùa"
+        ],
+        [
+          "봄",
+          "mùa xuân"
+        ],
+        [
+          "여름",
+          "mùa hè"
+        ],
+        [
+          "가을",
+          "mùa thu"
+        ],
+        [
+          "겨울",
+          "mùa đông"
+        ]
+      ]
+    },
+    {
+      "title": "Luyện tốc độ",
+      "words": [
+        [
+          "빠르게",
+          "nhanh chóng"
+        ],
+        [
+          "천천히",
+          "chậm rãi"
+        ],
+        [
+          "중요하다",
+          "quan trọng"
+        ],
+        [
+          "간단하다",
+          "đơn giản"
+        ],
+        [
+          "복잡하다",
+          "phức tạp"
+        ],
+        [
+          "정확히",
+          "chính xác"
+        ],
+        [
+          "대충",
+          "đại khái"
+        ],
+        [
+          "집중하다",
+          "tập trung"
+        ],
+        [
+          "연습",
+          "luyện tập"
+        ],
+        [
+          "실수",
+          "lỗi sai"
+        ],
+        [
+          "결과",
+          "kết quả"
+        ],
+        [
+          "점수",
+          "điểm số"
+        ]
+      ]
+    },
+    {
+      "title": "Đề tổng hợp",
+      "words": [
+        [
+          "목표",
+          "mục tiêu"
+        ],
+        [
+          "성공",
+          "thành công"
+        ],
+        [
+          "실패",
+          "thất bại"
+        ],
+        [
+          "노력",
+          "nỗ lực"
+        ],
+        [
+          "실력",
+          "năng lực"
+        ],
+        [
+          "시험",
+          "kỳ thi"
+        ],
+        [
+          "준비",
+          "chuẩn bị"
+        ],
+        [
+          "복습",
+          "ôn tập"
+        ],
+        [
+          "예습",
+          "chuẩn bị bài"
+        ],
+        [
+          "공부",
+          "học tập"
+        ],
+        [
+          "발전",
+          "tiến bộ"
+        ],
+        [
+          "도전",
+          "thử thách"
+        ]
+      ]
+    }
+  ],
+  "days": [
+    {
+      "day": 1,
+      "title": "Giới thiệu bản thân",
+      "theme": 0,
+      "grammar": "N은/는 N이에요/예요",
+      "example": "저는 학생이에요.",
+      "translation": "Tôi là học sinh.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 2,
+      "title": "Gia đình",
+      "theme": 1,
+      "grammar": "N이/가 있어요/없어요",
+      "example": "친구가 있어요.",
+      "translation": "Tôi có bạn.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 3,
+      "title": "Đồ vật lớp học",
+      "theme": 2,
+      "grammar": "이/그/저 + N",
+      "example": "이 책은 좋아요.",
+      "translation": "Quyển sách này tốt.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 4,
+      "title": "Địa điểm",
+      "theme": 3,
+      "grammar": "N에 있어요",
+      "example": "학교에 있어요.",
+      "translation": "Ở trường.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 5,
+      "title": "Hoạt động hằng ngày",
+      "theme": 4,
+      "grammar": "V-아요/어요",
+      "example": "저는 공부해요.",
+      "translation": "Tôi học.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 6,
+      "title": "Thời gian",
+      "theme": 5,
+      "grammar": "N에 (thời gian)",
+      "example": "세 시에 만나요.",
+      "translation": "Gặp lúc ba giờ.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 7,
+      "title": "Ôn tập nền tảng",
+      "theme": 6,
+      "grammar": "Ôn câu lịch sự",
+      "example": "감사합니다.",
+      "translation": "Cảm ơn.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 8,
+      "title": "Ăn uống",
+      "theme": 7,
+      "grammar": "N을/를",
+      "example": "저는 밥을 먹어요.",
+      "translation": "Tôi ăn cơm.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 9,
+      "title": "Địa điểm và hành động",
+      "theme": 8,
+      "grammar": "N에서",
+      "example": "도서관에서 공부해요.",
+      "translation": "Tôi học ở thư viện.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 10,
+      "title": "Ngày tháng",
+      "theme": 9,
+      "grammar": "N부터 N까지",
+      "example": "아홉 시부터 공부해요.",
+      "translation": "Tôi học từ chín giờ.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 11,
+      "title": "Mua sắm",
+      "theme": 10,
+      "grammar": "N하고 / N와/과",
+      "example": "친구하고 가요.",
+      "translation": "Tôi đi với bạn.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 12,
+      "title": "Tính từ cơ bản",
+      "theme": 11,
+      "grammar": "A-아요/어요",
+      "example": "날씨가 좋아요.",
+      "translation": "Thời tiết đẹp.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 13,
+      "title": "Thì quá khứ",
+      "theme": 12,
+      "grammar": "V-았/었어요",
+      "example": "어제 공부했어요.",
+      "translation": "Hôm qua tôi đã học.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 14,
+      "title": "Ôn tập tuần 2",
+      "theme": 13,
+      "grammar": "Ôn trạng từ",
+      "example": "매일 공부해요.",
+      "translation": "Tôi học mỗi ngày.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 15,
+      "title": "Dự định và kế hoạch",
+      "theme": 14,
+      "grammar": "V-(으)ㄹ 거예요",
+      "example": "내일 여행할 거예요.",
+      "translation": "Ngày mai tôi sẽ đi du lịch.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 16,
+      "title": "Sở thích",
+      "theme": 15,
+      "grammar": "V-고 싶어요",
+      "example": "영화를 보고 싶어요.",
+      "translation": "Tôi muốn xem phim.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 17,
+      "title": "Yêu cầu",
+      "theme": 16,
+      "grammar": "V-(으)세요",
+      "example": "여기에 앉으세요.",
+      "translation": "Hãy ngồi ở đây.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 18,
+      "title": "Phủ định",
+      "theme": 17,
+      "grammar": "안 V / V-지 않아요",
+      "example": "오늘 학교에 안 가요.",
+      "translation": "Hôm nay tôi không đến trường.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 19,
+      "title": "Thói quen",
+      "theme": 18,
+      "grammar": "V-고",
+      "example": "밥을 먹고 공부해요.",
+      "translation": "Tôi ăn cơm rồi học.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 20,
+      "title": "Thời tiết và cảm xúc",
+      "theme": 19,
+      "grammar": "A/V-아서/어서",
+      "example": "비가 와서 집에 있어요.",
+      "translation": "Vì trời mưa nên tôi ở nhà.",
+      "phase": "Nền tảng",
+      "exam": false
+    },
+    {
+      "day": 21,
+      "title": "Ôn tập tuần 3",
+      "theme": 20,
+      "grammar": "Ôn từ nghi vấn",
+      "example": "어디에 가요?",
+      "translation": "Bạn đi đâu?",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 22,
+      "title": "Đối lập",
+      "theme": 21,
+      "grammar": "A/V-지만",
+      "example": "작지만 좋아요.",
+      "translation": "Nhỏ nhưng tốt.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 23,
+      "title": "Điều kiện",
+      "theme": 22,
+      "grammar": "A/V-(으)면",
+      "example": "시간이 있으면 가요.",
+      "translation": "Nếu có thời gian tôi sẽ đi.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 24,
+      "title": "Khả năng",
+      "theme": 23,
+      "grammar": "V-(으)ㄹ 수 있어요",
+      "example": "수영할 수 있어요.",
+      "translation": "Tôi có thể bơi.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 25,
+      "title": "Quy tắc và nghĩa vụ",
+      "theme": 24,
+      "grammar": "V-아/어야 해요",
+      "example": "공부해야 해요.",
+      "translation": "Tôi phải học.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 26,
+      "title": "Du lịch",
+      "theme": 25,
+      "grammar": "V-(으)려고 해요",
+      "example": "여행하려고 해요.",
+      "translation": "Tôi định đi du lịch.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 27,
+      "title": "Dạng câu dễ TOPIK",
+      "theme": 26,
+      "grammar": "N은/는 N이에요/예요",
+      "example": "저는 학생이에요.",
+      "translation": "Tôi là học sinh.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 28,
+      "title": "Đề thử đầu tiên",
+      "theme": 27,
+      "grammar": "N이/가 있어요/없어요",
+      "example": "친구가 있어요.",
+      "translation": "Tôi có bạn.",
+      "phase": "Luyện kỹ năng",
+      "exam": true
+    },
+    {
+      "day": 29,
+      "title": "Nghe phản hồi",
+      "theme": 28,
+      "grammar": "이/그/저 + N",
+      "example": "이 책은 좋아요.",
+      "translation": "Quyển sách này tốt.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 30,
+      "title": "Nghe tranh và tình huống",
+      "theme": 29,
+      "grammar": "N에 있어요",
+      "example": "학교에 있어요.",
+      "translation": "Ở trường.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 31,
+      "title": "Nghe hội thoại",
+      "theme": 30,
+      "grammar": "V-아요/어요",
+      "example": "저는 공부해요.",
+      "translation": "Tôi học.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 32,
+      "title": "Nghe ý chính",
+      "theme": 31,
+      "grammar": "N에 (thời gian)",
+      "example": "세 시에 만나요.",
+      "translation": "Gặp lúc ba giờ.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 33,
+      "title": "Nghe chi tiết",
+      "theme": 32,
+      "grammar": "Ôn câu lịch sự",
+      "example": "감사합니다.",
+      "translation": "Cảm ơn.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 34,
+      "title": "Đọc điền từ",
+      "theme": 33,
+      "grammar": "N을/를",
+      "example": "저는 밥을 먹어요.",
+      "translation": "Tôi ăn cơm.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 35,
+      "title": "Ôn tập nghe",
+      "theme": 34,
+      "grammar": "N에서",
+      "example": "도서관에서 공부해요.",
+      "translation": "Tôi học ở thư viện.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 36,
+      "title": "Đọc thông báo",
+      "theme": 35,
+      "grammar": "N부터 N까지",
+      "example": "아홉 시부터 공부해요.",
+      "translation": "Tôi học từ chín giờ.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 37,
+      "title": "Đọc quảng cáo",
+      "theme": 36,
+      "grammar": "N하고 / N와/과",
+      "example": "친구하고 가요.",
+      "translation": "Tôi đi với bạn.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 38,
+      "title": "Đọc điền chỗ trống",
+      "theme": 37,
+      "grammar": "A-아요/어요",
+      "example": "날씨가 좋아요.",
+      "translation": "Thời tiết đẹp.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 39,
+      "title": "Sắp xếp câu",
+      "theme": 38,
+      "grammar": "V-았/었어요",
+      "example": "어제 공부했어요.",
+      "translation": "Hôm qua tôi đã học.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 40,
+      "title": "Đọc đoạn dài",
+      "theme": 39,
+      "grammar": "Ôn trạng từ",
+      "example": "매일 공부해요.",
+      "translation": "Tôi học mỗi ngày.",
+      "phase": "Luyện kỹ năng",
+      "exam": false
+    },
+    {
+      "day": 41,
+      "title": "Luyện tốc độ",
+      "theme": 40,
+      "grammar": "V-(으)ㄹ 거예요",
+      "example": "내일 여행할 거예요.",
+      "translation": "Ngày mai tôi sẽ đi du lịch.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 42,
+      "title": "Đề tổng hợp",
+      "theme": 41,
+      "grammar": "V-고 싶어요",
+      "example": "영화를 보고 싶어요.",
+      "translation": "Tôi muốn xem phim.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 43,
+      "title": "Chữa đề số 1",
+      "theme": 34,
+      "grammar": "A/V-아서/어서",
+      "example": "비가 와서 집에 있어요.",
+      "translation": "Vì trời mưa nên tôi ở nhà.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 44,
+      "title": "Luyện điểm yếu nghe",
+      "theme": 28,
+      "grammar": "안 V / V-지 않아요",
+      "example": "오늘 학교에 안 가요.",
+      "translation": "Hôm nay tôi không đến trường.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 45,
+      "title": "Đề tổng hợp số 2",
+      "theme": 35,
+      "grammar": "V-(으)ㄹ 거예요",
+      "example": "내일 여행할 거예요.",
+      "translation": "Ngày mai tôi sẽ đi du lịch.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 46,
+      "title": "Chữa đề số 2",
+      "theme": 34,
+      "grammar": "V-았/었어요",
+      "example": "어제 공부했어요.",
+      "translation": "Hôm qua tôi đã học.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 47,
+      "title": "Luyện điểm yếu đọc",
+      "theme": 39,
+      "grammar": "A/V-지만",
+      "example": "작지만 좋아요.",
+      "translation": "Nhỏ nhưng tốt.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 48,
+      "title": "Đề tổng hợp số 3",
+      "theme": 40,
+      "grammar": "V-(으)ㄹ 수 있어요",
+      "example": "수영할 수 있어요.",
+      "translation": "Tôi có thể bơi.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 49,
+      "title": "Chữa đề số 3",
+      "theme": 41,
+      "grammar": "A/V-아서/어서",
+      "example": "비가 와서 집에 있어요.",
+      "translation": "Vì trời mưa nên tôi ở nhà.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 50,
+      "title": "Đề tổng hợp số 4",
+      "theme": 41,
+      "grammar": "V-(으)ㄹ 거예요",
+      "example": "내일 여행할 거예요.",
+      "translation": "Ngày mai tôi sẽ đi du lịch.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 51,
+      "title": "Chữa đề số 4",
+      "theme": 34,
+      "grammar": "V-았/었어요",
+      "example": "어제 공부했어요.",
+      "translation": "Hôm qua tôi đã học.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 52,
+      "title": "Nghe tăng tốc",
+      "theme": 32,
+      "grammar": "V-고",
+      "example": "밥을 먹고 공부해요.",
+      "translation": "Tôi ăn cơm rồi học.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 53,
+      "title": "Đọc tăng tốc",
+      "theme": 39,
+      "grammar": "A/V-(으)면",
+      "example": "시간이 있으면 가요.",
+      "translation": "Nếu có thời gian tôi sẽ đi.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 54,
+      "title": "Đề tổng hợp số 5",
+      "theme": 41,
+      "grammar": "V-아/어야 해요",
+      "example": "공부해야 해요.",
+      "translation": "Tôi phải học.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 55,
+      "title": "Chữa đề số 5",
+      "theme": 34,
+      "grammar": "Ôn từ nghi vấn",
+      "example": "어디에 가요?",
+      "translation": "Bạn đi đâu?",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 56,
+      "title": "Tổng ôn từ vựng",
+      "theme": 20,
+      "grammar": "N에서",
+      "example": "도서관에서 공부해요.",
+      "translation": "Tôi học ở thư viện.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 57,
+      "title": "Đề tổng hợp số 6",
+      "theme": 41,
+      "grammar": "V-(으)려고 해요",
+      "example": "여행하려고 해요.",
+      "translation": "Tôi định đi du lịch.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 58,
+      "title": "Chữa đề cuối",
+      "theme": 40,
+      "grammar": "Ôn trạng từ",
+      "example": "매일 공부해요.",
+      "translation": "Tôi học mỗi ngày.",
+      "phase": "Luyện đề",
+      "exam": true
+    },
+    {
+      "day": 59,
+      "title": "Ôn mẫu câu trọng tâm",
+      "theme": 21,
+      "grammar": "V-(으)세요",
+      "example": "여기에 앉으세요.",
+      "translation": "Hãy ngồi ở đây.",
+      "phase": "Luyện đề",
+      "exam": false
+    },
+    {
+      "day": 60,
+      "title": "Ôn nhẹ và tự đánh giá",
+      "theme": 6,
+      "grammar": "Ôn câu lịch sự",
+      "example": "감사합니다.",
+      "translation": "Cảm ơn.",
+      "phase": "Luyện đề",
+      "exam": false
+    }
+  ]
+}

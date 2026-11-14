@@ -1,0 +1,1375 @@
+[
+  {
+    "id": 1,
+    "title": "고 (Và – nối 2 động/tính từ)",
+    "meaning": "Và – nối 2 động/tính từ",
+    "examples": [
+      [
+        "그녀는 예쁘고 마음도 착하다.",
+        "Cô ấy đẹp và cũng có tấm lòng nhân hậu"
+      ]
+    ]
+  },
+  {
+    "id": 2,
+    "title": "지만 (Nhưng ,tuy nhưng)",
+    "meaning": "Nhưng ,tuy nhưng",
+    "examples": [
+      [
+        "이 음식은 맛은 없지만 건강에 좋다.",
+        "Món ăn này không ngon nhưng tốt cho sức khỏe"
+      ]
+    ]
+  },
+  {
+    "id": 3,
+    "title": "(아)서 (cuối câu liên kết biểu hiện quan hệ trước sau của thời gian. Nghĩa là: (Và, Rồi)",
+    "meaning": "Và, Rồi",
+    "examples": [
+      [
+        "학교에 가서 공부를 하세요",
+        "Hãy đến trường và học tập nhé"
+      ]
+    ]
+  },
+  {
+    "id": 4,
+    "title": "(아)서 (Vì)",
+    "meaning": "Vì",
+    "examples": [
+      [
+        "제가 늦게 와서 죄송합니다",
+        "Xin lỗi vì tôi đã đến muộn"
+      ]
+    ]
+  },
+  {
+    "id": 5,
+    "title": "아 (Vì)",
+    "meaning": "Vì",
+    "examples": [
+      [
+        "나는 그 물건이 좋아 샀다",
+        "Tôi đã mua món đồ đó vì cảm thấy thích nó"
+      ]
+    ]
+  },
+  {
+    "id": 6,
+    "title": "(으)니까 (Bởi vì ,vì)",
+    "meaning": "Bởi vì ,vì",
+    "examples": [
+      [
+        "화를 내니까 병이 생겼네요",
+        "Tôi đã bị bệnh bởi vì quá tức giận"
+      ]
+    ]
+  },
+  {
+    "id": 7,
+    "title": "(으)ㄴ데 (kết nối giữa vế trước và vế sau ,nghĩa Nhưng",
+    "meaning": "(으)ㄴ데 (kết nối giữa vế trước và vế sau ,nghĩa Nhưng",
+    "examples": [
+      [
+        "그것은 좋은데 난 살 수 없어요",
+        "Cái đó tuy tốt nhưng tôi không thể mua nó"
+      ]
+    ]
+  },
+  {
+    "id": 8,
+    "title": "(이)거나 (Hoặc – nối 2 động/ tính từ)",
+    "meaning": "Hoặc – nối 2 động/ tính từ",
+    "examples": [
+      [
+        "그녀는 커피를 마시거나 맥주를 마시거나 한다",
+        "Cô ấy uống cà phê hoặc uống bia"
+      ]
+    ]
+  },
+  {
+    "id": 9,
+    "title": "(으)러 (để)",
+    "meaning": "để",
+    "examples": [
+      [
+        "점심을 먹으러 베트남 식당에 가자",
+        "Chúng ta hãy đến quán ăn(nhà hàng) Việt nam để ăn (dùng )bữa trưa nhé"
+      ]
+    ]
+  },
+  {
+    "id": 10,
+    "title": "(으)려고 (để)",
+    "meaning": "để",
+    "examples": [
+      [
+        "공부하려고 책을 샀지",
+        "Mua sách để học"
+      ]
+    ]
+  },
+  {
+    "id": 11,
+    "title": "(으)면서 (vừa....vừa)",
+    "meaning": "vừa....vừa",
+    "examples": [
+      [
+        "그녀는 전화하면서 화장을 한다",
+        "Cô ấy vừa gọi điện vừa trang điểm"
+      ]
+    ]
+  },
+  {
+    "id": 12,
+    "title": "(이)랑 (cùng với ,với)",
+    "meaning": "cùng với ,với",
+    "examples": [
+      [
+        "나는 너랑 함께 가고 싶다",
+        "Tôi muốn cùng đi với em"
+      ]
+    ]
+  },
+  {
+    "id": 13,
+    "title": "(으)ㄹ까 봐 (hình như,sợ là ,lo là)",
+    "meaning": "hình như,sợ là ,lo là",
+    "examples": [
+      [
+        "그는 비가 올까 봐 우산을 가져갔다",
+        "Anh ấy lo là trời sẽ mưa nên đã mang theo ô đi"
+      ]
+    ]
+  },
+  {
+    "id": 14,
+    "title": "(으)ㄴ 적이 있다 (đã từng)",
+    "meaning": "đã từng",
+    "examples": [
+      [
+        "그 사람은 전에 담배를 피운 적이 있어요",
+        "Người đó lúc trước đã từng hút thuốc lá"
+      ]
+    ]
+  },
+  {
+    "id": 15,
+    "title": "마다 (mỗi ,cứ mỗi)",
+    "meaning": "mỗi ,cứ mỗi",
+    "examples": [
+      [
+        "베트남이 그리워 밤마다 잠을 못 잤다",
+        "Vì nhớ về Việt nam nên mỗi đêm đều không ngủ được"
+      ]
+    ]
+  },
+  {
+    "id": 16,
+    "title": "밖에 (ngoài)",
+    "meaning": "ngoài",
+    "examples": [
+      [
+        "방법은 이것밖에 없다",
+        "Ngoài phương pháp này ra không còn phương pháp nào khác"
+      ]
+    ]
+  },
+  {
+    "id": 17,
+    "title": "(으)면 (nếu ...thì)",
+    "meaning": "nếu ...thì",
+    "examples": [
+      [
+        "시간이 없으면 다음 달에 만나요",
+        "Nếu không có thời gian thì hẹn tháng sau gặp nhau nhé"
+      ]
+    ]
+  },
+  {
+    "id": 18,
+    "title": "마치-처럼 (hình như,như)",
+    "meaning": "hình như,như",
+    "examples": [
+      [
+        "그녀는 마치 공주처럼 예쁘다",
+        "Cô ấy trông xinh đẹp như công chúa"
+      ]
+    ]
+  },
+  {
+    "id": 19,
+    "title": "기 때문에 (bởi vì ,vì)",
+    "meaning": "bởi vì ,vì",
+    "examples": [
+      [
+        "비가 왔기 때문에 저는 잠이 안 왔어요",
+        "Bởi vì trời mưa nên không ngủ được"
+      ]
+    ]
+  },
+  {
+    "id": 20,
+    "title": "(으)ㄹ 것 같다 (hình như)",
+    "meaning": "hình như",
+    "examples": [
+      [
+        "비가 올 것 같다",
+        "Hình như trời sẽ mưa"
+      ]
+    ]
+  },
+  {
+    "id": 21,
+    "title": "(으)려고 하다 (định)",
+    "meaning": "định",
+    "examples": [
+      [
+        "저는 신발을 사려고 해요",
+        "Tôi định mua giày (dép)"
+      ]
+    ]
+  },
+  {
+    "id": 22,
+    "title": "는 게 좋겠다 (thì tốt quá ,tốt lắm ,tốt hơn là)",
+    "meaning": "thì tốt quá ,tốt lắm ,tốt hơn là",
+    "examples": [
+      [
+        "그는 담배를 안 피우는 게 좋겠어요",
+        "Anh ta không hút thuốc lá thì tốt hơn"
+      ]
+    ]
+  },
+  {
+    "id": 23,
+    "title": "처럼 (như)",
+    "meaning": "như",
+    "examples": [
+      [
+        "그녀는 인형처럼 생겼어요",
+        "Cô ấy trông giống như búp bê"
+      ]
+    ]
+  },
+  {
+    "id": 24,
+    "title": "(으)ㄴ 적이 없다 (chưa từng ,chưa bao giờ)",
+    "meaning": "chưa từng ,chưa bao giờ",
+    "examples": [
+      [
+        "저는 그 선생님을 만나본 적이 없어요",
+        "Tôi chưa bao giờ gặp thầy ấy"
+      ]
+    ]
+  },
+  {
+    "id": 25,
+    "title": "(이)나 (những ,tới những)",
+    "meaning": "những ,tới những",
+    "examples": [
+      [
+        "오늘 그는 베트남 차를 세 잔이나 마셨어요",
+        "Hôm nay anh ấy uống tới những 3 cốc trà Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 26,
+    "title": "습니까/ㅂ니까? ,-습니다/ㅂ니다",
+    "meaning": "습니까/ㅂ니까? ,-습니다/ㅂ니다",
+    "examples": [
+      [
+        "이것은 무엇입니까?",
+        "Cái này là cái gì?"
+      ],
+      [
+        "이것은 책상 입니다",
+        "Đây là cái bàn học"
+      ]
+    ]
+  },
+  {
+    "id": 27,
+    "title": "게 (cuối câu nối kết)",
+    "meaning": "cuối câu nối kết",
+    "examples": [
+      [
+        "행복하게 사세요",
+        "Hãy sống hạnh phúc nhé"
+      ]
+    ]
+  },
+  {
+    "id": 28,
+    "title": "기로 하다 (sử dụng khi đã hứa hẹn hay quyết tâm ,quyết định điều gì đó)",
+    "meaning": "sử dụng khi đã hứa hẹn hay quyết tâm ,quyết định điều gì đó",
+    "examples": [
+      [
+        "우리 김밥을 먹기로 해요",
+        "Chúng ta hãy ăn kimbap"
+      ]
+    ]
+  },
+  {
+    "id": 29,
+    "title": "ㅂ시다 (chúng ta hãy......)",
+    "meaning": "chúng ta hãy......",
+    "examples": [
+      [
+        "노래를 부릅시다",
+        "Chúng ta hãy hát"
+      ]
+    ]
+  },
+  {
+    "id": 30,
+    "title": "지요? (Chứ)",
+    "meaning": "Chứ",
+    "examples": []
+  },
+  {
+    "id": 31,
+    "title": "음/ㅁ sự (tiếp vị từ làm danh từ)",
+    "meaning": "tiếp vị từ làm danh từ",
+    "examples": []
+  },
+  {
+    "id": 32,
+    "title": "고말고 (요) (có nghĩa là \"một cách đương nhiên như thế\")",
+    "meaning": "có nghĩa là \"một cách đương nhiên như thế\"",
+    "examples": [
+      [
+        "그 사람은 착해요?착하고말고",
+        "Người đó hiền chứ?Đương nhiên là hiền rồi"
+      ]
+    ]
+  },
+  {
+    "id": 33,
+    "title": "한테서 (từ ai đó)",
+    "meaning": "từ ai đó",
+    "examples": [
+      [
+        "그 이야기를 친구한테서 들었어요",
+        "Tôi đã nghe chuyện đó từ bạn tôi"
+      ]
+    ]
+  },
+  {
+    "id": 34,
+    "title": "기 전에 (trước khi)",
+    "meaning": "trước khi",
+    "examples": [
+      [
+        "밥을 먹기 전에 손을 깨끗이 씻으세요",
+        "Hãy rửa tay sạch trước khi ăn cơm"
+      ]
+    ]
+  },
+  {
+    "id": 35,
+    "title": "아/어서 (và ,rồi ,sau đó",
+    "meaning": "아/어서 (và ,rồi ,sau đó",
+    "examples": []
+  },
+  {
+    "id": 36,
+    "title": "ㄹ(을) 때 (khi)",
+    "meaning": "khi",
+    "examples": [
+      [
+        "길 건널 때 자동차를 조심하세요",
+        "Khi sang đường nhớ cẩn thận xe ô tô"
+      ]
+    ]
+  },
+  {
+    "id": 37,
+    "title": "ㄴ(은) 다음에 (sau khi)",
+    "meaning": "sau khi",
+    "examples": [
+      [
+        "우리는 운동한 다음에 저녁을 먹어요",
+        "Chúng tôi sẽ ăn tối sau khi tập thể dục xong"
+      ]
+    ]
+  },
+  {
+    "id": 38,
+    "title": "고 있다 đang (thì hiện tại tiếp diễn)",
+    "meaning": "thì hiện tại tiếp diễn",
+    "examples": [
+      [
+        "저는 텔레비전을 보고 있어요",
+        "Tôi đang xem tivi"
+      ]
+    ]
+  },
+  {
+    "id": 39,
+    "title": "이/가 아니에요 không phải đâu...(dạng phủ định)",
+    "meaning": "dạng phủ định",
+    "examples": [
+      [
+        "언니 탓이 아니에요",
+        "Không phải lỗi tại chị đâu"
+      ]
+    ]
+  },
+  {
+    "id": 40,
+    "title": "아/어 봤어요 (đã...rồi)",
+    "meaning": "đã...rồi",
+    "examples": [
+      [
+        "특선요리가 어때요?전에 먹어 봤는데 ,괜찮아요",
+        "Cảm thấy món ăn đặc biệt như thế nào?Lần trước tôi đã ăn rồi ,cũng được đấy."
+      ]
+    ]
+  },
+  {
+    "id": 41,
+    "title": "아/어 보세요 (hãy thử)",
+    "meaning": "hãy thử",
+    "examples": [
+      [
+        "베트남 노래를 불러 보세요",
+        "Hãy thử hát nhạc Việt nam nhé"
+      ]
+    ]
+  },
+  {
+    "id": 42,
+    "title": "네요(cuối câu kết thúc đơn thuần hoặc cuối câu kết thúc có ý định của cảm thán)",
+    "meaning": "cuối câu kết thúc đơn thuần hoặc cuối câu kết thúc có ý định của cảm thán",
+    "examples": [
+      [
+        "옷이 예쁘네요",
+        "Áo chị đẹp quá"
+      ]
+    ]
+  },
+  {
+    "id": 43,
+    "title": "이/가 어떻게 되죠? (Thế nào?)",
+    "meaning": "Thế nào?",
+    "examples": [
+      [
+        "지원 절차가 어떻게 돼요?",
+        "Thủ tục dự tuyển thế nào hả?"
+      ]
+    ]
+  },
+  {
+    "id": 44,
+    "title": "아/어도 돼요? (Có được không?)",
+    "meaning": "Có được không?",
+    "examples": [
+      [
+        "나 고양이를 만져 봐도 돼요?",
+        "Sờ thử con mèo này có được không?"
+      ]
+    ]
+  },
+  {
+    "id": 45,
+    "title": "(으)ㄴ후에 (sau khi)",
+    "meaning": "sau khi",
+    "examples": [
+      [
+        "공부가 끝난 후에 우린 만납시다",
+        "Sau khi tan học chúng ta hãy gặp nhau nhé"
+      ]
+    ]
+  },
+  {
+    "id": 46,
+    "title": "아/어야 돼요(phải)",
+    "meaning": "phải",
+    "examples": [
+      [
+        "언제까지 해야 돼요?",
+        "Phải làm đến khi nào ạ?"
+      ]
+    ]
+  },
+  {
+    "id": 47,
+    "title": "게 해요 (làm cho)",
+    "meaning": "làm cho",
+    "examples": [
+      [
+        "그는 나를 화나게 해요",
+        "Anh ấy làm cho tôi giận"
+      ]
+    ]
+  },
+  {
+    "id": 48,
+    "title": "보다 (hơn)",
+    "meaning": "hơn",
+    "examples": [
+      [
+        "그는 나이보다 젊다",
+        "Anh ấy trông trẻ hơn tuổi"
+      ]
+    ]
+  },
+  {
+    "id": 49,
+    "title": "(으)면 좋겠어요(nếu....thì tốt)",
+    "meaning": "nếu....thì tốt",
+    "examples": [
+      [
+        "어떻게 하면 좋겠어요?",
+        "Làm thế nào thì tốt?"
+      ]
+    ]
+  },
+  {
+    "id": 50,
+    "title": "아/어 보여요(có vẻ)",
+    "meaning": "có vẻ",
+    "examples": [
+      [
+        "그것은 맛없어 보여요",
+        "Cái đó có vẻ không ngon"
+      ]
+    ]
+  },
+  {
+    "id": 51,
+    "title": "는 게 좋겠어요(....sẽ tốt hơn)",
+    "meaning": "....sẽ tốt hơn",
+    "examples": [
+      [
+        "그렇게 하는 게 좋겠어요",
+        "Làm như thế sẽ tốt hơn"
+      ]
+    ]
+  },
+  {
+    "id": 52,
+    "title": "이/가 좋겠어요(....là tốt hơn)",
+    "meaning": "....là tốt hơn",
+    "examples": [
+      [
+        "여행을 갈 것이라면 베트남이 좋겠어요.",
+        "Nếu muốn đi du lịch thì đi Việt nam thì tốt hơn."
+      ]
+    ]
+  },
+  {
+    "id": 53,
+    "title": "(으)시 (sử dụng bằng lời nói kính trọng)",
+    "meaning": "sử dụng bằng lời nói kính trọng",
+    "examples": [
+      [
+        "선생님께서 한국어를 가르치 십니다",
+        "Thầy dạy tiếng Hàn quốc"
+      ]
+    ]
+  },
+  {
+    "id": 54,
+    "title": "은/는 어때요? (....thế nào?)",
+    "meaning": "....thế nào?",
+    "examples": [
+      [
+        "술 맛이 어때요?",
+        "Vị của rượu như thế nào?"
+      ]
+    ]
+  },
+  {
+    "id": 55,
+    "title": "아 /어야겠어요 (sẽ phải)",
+    "meaning": "sẽ phải",
+    "examples": [
+      [
+        "집안이 더러워요.저는 청소를 해야겠어요",
+        "Nhà dơ quá.Nên tôi sẽ phải dọn dẹp"
+      ]
+    ]
+  },
+  {
+    "id": 56,
+    "title": "(으)십시오 (sử dụng khi dùng kính ngữ)",
+    "meaning": "sử dụng khi dùng kính ngữ",
+    "examples": [
+      [
+        "안녕히 주무십시오",
+        "Chúc ngủ ngon ạ"
+      ]
+    ]
+  },
+  {
+    "id": 57,
+    "title": "(으)ㄹ 거예요 (sẽ)",
+    "meaning": "sẽ",
+    "examples": [
+      [
+        "우리 어디로 갈 거예요?",
+        "Chúng ta sẽ đi đâu?"
+      ]
+    ]
+  },
+  {
+    "id": 58,
+    "title": "(으)ㄴ/는 ,(으)ㄹ (sử dụng khi cụ thể hoá ý nghĩa của danh từ)",
+    "meaning": "sử dụng khi cụ thể hoá ý nghĩa của danh từ",
+    "examples": [
+      [
+        "요즘 누나는 재밌는 영화 본 거 있으세요?",
+        "Dạo này có phim gì chị xem thấy hay không ?"
+      ]
+    ]
+  },
+  {
+    "id": 59,
+    "title": "(은)ㄴ/는데 (sử dụng khi trình bày tình hình và bối cảnh phản hồi trái ngược của vế trước và vế sau :muốn ,nhưng ,chính vì)",
+    "meaning": "sử dụng khi trình bày tình hình và bối cảnh phản hồi trái ngược của vế trước và vế sau :muốn ,nhưng ,chính vì",
+    "examples": [
+      [
+        "그녀는 예쁜데 성격이 안 좋아요",
+        "Cô ấy đẹp nhưng tính cách không tốt"
+      ]
+    ]
+  },
+  {
+    "id": 60,
+    "title": "아/어 봤다 (....từng ....)",
+    "meaning": "....từng ....",
+    "examples": [
+      [
+        "저는 베트남에 살아 봤어요",
+        "Tôi đã từng sống ở Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 61,
+    "title": "아/어도 돼요? (....có được không?)",
+    "meaning": "....có được không?",
+    "examples": [
+      [
+        "제가 이것을 먹어도 돼요?",
+        "Tôi có thể ăn cái này có được không?"
+      ]
+    ]
+  },
+  {
+    "id": 62,
+    "title": "고 싶어 하다 (muốn...)",
+    "meaning": "muốn...",
+    "examples": [
+      [
+        "그들은 베트남에 가고 싶어 해요",
+        "Họ mượn đến việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 63,
+    "title": "고 싶다 (muốn...)",
+    "meaning": "muốn...",
+    "examples": [
+      [
+        "저는 베트남에서 살고 싶어요",
+        "Tôi muốn sống ở Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 64,
+    "title": "고 있다 (đang ...)",
+    "meaning": "đang ...",
+    "examples": [
+      [
+        "저는 지금 자고 있어요",
+        "Bây giờ tôi đang ngủ"
+      ]
+    ]
+  },
+  {
+    "id": 65,
+    "title": "는 중이다 (đang ....)",
+    "meaning": "đang ....",
+    "examples": [
+      [
+        "저는 공부하는 중이에요",
+        "Tôi đang học bài"
+      ]
+    ]
+  },
+  {
+    "id": 66,
+    "title": "에/에서 (từ, ở tại)",
+    "meaning": "từ, ở tại",
+    "examples": [
+      [
+        "저는 학교에서 오는 길이에요",
+        "Tôi đang trên đường từ trường học về"
+      ]
+    ]
+  },
+  {
+    "id": 67,
+    "title": "지 말아야 하다 /-지 않아야 하다 (không nên,phải không nên...",
+    "meaning": "지 말아야 하다 /-지 않아야 하다 (không nên,phải không nên...",
+    "examples": [
+      [
+        "우리는 술을 많이 마시지 말아야 합니다",
+        "Chúng ta không nên uống rượu nhiều"
+      ],
+      [
+        "화를 너무 많이 내지 않아야 합니다",
+        "Không nên tức giận quá nhiều"
+      ]
+    ]
+  },
+  {
+    "id": 68,
+    "title": "러 가다 /오다 (đi/đến.....để....)",
+    "meaning": "đi/đến.....để....",
+    "examples": [
+      [
+        "베트남어를 배우러 베트남에 갈 거예요",
+        "Tôi sẽ đến Việt nam để học tiếng Việt"
+      ]
+    ]
+  },
+  {
+    "id": 69,
+    "title": "지 못하다 (không thể...)",
+    "meaning": "không thể...",
+    "examples": [
+      [
+        "오늘 학교에 가지 못했어요",
+        "Hôm nay tôi đã không thể để trường"
+      ]
+    ]
+  },
+  {
+    "id": 70,
+    "title": "ㄹ 수(가) 있다 /없다 (có thể.../không thể)",
+    "meaning": "có thể.../không thể",
+    "examples": [
+      [
+        "이 음식은 먹을 수 있어요?",
+        "Món ăn này có thể ăn được không vậy?"
+      ]
+    ]
+  },
+  {
+    "id": 71,
+    "title": "Danh từ + 같아 보이다 (trông giống như)",
+    "meaning": "trông giống như",
+    "examples": [
+      [
+        "그는 선생님 같아 보여요",
+        "Anh ấy trông giống thầy giáo"
+      ]
+    ]
+  },
+  {
+    "id": 72,
+    "title": "것 같다/ 듯하다 (hình như,giống như,...thì phải)",
+    "meaning": "hình như,giống như,...thì phải",
+    "examples": [
+      [
+        "그 분은 베트남 사람인 것 같아요",
+        "Anh ta hình như là người Việt nam thì phải"
+      ]
+    ]
+  },
+  {
+    "id": 73,
+    "title": "Danh từ + 때문에 (vì...nên)",
+    "meaning": "vì...nên",
+    "examples": [
+      [
+        "한국어 때문에 그 분은 성공했어요",
+        "Vì nhờ vào tiếng Hàn Quốc nên anh ấy đã thành công."
+      ]
+    ]
+  },
+  {
+    "id": 74,
+    "title": "Dạng mệnh lệnh: 세요 (hãy)",
+    "meaning": "hãy",
+    "examples": [
+      [
+        "저리 가세요.",
+        "Hãy đi lại đằng kia"
+      ],
+      [
+        "숙제 하세요.",
+        "Hãy làm bài tập"
+      ]
+    ]
+  },
+  {
+    "id": 75,
+    "title": "는 중이다 (đang làm cái gì đó ,đang trong lúc.....)",
+    "meaning": "đang làm cái gì đó ,đang trong lúc.....",
+    "examples": [
+      [
+        "지금 페이스북에 있는 중이에요.",
+        "Bây giờ tôi đang lên Facebook"
+      ]
+    ]
+  },
+  {
+    "id": 76,
+    "title": "(으)라고 하다 (hãy nói/bảo rằng)",
+    "meaning": "hãy nói/bảo rằng",
+    "examples": [
+      [
+        "그 직원한테 내 사무실로 오라고 하세요.",
+        "Hãy bảo nhân viên ấy đến văn phòng của tôi"
+      ]
+    ]
+  },
+  {
+    "id": 77,
+    "title": "고 있는 동안에 (trong khi /lúc)",
+    "meaning": "trong khi /lúc",
+    "examples": [
+      [
+        "자고 있는 동안에 그가 왔어요",
+        "Anh ấy đã đến trong lúc tôi đang ngủ"
+      ]
+    ]
+  },
+  {
+    "id": 78,
+    "title": "ㄹ + Danh từ (để)",
+    "meaning": "để",
+    "examples": [
+      [
+        "요즘 쉴 시간이 없어요",
+        "Dạo này tôi không có thời gian để nghĩ ngơi"
+      ]
+    ]
+  },
+  {
+    "id": 79,
+    "title": "ㄹ까요? (Chúng ta sẽ ...chứ)",
+    "meaning": "Chúng ta sẽ ...chứ",
+    "examples": [
+      [
+        "식당에 갈까요?",
+        "Chúng ta sẽ đi nhà hàng (quán ăn ) chứ?"
+      ]
+    ]
+  },
+  {
+    "id": 80,
+    "title": "ㄹ 거다 (có lẽ ....sẽ)",
+    "meaning": "có lẽ ....sẽ",
+    "examples": [
+      [
+        "오늘 그 선생님이 오실 거예요",
+        "Hôm nay có lẽ thầy ấy sẽ đến"
+      ]
+    ]
+  },
+  {
+    "id": 81,
+    "title": "ㄹ까 하다 (đang định ,tôi đang nghĩ tới việc)",
+    "meaning": "đang định ,tôi đang nghĩ tới việc",
+    "examples": [
+      [
+        "그 바지를 살까 해요",
+        "Tôi đang định mua cái quần đó"
+      ]
+    ]
+  },
+  {
+    "id": 82,
+    "title": "면 안 되다 (nếu...thì không được )",
+    "meaning": "nếu...thì không được ",
+    "examples": [
+      [
+        "저는 술을 마시면 안돼요",
+        "Nếu tôi uống rượu thì không thể được"
+      ]
+    ]
+  },
+  {
+    "id": 83,
+    "title": "면 되다 (nếu ...thì được)",
+    "meaning": "nếu ...thì được",
+    "examples": [
+      [
+        "학교에 몇 시까지 가면 돼요?",
+        "Khoảng mấy giờ tôi đến trường thì được ?"
+      ]
+    ]
+  },
+  {
+    "id": 84,
+    "title": "ㄹ 줄 알다 (biết cách làm gì đó....)",
+    "meaning": "biết cách làm gì đó....",
+    "examples": [
+      [
+        "그녀는 운전할 줄 알아요",
+        "Cô ấy biết cách lái xe"
+      ]
+    ]
+  },
+  {
+    "id": 85,
+    "title": "ㄹ 때 (khi /lúc )",
+    "meaning": "khi /lúc ",
+    "examples": [
+      [
+        "밥 먹을 때 전화하지 마세요",
+        "Đừng gọi điện thoại khi ăn cơm"
+      ]
+    ]
+  },
+  {
+    "id": 86,
+    "title": "보다 ....더 (...hơn.....)",
+    "meaning": "...hơn.....",
+    "examples": [
+      [
+        "저는 베트남 음식보다 한국 음식이 더 좋아요",
+        "Tôi thích món ăn Hàn quốc hơn món ăn Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 87,
+    "title": "지 마세요 (đừng ,hãy đừng)",
+    "meaning": "đừng ,hãy đừng",
+    "examples": [
+      [
+        "오늘은 일하지 마세요",
+        "Hôm nay đừng làm việc (đừng đi làm)"
+      ]
+    ]
+  },
+  {
+    "id": 88,
+    "title": "던데요 (tôi được biết rằng ...)",
+    "meaning": "tôi được biết rằng ...",
+    "examples": [
+      [
+        "베트남은 너무 아름답던데요",
+        "Tôi được biết rằng Việt nam rất là đẹp"
+      ]
+    ]
+  },
+  {
+    "id": 89,
+    "title": "지 말까요? (Chúng ta sẽ đừng /không .....chứ /nhé?)",
+    "meaning": "Chúng ta sẽ đừng /không .....chứ /nhé?",
+    "examples": [
+      [
+        "이 옷을 사지 말까요?",
+        "Chúng ta sẽ không mua chiếc áo này chứ?"
+      ]
+    ]
+  },
+  {
+    "id": 90,
+    "title": "던가요? (Có phải không ?)",
+    "meaning": "Có phải không ?",
+    "examples": [
+      [
+        "베트남이 너무 덥던가요?",
+        "Việt nam rất nóngphải không?"
+      ]
+    ]
+  },
+  {
+    "id": 91,
+    "title": "아/어도 (dù/cho dù,dù là)",
+    "meaning": "dù/cho dù,dù là",
+    "examples": [
+      [
+        "아무리 늦어도 9시까지는 집에 돌아와야 해요",
+        "Cho dù có muộn mấy thì 9 giờ cũng phải về nhà"
+      ]
+    ]
+  },
+  {
+    "id": 92,
+    "title": "입니까?(có phải là không?)",
+    "meaning": "có phải là không?",
+    "examples": [
+      [
+        "당신은 김 선생님입니까?",
+        "Anh có phải là thầy Kim không ?"
+      ]
+    ]
+  },
+  {
+    "id": 93,
+    "title": "지 맙시다 (chúng ta hãy đừng ...)",
+    "meaning": "chúng ta hãy đừng ...",
+    "examples": [
+      [
+        "이번에는 술을 많이 마시지 맙시다",
+        "Lần này chúng ta hãy đừng uống rượu nhiều nhé"
+      ]
+    ]
+  },
+  {
+    "id": 94,
+    "title": "입니다 (là ,từ tôn kính của \"이다\"",
+    "meaning": "입니다 (là ,từ tôn kính của \"이다\"",
+    "examples": [
+      [
+        "저는 학생입니다",
+        "Tôi là học sinh"
+      ]
+    ]
+  },
+  {
+    "id": 95,
+    "title": "가 /이 (trợ từ chủ ngữ (cách)",
+    "meaning": "cách",
+    "examples": [
+      [
+        "여름이 왔어요",
+        "Mùa hè đã đến"
+      ],
+      [
+        "Kim Chi 가 식당에 있어요",
+        "Kim Chi có ở nhà hàng."
+      ]
+    ]
+  },
+  {
+    "id": 96,
+    "title": "은/는 (trợ từ chủ ngữ)",
+    "meaning": "trợ từ chủ ngữ",
+    "examples": [
+      [
+        "저는 베트남인 이에요",
+        "Tôi là người Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 97,
+    "title": "니까 (vì ,bởi vì)",
+    "meaning": "vì ,bởi vì",
+    "examples": [
+      [
+        "오늘은 너무 피곤하니까 빨리 잡시다",
+        "Vì hôm nay mệt quá chúng ta hãy ngủ sớm nhé"
+      ]
+    ]
+  },
+  {
+    "id": 98,
+    "title": "(으)면 (nếu ...thì)",
+    "meaning": "nếu ...thì",
+    "examples": [
+      [
+        "오른쪽으로 가면 우체국이 보여요",
+        "Nếu đi về phía bên phải thì sẽ nhìn thấy bưu điện"
+      ]
+    ]
+  },
+  {
+    "id": 99,
+    "title": "(으)ㄹ 때 (khi)",
+    "meaning": "khi",
+    "examples": [
+      [
+        "저는 잘 때 무서운 꿈을 꿔요",
+        "Tôi đã mơ thấy ác mộng khi ngủ"
+      ]
+    ]
+  },
+  {
+    "id": 100,
+    "title": "(으)ㄴ 다음에 /후에 (sau khi)",
+    "meaning": "sau khi",
+    "examples": [
+      [
+        "술 깬 다음에 집에 가세요",
+        "Sau khi tỉnh rượu hãy đi về nhà nhé"
+      ],
+      [
+        "숙제를 한 후에 놀아라",
+        "Sau khi làm bài tập xong hãy chơi nhé"
+      ]
+    ]
+  },
+  {
+    "id": 101,
+    "title": "기 전에 (trước khi)",
+    "meaning": "trước khi",
+    "examples": [
+      [
+        "해가 지기 전에 집에 돌아가세요",
+        "Trước khi mặt trời lặng hãy về nhà nhé"
+      ]
+    ]
+  },
+  {
+    "id": 102,
+    "title": "(으)세요 (hãy,sử dụng khi ra mệnh lệnh hoặc khuyên đối phương)",
+    "meaning": "hãy,sử dụng khi ra mệnh lệnh hoặc khuyên đối phương",
+    "examples": [
+      [
+        "오른쪽으로 가세요",
+        "Hãy đi về hướng bên phải"
+      ],
+      [
+        "내일은 꼭 일찍 오세요",
+        "Ngày mai nhất định phải đến sớm nhé"
+      ]
+    ]
+  },
+  {
+    "id": 103,
+    "title": "아/어 주세요 (Hãy...) (câu cầu khiến)",
+    "meaning": "câu cầu khiến",
+    "examples": [
+      [
+        "제 동생을 찾아 주세요",
+        "Hãy tìm em giúp tôi"
+      ],
+      [
+        "기다려 주세요",
+        "Hãy chờ tôi nhé"
+      ]
+    ]
+  },
+  {
+    "id": 104,
+    "title": "(으)ㄹ 수 있다 (có thể)",
+    "meaning": "có thể",
+    "examples": [
+      [
+        "나는 베트남어를 할 수 있어요",
+        "Tôi có thể nói tiếng Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 105,
+    "title": "았으면/었으면 좋겠다 (giá mà/nếu....thì tốt quá/tôi ước rằng)",
+    "meaning": "giá mà/nếu....thì tốt quá/tôi ước rằng",
+    "examples": [
+      [
+        "친구가 많았으면 좋겠어요",
+        "Ước gì tôi có nhiều bạn"
+      ],
+      [
+        "오늘은 집에서 쉬었으면 좋겠습니다",
+        "Giá mà hôm nay được nghĩ ở nhà thì tốt quá"
+      ]
+    ]
+  },
+  {
+    "id": 106,
+    "title": "우리...(으)ㄹ까요? (Chúng ta...sẽ...chứ?)",
+    "meaning": "Chúng ta...sẽ...chứ?",
+    "examples": [
+      [
+        "우리 베트남에 갈까요?",
+        "Chúng ta sẽ đi về Việt nam chứ?"
+      ],
+      [
+        "우리 아이스크림 먹을까요?",
+        "Chúng ta hãy ăn kem nhé?"
+      ]
+    ]
+  },
+  {
+    "id": 107,
+    "title": "았/었어요 (đã ,sử dụng khi biểu hiện việc hoặc trạng thái của quá khứ)",
+    "meaning": "đã ,sử dụng khi biểu hiện việc hoặc trạng thái của quá khứ",
+    "examples": [
+      [
+        "어제 저는 베트남 사람을 만났어요",
+        "Hôm qua tôi đã gặp người Việt nam"
+      ],
+      [
+        "지난주에 저는 쌀국수를 먹었어요",
+        "Tuần rồi tôi đã ăn phở Việt nam"
+      ]
+    ]
+  },
+  {
+    "id": 108,
+    "title": "겠 (chắc là)",
+    "meaning": "chắc là",
+    "examples": [
+      [
+        "아이가 밥을 먹었겠지",
+        "Chắc là đứa bé đã ăn cơm rồi"
+      ]
+    ]
+  },
+  {
+    "id": 109,
+    "title": "아/어요 (cuối câu)",
+    "meaning": "cuối câu",
+    "examples": [
+      [
+        "아이가 울어요",
+        "Đứa bé khóc"
+      ]
+    ]
+  },
+  {
+    "id": 110,
+    "title": "V-하고있다. đang ,đang làm gì",
+    "meaning": "V-하고있다. đang ,đang làm gì",
+    "examples": [
+      [
+        "그는 뭐 하고 있어요?",
+        "Ông ấy đang làm gì ?"
+      ],
+      [
+        "그는 텔레비전을 보고 있습니다.",
+        "Ông ấy đang xem ti vi"
+      ],
+      [
+        "그는 뭐 하고 있어요?",
+        "Anh ấy đang làm gì ?"
+      ]
+    ]
+  },
+  {
+    "id": 111,
+    "title": "V~할 것이다/ ~하겠다/(으)ㄹ 거 예요.",
+    "meaning": "V~할 것이다/ ~하겠다/(으)ㄹ 거 예요.",
+    "examples": [
+      [
+        "내일 무엇을 할 것입니까?",
+        "Ngày mai anh sẽ làm gì?"
+      ],
+      [
+        "내일 나는 고향에 내려갈 것입니다.",
+        "Ngày mai tôi sẽ đi về quê"
+      ],
+      [
+        "토요일 주녁에 어디에 갑니까?",
+        "Tối thứ bảy chị sẽ đi đâu?"
+      ]
+    ]
+  },
+  {
+    "id": 112,
+    "title": "Đã (~았/었/였다)",
+    "meaning": "~았/었/였다",
+    "examples": [
+      [
+        "어제 뭐 했어요?",
+        "Hôm qua anh đã làm gì?"
+      ],
+      [
+        "숙제를 했어요?",
+        "Anh đã làm bài tập chưa?"
+      ],
+      [
+        "나는 그를 만났다",
+        "Tôi đã gặp anh ấy rồi"
+      ]
+    ]
+  },
+  {
+    "id": 113,
+    "title": "(으)ㄹ 필요가 있다 /없다 (cần thiết/Ko cần thiết phải làm gì ...)",
+    "meaning": "cần thiết/Ko cần thiết phải làm gì ...",
+    "examples": [
+      [
+        "그 사람을 도와줄 필요가 있어요",
+        "Cần thiết phải giúp đỡ người đó"
+      ]
+    ]
+  },
+  {
+    "id": 114,
+    "title": "안 -ㄹ 수(가) 없다/ 지 않을 수 (가) 없다 (Ko thể Ko...)",
+    "meaning": "Ko thể Ko...",
+    "examples": [
+      [
+        "저는 공부를 하지 않을 수 없어요",
+        "Tôi không thể không học"
+      ]
+    ]
+  },
+  {
+    "id": 115,
+    "title": "길래 (vì)",
+    "meaning": "vì",
+    "examples": [
+      [
+        "모자가 싸길래 샀다",
+        "Vì nón (mũ) bán rẻ nên đã mua"
+      ]
+    ]
+  },
+  {
+    "id": 116,
+    "title": "에다가 (ở)/ (sd khi muốn nói thêm 1 sự việc ,vật gì đó ngoài cái có sẵn)",
+    "meaning": "sd khi muốn nói thêm 1 sự việc ,vật gì đó ngoài cái có sẵn",
+    "examples": [
+      [
+        "이것을 어디에다가 둘까요?",
+        "Cái này để ở đâu?"
+      ],
+      [
+        "이번 달은 월급에다가 상여금까지 받는다",
+        "Tháng này ngoài tiền lương ra đã nhận thêm cả tiền thưởng"
+      ]
+    ]
+  },
+  {
+    "id": 117,
+    "title": "다가는 (thì)",
+    "meaning": "thì",
+    "examples": [
+      [
+        "네가 그한테 실수를 하다가는 믿음을 잃을 수 있다",
+        "Nếu em sai lầm thì có thể khiến anh ấy mất đi niềm tin vào em"
+      ]
+    ]
+  },
+  {
+    "id": 118,
+    "title": "든지 (dù,cho dù)",
+    "meaning": "dù,cho dù",
+    "examples": [
+      [
+        "어디를 가든지 행복하세요",
+        "Dù anh đi đâu cũng hãy hạnh phúc nhé"
+      ]
+    ]
+  },
+  {
+    "id": 119,
+    "title": "든지 (hoặc)",
+    "meaning": "hoặc",
+    "examples": [
+      [
+        "밥을 먹든지 빵을 먹든지 하세요",
+        "Hãy dùng cơm hoặc dùng bánh"
+      ]
+    ]
+  },
+  {
+    "id": 120,
+    "title": "-(으)ㄹ]지경(이다): Đến mức",
+    "meaning": "-(으)ㄹ]지경(이다): Đến mức",
+    "examples": [
+      [
+        "나는 그리워 죽을 지경이다",
+        "Tôi nhớ đến mức muốn chết đi được"
+      ]
+    ]
+  }
+]

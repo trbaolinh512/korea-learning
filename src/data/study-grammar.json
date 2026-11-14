@@ -1,0 +1,732 @@
+[
+  {
+    "id": 1,
+    "title": "N은/는 N이에요/예요",
+    "meaning": "Giới thiệu chủ đề và nói “là”.",
+    "formula": "Trong N1은/는 N2이에요/예요: xét N1 để chọn 은/는; xét N2 để chọn 이에요/예요. Âm tiết cuối của từng danh từ quyết định có 받침 hay không.",
+    "usage": "은/는 đánh dấu điều đang nói tới. 이에요/예요 gắn trực tiếp sau danh từ để xác định người, vật hoặc nghề nghiệp; đây là cách nói lịch sự trong hội thoại.",
+    "note": "Không thêm 이/가 giữa danh từ và 이에요/예요. Dạng phủ định là N이/가 아니에요.",
+    "examples": [
+      {
+        "ko": "저는 학생이에요.",
+        "vi": "Tôi là học sinh.",
+        "explanation": "저 (tôi) + 는 nêu chủ đề; âm tiết cuối của 학생 là 생, có 받침 ㅇ nên dùng 이에요."
+      },
+      {
+        "ko": "민수는 의사예요.",
+        "vi": "Minsu là bác sĩ.",
+        "explanation": "민수 không có 받침 nên đi với 는; 의사 kết thúc bằng nguyên âm nên thêm 예요."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      1,
+      2
+    ]
+  },
+  {
+    "id": 2,
+    "title": "N이/가 있어요 / 없어요",
+    "meaning": "Nói có, không có hoặc tồn tại ở đâu.",
+    "formula": "N có 받침 + 이; N không có 받침 + 가; sau đó dùng 있어요 / 없어요.",
+    "usage": "이/가 xác định đối tượng tồn tại. 있어요 diễn tả có hoặc ở một nơi; 없어요 diễn tả không có. Người sở hữu thường là chủ đề với 은/는.",
+    "note": "Trong mẫu cơ bản chỉ nơi tồn tại, dùng 에: 집에 있어요. 에서 thường chỉ nơi diễn ra hành động; không hiểu đây là quy tắc cấm 에서 trong mọi câu có 있다.",
+    "examples": [
+      {
+        "ko": "동생이 있어요.",
+        "vi": "Tôi có em.",
+        "explanation": "동생 có 받침 ㅇ nên dùng 이; 있어요 diễn tả có người em."
+      },
+      {
+        "ko": "집에 고양이가 없어요.",
+        "vi": "Ở nhà không có mèo.",
+        "explanation": "집에 nêu nơi tồn tại; 고양이 không có 받침 ở âm tiết cuối nên thêm 가; 없어요 phủ định sự có mặt."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      1,
+      3
+    ]
+  },
+  {
+    "id": 3,
+    "title": "이/그/저 + N",
+    "meaning": "Chỉ người hoặc vật này, đó, kia.",
+    "formula": "이 + N: gần người nói; 그 + N: gần người nghe/đã nhắc; 저 + N: xa cả hai.",
+    "usage": "Các từ chỉ định đứng trước danh từ và viết cách danh từ. 이것/그것/저것 là dạng thay cho cả cụm “vật này/đó/kia”.",
+    "note": "Phân biệt 저 (tôi, khiêm nhường) với 저 đứng trước danh từ mang nghĩa “kia”; dựa vào vị trí trong câu.",
+    "examples": [
+      {
+        "ko": "이 책은 한국어 책이에요.",
+        "vi": "Quyển sách này là sách tiếng Hàn.",
+        "explanation": "이 bổ nghĩa cho 책. 은 nêu chủ đề; 책 có 받침 nên cuối câu dùng 이에요."
+      },
+      {
+        "ko": "저 사람은 선생님이에요.",
+        "vi": "Người kia là giáo viên.",
+        "explanation": "저 chỉ người ở xa cả người nói và người nghe; 사람은 là chủ đề, 선생님이에요 xác định nghề nghiệp."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "title": "N을/를",
+    "meaning": "Đánh dấu tân ngữ của hành động.",
+    "formula": "N có 받침 + 을; N không có 받침 + 를.",
+    "usage": "Gắn sau danh từ chịu tác động trực tiếp của động từ, thường trả lời câu hỏi làm gì, ăn gì, đọc gì. Trật tự cơ bản: chủ đề + tân ngữ + động từ.",
+    "note": "Không dùng 을/를 với 있다/없다 để chỉ vật đang có. Khi đó dùng 이/가.",
+    "examples": [
+      {
+        "ko": "책을 읽어요.",
+        "vi": "Tôi đọc sách.",
+        "explanation": "책 là vật được đọc và có 받침 ㄱ nên thêm 을; 읽어요 là hành động đọc."
+      },
+      {
+        "ko": "한국어를 공부해요.",
+        "vi": "Tôi học tiếng Hàn.",
+        "explanation": "한국어 không có 받침 nên dùng 를; 공부하다 được chia lịch sự thành 공부해요."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      7
+    ]
+  },
+  {
+    "id": 5,
+    "title": "V/A아/어요",
+    "meaning": "Nói hành động hoặc trạng thái ở thể lịch sự thông dụng.",
+    "formula": "Bỏ 다; gốc có nguyên âm cuối ㅏ/ㅗ → 아요; phần lớn còn lại → 어요; 하다 → 해요.",
+    "usage": "Dùng trong hội thoại hằng ngày với người chưa thân. Cùng dạng câu này có thể dùng để hỏi bằng cách lên giọng hoặc thêm dấu hỏi.",
+    "note": "Các dạng 가다 → 가요, 오다 → 와요, 마시다 → 마셔요 là rút gọn, không phải ba ví dụ bất quy tắc. Ngoài ra còn có biến đổi riêng như 듣다 → 들어요, 돕다 → 도와요; cần học theo từng động từ.",
+    "examples": [
+      {
+        "ko": "아침에 밥을 먹어요.",
+        "vi": "Buổi sáng tôi ăn cơm.",
+        "explanation": "먹다 bỏ 다 còn 먹; nguyên âm ㅓ chọn 어요 → 먹어요. 밥을 là tân ngữ."
+      },
+      {
+        "ko": "매일 한국어를 공부해요.",
+        "vi": "Tôi học tiếng Hàn mỗi ngày.",
+        "explanation": "공부하다 thuộc nhóm 하다 → 해요; 매일 bổ sung tần suất “mỗi ngày”."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      3,
+      4,
+      5
+    ]
+  },
+  {
+    "id": 6,
+    "title": "N에 가요 / 와요",
+    "meaning": "Nêu đích đến khi di chuyển.",
+    "formula": "Địa điểm + 에 + 가다/오다/다니다.",
+    "usage": "에 gắn vào nơi hướng tới. 가다 là đi, 오다 là đến; cả hai đều có thể kết hợp với 에 để nêu đích.",
+    "note": "에 chỉ đích đến hoặc nơi tồn tại; 에서 chỉ nơi thực hiện hành động. 학교에 가요 nhưng 학교에서 공부해요.",
+    "examples": [
+      {
+        "ko": "학교에 가요.",
+        "vi": "Tôi đi đến trường.",
+        "explanation": "학교 là đích đến; 에 đánh dấu đích, 가요 là dạng lịch sự của 가다."
+      },
+      {
+        "ko": "친구가 집에 와요.",
+        "vi": "Bạn đến nhà.",
+        "explanation": "친구가 là người di chuyển; 집에 là đích; 오 + 아요 rút gọn thành 와요."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      3
+    ]
+  },
+  {
+    "id": 7,
+    "title": "N에서 V",
+    "meaning": "Nói hành động xảy ra tại đâu.",
+    "formula": "Địa điểm + 에서 + động từ hành động.",
+    "usage": "에서 đánh dấu bối cảnh thực hiện hành động như ăn, học, làm việc. Cũng có nghĩa “từ” khi nói nơi xuất phát; phân biệt qua động từ.",
+    "note": "Không dùng 에서 thay 에 trong câu đơn thuần chỉ vị trí: 집에 있어요. Với hành động: 집에서 쉬어요.",
+    "examples": [
+      {
+        "ko": "도서관에서 책을 읽어요.",
+        "vi": "Tôi đọc sách ở thư viện.",
+        "explanation": "도서관에서 nêu nơi hành động đọc diễn ra; 책을 là đối tượng được đọc."
+      },
+      {
+        "ko": "식당에서 점심을 먹어요.",
+        "vi": "Tôi ăn trưa ở nhà hàng.",
+        "explanation": "식당에서 chỉ nơi ăn; 점심을 là bữa trưa; 먹어요 là động từ chính."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Thời gian + 에",
+    "meaning": "Nêu thời điểm xảy ra hành động.",
+    "formula": "Thứ/ngày/tháng/giờ + 에 + hành động.",
+    "usage": "에 tương đương “vào, lúc” khi gắn sau thời gian xác định. Có thể nêu cả thứ và giờ để hẹn lịch.",
+    "note": "오늘, 어제, 내일, 지금 và 매일 thường không thêm 에. So sánh 내일 가요 với 월요일에 가요.",
+    "examples": [
+      {
+        "ko": "월요일에 친구를 만나요.",
+        "vi": "Tôi gặp bạn vào thứ hai.",
+        "explanation": "월요일에 đánh dấu ngày gặp; 친구를 là người được gặp."
+      },
+      {
+        "ko": "오전 아홉 시에 수업이 있어요.",
+        "vi": "Có lớp học lúc chín giờ sáng.",
+        "explanation": "오전 là trước 12 giờ trưa; 아홉 là số thuần Hàn chỉ chín, 시 là đơn vị giờ. 에 gắn sau cụm 아홉 시; 수업이 있어요 nghĩa là có buổi học."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      8
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Số đếm + đơn vị",
+    "meaning": "Đếm người, đồ vật và số lượng.",
+    "formula": "N + số thuần Hàn + 개/명/권/잔; 하나→한, 둘→두, 셋→세, 넷→네 trước đơn vị.",
+    "usage": "Chọn đơn vị theo vật: 개 cho đồ vật, 명 cho người, 권 cho sách, 잔 cho cốc/ly. Danh từ đứng trước số lượng trong cách nói thông dụng.",
+    "note": "Giá tiền, ngày tháng, phút thường dùng số Hán Hàn. Đếm giờ dùng số thuần Hàn; đếm phút dùng số Hán Hàn.",
+    "examples": [
+      {
+        "ko": "사과 두 개를 사요.",
+        "vi": "Tôi mua hai quả táo.",
+        "explanation": "둘 đổi thành 두 trước 개; 를 gắn sau cả cụm số lượng để đánh dấu tân ngữ."
+      },
+      {
+        "ko": "학생 세 명이 있어요.",
+        "vi": "Có ba học sinh.",
+        "explanation": "셋 đổi thành 세 trước 명; 이 theo sau 명 vì 명 có 받침, toàn cụm là đối tượng tồn tại."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      8,
+      9
+    ]
+  },
+  {
+    "id": 10,
+    "title": "N하고 / N와/과",
+    "meaning": "Nối danh từ và diễn tả cùng ai.",
+    "formula": "N + 하고 + N; N có 받침 + 과, không có 받침 + 와.",
+    "usage": "하고 và 와/과 dùng để nối hai danh từ với nghĩa “và”. Khi đi cùng hành động, cụm này có thể có nghĩa “với”; 같이/함께 làm rõ việc cùng nhau.",
+    "note": "Không dùng 하고 để nối trực tiếp hai động từ; muốn nói ăn rồi học dùng 먹고 공부해요.",
+    "examples": [
+      {
+        "ko": "빵하고 우유를 사요.",
+        "vi": "Tôi mua bánh mì và sữa.",
+        "explanation": "하고 nối 빵 với 우유; 를 đánh dấu cụm đồ được mua."
+      },
+      {
+        "ko": "친구와 같이 영화를 봐요.",
+        "vi": "Tôi xem phim cùng bạn.",
+        "explanation": "친구 không có 받침 nên dùng 와; 같이 nhấn mạnh cùng nhau; 영화를 là tân ngữ."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      4
+    ]
+  },
+  {
+    "id": 11,
+    "title": "N도",
+    "meaning": "Bổ sung với nghĩa “cũng”.",
+    "formula": "N + 도 + vị ngữ.",
+    "usage": "도 cho biết một đối tượng hoặc hành động bổ sung vào điều vừa nói. Thường thay 은/는, 이/가 hoặc 을/를 ngay sau danh từ.",
+    "note": "Không viết 저는도 hoặc 사과를도 trong cách dùng cơ bản. Có thể ghép với trợ từ nơi chốn: 학교에서도.",
+    "examples": [
+      {
+        "ko": "저도 커피를 좋아해요.",
+        "vi": "Tôi cũng thích cà phê.",
+        "explanation": "도 thay 는 sau 저, thêm tôi vào nhóm người thích cà phê. 커피를 là đối tượng được thích."
+      },
+      {
+        "ko": "물도 주세요.",
+        "vi": "Cho tôi cả nước nữa.",
+        "explanation": "도 thay trợ từ tân ngữ, thêm nước vào những món đang yêu cầu; 주세요 là lời nhờ lịch sự."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      5
+    ]
+  },
+  {
+    "id": 12,
+    "title": "안 V/A · V/A지 않아요",
+    "meaning": "Phủ định hành động hoặc trạng thái.",
+    "formula": "안 + vị ngữ; hoặc gốc V/A + 지 않아요.",
+    "usage": "Dùng khi nói không làm hoặc không ở trạng thái nào đó. Với danh từ + 하다 như 공부하다, 안 thường đứng trước 하다: 공부 안 해요.",
+    "note": "Phủ định “là” dùng 아니에요; phủ định “có” dùng 없어요. Phân biệt không làm (안) với không thể làm (못).",
+    "examples": [
+      {
+        "ko": "오늘은 학교에 안 가요.",
+        "vi": "Hôm nay tôi không đi học.",
+        "explanation": "안 đứng ngay trước 가요 để phủ định hành động đi; 오늘은 nêu chủ đề thời gian."
+      },
+      {
+        "ko": "이 옷은 비싸지 않아요.",
+        "vi": "Bộ quần áo này không đắt.",
+        "explanation": "비싸다 bỏ 다 còn 비싸, nối 지 않아요 để phủ định tính chất đắt."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "id": 13,
+    "title": "못 V · V지 못해요",
+    "meaning": "Không thể làm do khả năng hoặc hoàn cảnh.",
+    "formula": "못 + động từ; hoặc gốc V + 지 못해요.",
+    "usage": "Nói việc không thực hiện được vì khả năng hoặc hoàn cảnh; không nhất thiết khẳng định người nói đang muốn làm. Thường đi với động từ hành động.",
+    "note": "못 đứng cách động từ trong mẫu cơ bản: 못 가요. Tránh dùng để phủ định tính từ như 예쁘다; khi đó dùng 안 hoặc 지 않아요.",
+    "examples": [
+      {
+        "ko": "오늘은 바빠서 못 가요.",
+        "vi": "Hôm nay bận nên tôi không đi được.",
+        "explanation": "바빠서 nêu lý do; 못 가요 cho biết hoàn cảnh ngăn việc đi."
+      },
+      {
+        "ko": "저는 수영을 하지 못해요.",
+        "vi": "Tôi không bơi được.",
+        "explanation": "수영을 하다 là bơi; 하지 못해요 phủ định khả năng thực hiện hành động."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      6
+    ]
+  },
+  {
+    "id": 14,
+    "title": "V/A았/었어요",
+    "meaning": "Nói việc hoặc trạng thái đã xảy ra.",
+    "formula": "Gốc có ㅏ/ㅗ + 았어요; phần lớn khác + 었어요; 하다 → 했어요.",
+    "usage": "Dùng để nói quá khứ. Các từ 어제, 지난주, 작년 thường đi kèm để xác định khi nào việc đã diễn ra.",
+    "note": "Một số dạng rút gọn: 가다→갔어요, 오다→왔어요, 보다→봤어요. Không dùng dạng hiện tại chỉ vì động từ được tra ở dạng từ điển.",
+    "examples": [
+      {
+        "ko": "어제 친구를 만났어요.",
+        "vi": "Hôm qua tôi đã gặp bạn.",
+        "explanation": "만나다 có gốc 만나; 만나 + 았어요 rút gọn thành 만났어요. 어제 xác định quá khứ."
+      },
+      {
+        "ko": "지난주에 한국어를 공부했어요.",
+        "vi": "Tuần trước tôi đã học tiếng Hàn.",
+        "explanation": "공부하다 → 공부했어요; 지난주에 nêu tuần đã qua, 를 đánh dấu nội dung học."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      7
+    ]
+  },
+  {
+    "id": 15,
+    "title": "V고 싶어요",
+    "meaning": "Diễn tả mong muốn làm một việc.",
+    "formula": "Gốc động từ + 고 싶어요.",
+    "usage": "Dùng để nói mong muốn của mình hoặc hỏi mong muốn người nghe. 고 gắn sau gốc động từ; phần 싶다 được chia theo thì và mức lịch sự.",
+    "note": "Dùng với động từ hành động, không nối trực tiếp sau danh từ. Khi nói mong muốn của người thứ ba thường dùng 고 싶어 해요.",
+    "examples": [
+      {
+        "ko": "한국에 가고 싶어요.",
+        "vi": "Tôi muốn đi Hàn Quốc.",
+        "explanation": "가다 bỏ 다, thêm 고 싶어요; 한국에 là nơi muốn tới."
+      },
+      {
+        "ko": "무엇을 먹고 싶어요?",
+        "vi": "Bạn muốn ăn gì?",
+        "explanation": "무엇을 hỏi đối tượng được ăn; 먹고 싶어요 hỏi mong muốn của người nghe."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      7,
+      8
+    ]
+  },
+  {
+    "id": 16,
+    "title": "V(으)세요 · V아/어 주세요",
+    "meaning": "Yêu cầu, hướng dẫn và nhờ giúp đỡ lịch sự.",
+    "formula": "Gốc có 받침 khác ㄹ + 으세요; không có 받침 + 세요; gốc có ㄹ bỏ ㄹ rồi + 세요 (살다 → 사세요). V아/어 + 주세요 dùng để nhờ giúp.",
+    "usage": "(으)세요 dùng khi hướng dẫn hoặc đề nghị người nghe thực hiện. 아/어 주세요 nhấn mạnh nhờ người khác làm điều gì cho mình.",
+    "note": "Động từ bất quy tắc phải đổi gốc phù hợp: 돕다 → 도우세요; 듣다 → 들으세요. Với 아/어 주세요: 돕다 → 도와주세요, 말하다 → 말해 주세요. Không dùng 돕으세요.",
+    "examples": [
+      {
+        "ko": "여기에 앉으세요.",
+        "vi": "Mời bạn ngồi ở đây.",
+        "explanation": "앉다 có 받침 nên nối 으세요; 여기에 chỉ nơi ngồi."
+      },
+      {
+        "ko": "천천히 말해 주세요.",
+        "vi": "Xin hãy nói chậm giúp tôi.",
+        "explanation": "말하다→말해, sau đó thêm 주세요 thành lời nhờ; 천천히 chỉ cách nói."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      6,
+      8,
+      19
+    ]
+  },
+  {
+    "id": 17,
+    "title": "V(으)ㄹ까요?",
+    "meaning": "Rủ cùng làm hoặc hỏi ý kiến.",
+    "formula": "Gốc có 받침 + 을까요?; không có 받침 + ㄹ까요?; gốc ㄹ + 까요?",
+    "usage": "Dùng để đề xuất cùng làm việc gì, hoặc hỏi xem mình nên làm gì cho người nghe. Động từ và ngữ cảnh quyết định hai sắc thái này.",
+    "note": "Khi rủ cùng làm có thể thêm 같이. Phân biệt với 거예요 là thông báo dự định; ㄹ까요? là câu hỏi xin ý kiến.",
+    "examples": [
+      {
+        "ko": "같이 점심을 먹을까요?",
+        "vi": "Chúng ta cùng ăn trưa nhé?",
+        "explanation": "먹 có 받침 ㄱ nên dùng 을까요; 같이 cho biết lời rủ làm cùng."
+      },
+      {
+        "ko": "창문을 열까요?",
+        "vi": "Tôi mở cửa sổ nhé?",
+        "explanation": "열 đã kết thúc bằng ㄹ nên không thêm 을; 열 + 까요 là hỏi có nên mở cửa giúp hay không."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      16,
+      17
+    ]
+  },
+  {
+    "id": 18,
+    "title": "V(으)ㅂ시다",
+    "meaning": "Đề nghị cùng thực hiện một hành động.",
+    "formula": "Gốc không có 받침 + ㅂ시다; có 받침 + 읍시다; gốc ㄹ bỏ ㄹ rồi + ㅂ시다.",
+    "usage": "Dùng trong lời đề nghị cùng làm của nhóm, thường trang trọng hơn 아/어요 trong hội thoại. Người nói cũng tham gia hành động.",
+    "note": "Với người lớn tuổi hoặc cần rất lịch sự, lời rủ bằng (으)ㄹ까요? thường mềm hơn. Không dùng mẫu này để yêu cầu chỉ người khác làm.",
+    "examples": [
+      {
+        "ko": "같이 갑시다.",
+        "vi": "Chúng ta cùng đi nào.",
+        "explanation": "가 không có 받침, thêm ㅂ시다 thành 갑시다. 같이 nhấn mạnh cùng nhau."
+      },
+      {
+        "ko": "여기에서 책을 읽읍시다.",
+        "vi": "Chúng ta đọc sách ở đây nhé.",
+        "explanation": "읽 có 받침 nên dùng 읍시다; 여기에서 nêu nơi thực hiện hành động đọc."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      17
+    ]
+  },
+  {
+    "id": 19,
+    "title": "V(으)ㄹ 거예요",
+    "meaning": "Nói kế hoạch hoặc dự định tương lai.",
+    "formula": "Gốc có 받침 + 을 거예요; không có 받침 + ㄹ 거예요; gốc ㄹ + 거예요.",
+    "usage": "Dùng để nói việc dự định sẽ làm. Cùng mẫu này còn có thể diễn tả phỏng đoán; ở bài này tập trung vào kế hoạch.",
+    "note": "Viết cách trước 거예요. Phân biệt 갈 거예요 (dự định) với 갈게요 (cam kết hoặc quyết định có liên quan người nghe).",
+    "examples": [
+      {
+        "ko": "내일 여행을 갈 거예요.",
+        "vi": "Ngày mai tôi sẽ đi du lịch.",
+        "explanation": "가 + ㄹ 거예요 → 갈 거예요; 내일 xác định thời điểm tương lai."
+      },
+      {
+        "ko": "주말에 집에서 쉴 거예요.",
+        "vi": "Cuối tuần tôi sẽ nghỉ ở nhà.",
+        "explanation": "쉬다 có gốc 쉬, thêm ㄹ 거예요; 집에서 nêu nơi nghỉ."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      12
+    ]
+  },
+  {
+    "id": 20,
+    "title": "V/A고",
+    "meaning": "Nối hai hành động hoặc hai đặc điểm.",
+    "formula": "Gốc V/A + 고 + mệnh đề tiếp theo.",
+    "usage": "Dùng để liệt kê hai tính chất hoặc nối các việc. Khi nối hành động, có thể hiểu là thực hiện việc thứ nhất rồi tới việc thứ hai theo ngữ cảnh.",
+    "note": "Đừng hiểu mọi 고 là quan hệ nguyên nhân. Khi cần nói “vì…nên…” dùng cấu trúc nguyên nhân phù hợp.",
+    "examples": [
+      {
+        "ko": "음악을 듣고 책을 읽어요.",
+        "vi": "Tôi nghe nhạc và đọc sách.",
+        "explanation": "듣다 bỏ 다 rồi nối 고 thành 듣고; mệnh đề sau kết thúc bằng đọc sách."
+      },
+      {
+        "ko": "이 방은 크고 깨끗해요.",
+        "vi": "Phòng này rộng và sạch.",
+        "explanation": "크다→크고 nối đặc điểm rộng với 깨끗해요 là sạch; 은 nêu căn phòng làm chủ đề."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      25
+    ]
+  },
+  {
+    "id": 21,
+    "title": "V/A지만",
+    "meaning": "Nối hai ý trái ngược với nghĩa “nhưng”.",
+    "formula": "Gốc V/A + 지만 + ý đối lập.",
+    "usage": "Dùng khi điều được nói ở vế sau trái với mong đợi từ vế trước. Cả động từ và tính từ đều có thể kết hợp.",
+    "note": "Thì quá khứ có thể đứng trước 지만: 갔지만. Không chia vế đầu thành dạng 요 rồi thêm 지만.",
+    "examples": [
+      {
+        "ko": "한국어는 어렵지만 재미있어요.",
+        "vi": "Tiếng Hàn khó nhưng thú vị.",
+        "explanation": "어렵다 bỏ 다 rồi nối 지만; 재미있어요 nêu đánh giá trái với việc khó."
+      },
+      {
+        "ko": "이 옷은 예쁘지만 비싸요.",
+        "vi": "Bộ quần áo này đẹp nhưng đắt.",
+        "explanation": "예쁘지만 thừa nhận đẹp; 비싸요 đưa ra nhược điểm khiến người mua cân nhắc."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      28
+    ]
+  },
+  {
+    "id": 22,
+    "title": "V/A아/어서",
+    "meaning": "Nêu nguyên nhân hoặc nối hành động liên quan.",
+    "formula": "Gốc V/A + 아/어서; 하다 → 해서.",
+    "usage": "Trong nghĩa nguyên nhân, vế đầu giải thích vì sao xảy ra vế sau. Cấu trúc còn nối hai việc theo trình tự khi việc trước tạo điều kiện cho việc sau.",
+    "note": "Ở cách dùng nguyên nhân cơ bản, tránh nối với mệnh lệnh/rủ rê ở vế sau; thường dùng (으)니까 cho kiểu câu đó.",
+    "examples": [
+      {
+        "ko": "배가 아파서 병원에 가요.",
+        "vi": "Vì đau bụng nên tôi đi bệnh viện.",
+        "explanation": "아프다→아파서 theo quy tắc rơi ㅡ; vế sau là kết quả đi bệnh viện."
+      },
+      {
+        "ko": "친구를 만나서 같이 밥을 먹었어요.",
+        "vi": "Tôi gặp bạn rồi cùng ăn cơm.",
+        "explanation": "만나서 nối việc gặp với hành động cùng ăn; quá khứ được thể hiện ở 먹었어요 cuối câu."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      25,
+      26
+    ]
+  },
+  {
+    "id": 23,
+    "title": "V/A(으)니까",
+    "meaning": "Nêu lý do làm cơ sở đề nghị hoặc kết luận.",
+    "formula": "Gốc có 받침 + 으니까; không có 받침 + 니까; gốc ㄹ bỏ ㄹ rồi + 니까.",
+    "usage": "Dùng khi người nói lấy một lý do làm căn cứ cho lời khuyên, đề nghị hoặc quyết định. Vế sau có thể là mệnh lệnh hoặc lời rủ.",
+    "note": "So với 아/어서, mẫu này phù hợp hơn với lời hướng dẫn. Một số động từ có bất quy tắc khi nối như 춥다→추우니까.",
+    "examples": [
+      {
+        "ko": "비가 오니까 우산을 가져가세요.",
+        "vi": "Vì trời mưa nên hãy mang ô theo.",
+        "explanation": "오다→오니까 nêu lý do; 가져가세요 là lời khuyên được xây trên lý do đó."
+      },
+      {
+        "ko": "시간이 없으니까 빨리 갑시다.",
+        "vi": "Vì không có thời gian nên chúng ta đi nhanh nào.",
+        "explanation": "없 có 받침 nên thêm 으니까; 갑시다 là lời rủ cả nhóm đi."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      26
+    ]
+  },
+  {
+    "id": 24,
+    "title": "N(으)로",
+    "meaning": "Nói phương tiện, công cụ hoặc hướng đi.",
+    "formula": "N có 받침 + 으로; N không có 받침 hoặc kết thúc ㄹ + 로.",
+    "usage": "Dùng với phương tiện đi lại, công cụ thực hiện hành động, nguyên liệu hoặc hướng. Xác định nghĩa qua danh từ và động từ đi cùng.",
+    "note": "ㄹ là ngoại lệ quan trọng: 지하철로, không phải 지하철으로. Đi bộ thường nói 걸어서.",
+    "examples": [
+      {
+        "ko": "버스로 회사에 가요.",
+        "vi": "Tôi đi làm bằng xe buýt.",
+        "explanation": "버스 không có 받침 nên dùng 로 để chỉ phương tiện; 회사에 là đích đến."
+      },
+      {
+        "ko": "연필로 이름을 써요.",
+        "vi": "Tôi viết tên bằng bút chì.",
+        "explanation": "연필 kết thúc ㄹ nên dùng 로; 이름을 là nội dung được viết, 써요 là dạng chia của 쓰다."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      7
+    ]
+  },
+  {
+    "id": 25,
+    "title": "V고 있어요",
+    "meaning": "Diễn tả hành động đang diễn ra.",
+    "formula": "Gốc động từ + 고 있어요.",
+    "usage": "Dùng để nói một hành động đang tiếp diễn tại thời điểm nói. Trợ từ nơi thực hiện hành động vẫn là 에서.",
+    "note": "Mẫu tiếp diễn này dùng với động từ hành động. Với 입다, 신다, 쓰다 (đội), dạng 고 있다 còn có thể diễn tả trạng thái đang mặc/mang sau khi hành động hoàn tất; không phải mọi 고 있다 đều là đang thực hiện động tác.",
+    "examples": [
+      {
+        "ko": "지금 한국어를 공부하고 있어요.",
+        "vi": "Bây giờ tôi đang học tiếng Hàn.",
+        "explanation": "공부하 + 고 있어요 cho biết việc học đang diễn ra; 지금 nhấn mạnh hiện tại."
+      },
+      {
+        "ko": "친구가 도서관에서 책을 읽고 있어요.",
+        "vi": "Bạn đang đọc sách ở thư viện.",
+        "explanation": "친구가 là chủ ngữ; 도서관에서 là nơi đọc; 읽고 있어요 diễn tả hành động đang tiếp diễn."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      48
+    ]
+  },
+  {
+    "id": 26,
+    "title": "N보다 · 더 · 제일/가장",
+    "meaning": "So sánh hơn và nói mức cao nhất.",
+    "formula": "N1은/는 N2보다 (더) + V/A; phạm vi + 에서/중에서 제일/가장 + V/A. N2 là mốc so sánh.",
+    "usage": "보다 gắn sau đối tượng làm mốc so sánh. 더 nhấn mạnh “hơn”. 제일 và 가장 diễn tả mức cao nhất trong một phạm vi.",
+    "note": "Trợ từ 보다 khác động từ 보다 (xem). Nói rõ mốc hoặc phạm vi để người nghe biết đang so sánh với ai/cái gì.",
+    "examples": [
+      {
+        "ko": "이 가방은 저 가방보다 더 커요.",
+        "vi": "Cặp này lớn hơn cặp kia.",
+        "explanation": "저 가방보다 là mốc; 더 커요 là mức độ lớn hơn; 이 가방은 là vật đang đánh giá."
+      },
+      {
+        "ko": "저는 과일 중에서 사과를 제일 좋아해요.",
+        "vi": "Trong các loại trái cây, tôi thích táo nhất.",
+        "explanation": "과일 중에서 giới hạn phạm vi; 제일 bổ nghĩa cho 좋아해요 để nói mức yêu thích cao nhất."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      12
+    ]
+  },
+  {
+    "id": 27,
+    "title": "V아/어 봐요",
+    "meaning": "Làm thử để trải nghiệm.",
+    "formula": "Gốc V + 아/어 보다; 하다 → 해 보다.",
+    "usage": "Dùng khi thử làm một việc để biết kết quả hoặc có trải nghiệm. 보다 trong mẫu này là động từ bổ trợ, không mang nghĩa nhìn/xem thông thường.",
+    "note": "Có thể chia quá khứ để nói đã thử: 먹어 봤어요. Với lời mời thử có thể dùng 아/어 보세요.",
+    "examples": [
+      {
+        "ko": "이 음식을 먹어 보세요.",
+        "vi": "Bạn hãy thử món này.",
+        "explanation": "먹다→먹어 rồi thêm 보세요, thành lời mời lịch sự thử ăn."
+      },
+      {
+        "ko": "한국어로 편지를 써 봤어요.",
+        "vi": "Tôi đã thử viết thư bằng tiếng Hàn.",
+        "explanation": "쓰다→써, 보다 chia quá khứ thành 봤어요; 한국어로 nêu ngôn ngữ dùng để viết."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      11
+    ]
+  },
+  {
+    "id": 28,
+    "title": "N부터 N까지 · N에서 N까지",
+    "meaning": "Nêu điểm bắt đầu và kết thúc.",
+    "formula": "Thời gian + 부터 … 까지; địa điểm xuất phát + 에서 … 까지.",
+    "usage": "부터 thường đi với thời gian bắt đầu, 까지 chỉ giới hạn cuối. Với hành trình, 에서 đánh dấu nơi đi từ và 까지 đánh dấu nơi tới.",
+    "note": "Phân biệt 에 là một thời điểm với 부터…까지 là khoảng thời gian. Có thể dùng riêng 까지 khi chỉ cần nói hạn cuối.",
+    "examples": [
+      {
+        "ko": "아홉 시부터 여섯 시까지 일해요.",
+        "vi": "Tôi làm việc từ chín giờ đến sáu giờ.",
+        "explanation": "부터 gắn với giờ bắt đầu; 까지 gắn với giờ kết thúc; 일해요 là công việc trong khoảng đó."
+      },
+      {
+        "ko": "집에서 학교까지 걸어요.",
+        "vi": "Tôi đi bộ từ nhà đến trường.",
+        "explanation": "집에서 là điểm xuất phát, 학교까지 là điểm đến; 걷다 bất quy tắc ㄷ nên chia thành 걸어요."
+      }
+    ],
+    "source": "42 CẤU TRÚC NGỮ PHÁP TIẾNG HÀN CƠ BẢN.pdf",
+    "pages": [
+      13
+    ]
+  },
+  {
+    "id": 29,
+    "title": "V(으)ㄹ 수 있어요 / 없어요",
+    "meaning": "Nói có thể hoặc không thể làm.",
+    "formula": "Gốc có 받침 + 을 수; không có 받침 + ㄹ 수; gốc ㄹ + 수; sau đó 있다/없다.",
+    "usage": "Dùng cho năng lực hoặc khả năng do hoàn cảnh. 수 viết cách cả phần trước và phần sau. 없다 phủ định khả năng.",
+    "note": "Không dùng để xin phép một cách máy móc. Khả năng làm khác với được phép làm; xin phép thường dùng 아/어도 돼요?",
+    "examples": [
+      {
+        "ko": "한국어를 읽을 수 있어요.",
+        "vi": "Tôi có thể đọc tiếng Hàn.",
+        "explanation": "읽 có 받침 nên dùng 을 수 있어요; 한국어를 là đối tượng đọc."
+      },
+      {
+        "ko": "오늘은 갈 수 없어요.",
+        "vi": "Hôm nay tôi không thể đi được.",
+        "explanation": "가 + ㄹ 수 없어요 cho biết không thể đi; chưa xác định là thiếu năng lực hay do hoàn cảnh nếu không có ngữ cảnh thêm."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      53
+    ]
+  },
+  {
+    "id": 30,
+    "title": "V(으)러 가요 · V(으)려고 해요",
+    "meaning": "Nói mục đích đi và ý định làm.",
+    "formula": "V có 받침 + 으러/으려고; không có 받침 + 러/려고; gốc ㄹ + 러/려고.",
+    "usage": "(으)러 đi với động từ di chuyển như 가다/오다 để nói đi đâu làm gì. (으)려고 하다 nói dự định thực hiện một hành động.",
+    "note": "Không dùng (으)러 với mọi động từ cuối câu; nó cần bối cảnh di chuyển. So sánh 먹으러 가요 (đi ăn) và 먹으려고 해요 (định ăn).",
+    "examples": [
+      {
+        "ko": "친구를 만나러 가요.",
+        "vi": "Tôi đi gặp bạn.",
+        "explanation": "만나다 không có 받침 nên thêm 러; 가요 biểu thị di chuyển với mục đích gặp bạn."
+      },
+      {
+        "ko": "주말에 한국어를 복습하려고 해요.",
+        "vi": "Cuối tuần tôi định ôn tiếng Hàn.",
+        "explanation": "복습하다 có gốc 복습하, thêm 려고 해요 để nói ý định; 주말에 chỉ thời điểm dự định thực hiện."
+      }
+    ],
+    "source": "NGU PHAP TIENG HAN SO CAP.pdf",
+    "pages": [
+      27
+    ]
+  }
+]

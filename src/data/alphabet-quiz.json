@@ -1,0 +1,432 @@
+[
+  {
+    "char": "ㅏ",
+    "viet": "A",
+    "romaja": "a",
+    "desc": "Đọc giống \"a\" trong tiếng Việt",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅑ",
+    "viet": "YA",
+    "romaja": "ya",
+    "desc": "Đọc giống \"ya\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅓ",
+    "viet": "EO / Ơ (gần đúng)",
+    "romaja": "eo",
+    "desc": "eo [ʌ]; không tròn môi. Gợi âm tiếng Việt chỉ gần đúng, không đọc thành o [o].",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅕ",
+    "viet": "YEO / YƠ (gần đúng)",
+    "romaja": "yeo",
+    "desc": "yeo [jʌ]; âm y kết hợp với ㅓ, không phải yo [jo].",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅗ",
+    "viet": "Ô",
+    "romaja": "o",
+    "desc": "Đọc tròn môi giống \"ô\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅛ",
+    "viet": "YÔ",
+    "romaja": "yo",
+    "desc": "Đọc giống \"yô\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅜ",
+    "viet": "U",
+    "romaja": "u",
+    "desc": "Đọc giống \"u\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅠ",
+    "viet": "YU",
+    "romaja": "yu",
+    "desc": "Đọc giống \"yu\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅡ",
+    "viet": "Ư",
+    "romaja": "eu",
+    "desc": "Đọc kéo ngang môi giống \"ư\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅣ",
+    "viet": "I",
+    "romaja": "i",
+    "desc": "Đọc giống \"i\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm cơ bản",
+    "prompt": "Đây là chữ nguyên âm cơ bản gì?"
+  },
+  {
+    "char": "ㅐ",
+    "viet": "E",
+    "romaja": "ae",
+    "desc": "ae [ɛ], gần e tiếng Việt; nhiều người nói hiện nay phát âm gần ㅔ.",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅒ",
+    "viet": "YE",
+    "romaja": "yae",
+    "desc": "Đọc giống \"ye\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅔ",
+    "viet": "Ê",
+    "romaja": "e",
+    "desc": "e [e], gần ê tiếng Việt; cách phát âm có thể gần ㅐ trong lời nói hiện nay.",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅖ",
+    "viet": "YÊ",
+    "romaja": "ye",
+    "desc": "Đọc giống \"yê\"",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅘ",
+    "viet": "OA",
+    "romaja": "wa",
+    "desc": "Kết hợp ㅗ + ㅏ (oa)",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅙ",
+    "viet": "WAE",
+    "romaja": "wae",
+    "desc": "wae; chữ ghép ㅗ + ㅐ, thường nghe gần [wɛ]/[we], không đọc thành oai.",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅚ",
+    "viet": "OE",
+    "romaja": "oe",
+    "desc": "oe; theo chuẩn là nguyên âm đơn [ø], cũng được phép đọc [we]. Không đọc thành ôi [oj].",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅝ",
+    "viet": "UƠ / WO",
+    "romaja": "wo",
+    "desc": "Kết hợp ㅜ + ㅓ (uơ)",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅞ",
+    "viet": "WE",
+    "romaja": "we",
+    "desc": "Kết hợp ㅜ + ㅔ (uê)",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅟ",
+    "viet": "WI",
+    "romaja": "wi",
+    "desc": "wi; theo chuẩn là nguyên âm đơn [y], cũng được phép đọc [wi].",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㅢ",
+    "viet": "ƯI",
+    "romaja": "ui",
+    "desc": "ui [ɰi] khi đọc riêng; 의 có thể đổi âm theo vị trí và chức năng trong từ/câu.",
+    "categoryGroup": "vowel",
+    "subCategory": "Nguyên âm mở rộng",
+    "prompt": "Đây là chữ nguyên âm mở rộng gì?"
+  },
+  {
+    "char": "ㄱ",
+    "viet": "K / G",
+    "romaja": "g/k",
+    "desc": "Phụ âm tắc không bật hơi mạnh; có thể gần k/g tùy vị trí và ngữ cảnh. Ở cuối âm tiết đọc chặn [k̚] trong trường hợp cơ bản.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㄴ",
+    "viet": "N",
+    "romaja": "n",
+    "desc": "Âm mũi giống \"n\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㄷ",
+    "viet": "T / Đ",
+    "romaja": "d/t",
+    "desc": "Phụ âm tắc không bật hơi mạnh; có thể gần t/d tùy vị trí và ngữ cảnh. Ở cuối âm tiết đọc chặn [t̚] trong trường hợp cơ bản.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㄹ",
+    "viet": "R / L",
+    "romaja": "r/l",
+    "desc": "Thường là âm vỗ [ɾ] giữa các nguyên âm và âm [l] ở cuối; còn thay đổi khi nối với phụ âm khác.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅁ",
+    "viet": "M",
+    "romaja": "m",
+    "desc": "Âm mũi giống \"m\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅂ",
+    "viet": "P / B",
+    "romaja": "b/p",
+    "desc": "Phụ âm tắc không bật hơi mạnh; có thể gần p/b tùy vị trí và ngữ cảnh. Ở cuối âm tiết đọc chặn [p̚] trong trường hợp cơ bản.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅅ",
+    "viet": "S",
+    "romaja": "s",
+    "desc": "Âm xát [s]; trước ㅣ hoặc âm y thường gần [ɕ]. Không phải mọi vị trí đều giống s tiếng Việt.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅇ",
+    "viet": "NG / Âm câm",
+    "romaja": "ng/-",
+    "desc": "Ở đầu âm tiết là ký hiệu không có phụ âm phát ra; ở cuối âm tiết đọc [ŋ] (ng). Âm mẫu 으 dùng thêm ㅡ để luyện, không phải âm riêng của ㅇ.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅈ",
+    "viet": "CH / J",
+    "romaja": "j",
+    "desc": "Âm nhẹ giống \"ch\" hoặc \"j\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㅊ",
+    "viet": "CH (bật hơi)",
+    "romaja": "ch",
+    "desc": "Bật hơi mạnh âm \"ch\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm bật hơi",
+    "prompt": "Đây là phụ âm bật hơi gì?"
+  },
+  {
+    "char": "ㅋ",
+    "viet": "KH (bật hơi)",
+    "romaja": "k",
+    "desc": "Bật hơi mạnh giống \"kh\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm bật hơi",
+    "prompt": "Đây là phụ âm bật hơi gì?"
+  },
+  {
+    "char": "ㅌ",
+    "viet": "TH (bật hơi)",
+    "romaja": "t",
+    "desc": "Bật hơi mạnh giống \"th\"",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm bật hơi",
+    "prompt": "Đây là phụ âm bật hơi gì?"
+  },
+  {
+    "char": "ㅍ",
+    "viet": "P (bật hơi)",
+    "romaja": "p",
+    "desc": "Âm tắc bật hơi [pʰ]: bật môi và thổi hơi. Không đọc như ph [f] tiếng Việt.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm bật hơi",
+    "prompt": "Đây là phụ âm bật hơi gì?"
+  },
+  {
+    "char": "ㅎ",
+    "viet": "H",
+    "romaja": "h",
+    "desc": "Phụ âm xát [h], gần h tiếng Việt; không thuộc nhóm bốn phụ âm tắc/tắc-xát bật hơi ㅋ, ㅌ, ㅍ, ㅊ.",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm cơ bản",
+    "prompt": "Đây là phụ âm cơ bản gì?"
+  },
+  {
+    "char": "ㄲ",
+    "viet": "KK (căng)",
+    "romaja": "kk",
+    "desc": "Đọc dồn sức, căng âm K",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm căng",
+    "prompt": "Đây là phụ âm căng gì?"
+  },
+  {
+    "char": "ㄸ",
+    "viet": "TT (căng)",
+    "romaja": "tt",
+    "desc": "Đọc dồn sức, căng âm T",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm căng",
+    "prompt": "Đây là phụ âm căng gì?"
+  },
+  {
+    "char": "ㅃ",
+    "viet": "PP (căng)",
+    "romaja": "pp",
+    "desc": "Đọc dồn sức, căng âm P",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm căng",
+    "prompt": "Đây là phụ âm căng gì?"
+  },
+  {
+    "char": "ㅆ",
+    "viet": "SS (căng)",
+    "romaja": "ss",
+    "desc": "Đọc dồn sức, căng âm S",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm căng",
+    "prompt": "Đây là phụ âm căng gì?"
+  },
+  {
+    "char": "ㅉ",
+    "viet": "CHH (căng)",
+    "romaja": "jj",
+    "desc": "Đọc dồn sức, căng âm CH",
+    "categoryGroup": "consonant",
+    "subCategory": "Phụ âm căng",
+    "prompt": "Đây là phụ âm căng gì?"
+  },
+  {
+    "char": "ㄱ, ㅋ, ㄲ",
+    "viet": "Âm K [-k]",
+    "romaja": "k",
+    "desc": "Cuối từ khi đọc riêng: 악 [악], 부엌 [부억], 밖 [박]. Chặn âm cuối [k̚], không thêm ư.",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "악 부엌 밖"
+  },
+  {
+    "char": "ㄴ",
+    "viet": "Âm N [-n]",
+    "romaja": "n",
+    "desc": "Ví dụ đọc riêng: 안 [안], 눈 [눈], âm cuối [n].",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "안 눈"
+  },
+  {
+    "char": "ㄷ, ㅅ, ㅈ, ㅊ, ㅌ, ㅎ, ㅆ",
+    "viet": "Âm T [-t]",
+    "romaja": "t",
+    "desc": "Khi đọc riêng: 옷 [옫], 낮 [낟], 끝 [끋], âm cuối [t̚]. ㅎ còn có quy tắc riêng khi nối âm.",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "옷 낮 끝"
+  },
+  {
+    "char": "ㄹ",
+    "viet": "Âm L [-l]",
+    "romaja": "l",
+    "desc": "Ví dụ đọc riêng: 달 [달], 물 [물], âm cuối [l].",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "달 물"
+  },
+  {
+    "char": "ㅁ",
+    "viet": "Âm M [-m]",
+    "romaja": "m",
+    "desc": "Ví dụ đọc riêng: 암 [암], 힘 [힘], âm cuối [m].",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "암 힘"
+  },
+  {
+    "char": "ㅂ, ㅍ",
+    "viet": "Âm P [-p]",
+    "romaja": "p",
+    "desc": "Khi đọc riêng: 입 [입], 잎 [입], âm cuối [p̚], không bật hơi.",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "입 잎"
+  },
+  {
+    "char": "ㅇ",
+    "viet": "Âm NG [-ng]",
+    "romaja": "ng",
+    "desc": "Ví dụ đọc riêng: 강 [강], 방 [방], âm cuối [ŋ].",
+    "categoryGroup": "batchim",
+    "subCategory": "Âm đuôi (Batchim)",
+    "prompt": "Đây là âm đuôi (batchim) gì?",
+    "speechText": "강 방"
+  }
+]
