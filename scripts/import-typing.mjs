@@ -1,0 +1,12 @@
+import fs from 'node:fs';
+import vm from 'node:vm';
+const source=fs.readFileSync('references/korean-typing-v6.html','utf8');
+const literal=name=>vm.runInNewContext('('+source.match(new RegExp(`const ${name} = ([\\s\\S]*?);`))[1]+')',Object.create(null));
+const data=Object.fromEntries(['sentences','keyboardRows','qwertyJamoMap','jamoKeyMap'].map(key=>[key,literal(key)]));
+fs.writeFileSync('src/data/typing.json',JSON.stringify(data,null,2)+'\n');
+const functionText=(name,next)=>source.slice(source.indexOf(`        function ${name}(`),source.indexOf(`        function ${next}(`)).trim();
+let convert=functionText('convertQwertyToHangul','decomposeSentenceToJamos').replace('function convertQwertyToHangul(str)','export function convertQwertyToHangul(str: string): string');
+convert=convert.replace(/const (JOONGSUNG_COMBINE|JONGSUNG_COMBINE) =/g,'const $1: Record<string,string> =');
+let decompose=functionText('decomposeSentenceToJamos','renderTargetDisplay').replace('function decomposeSentenceToJamos(str)','export function decomposeSentenceToJamos(str: string): string[]').replace('function decomposeKoreanChar(char)','export function decomposeKoreanChar(char: string): string[]');
+fs.writeFileSync('src/typing.ts',`// Composition and decomposition algorithms copied from the supplied v6 HTML.\n// The v6 input handler does not invoke convertQwertyToHangul; retain that behavior.\nimport data from './data/typing.json';\nconst qwertyJamoMap: Record<string,string> = data.qwertyJamoMap;\n\n${convert}\n\n${decompose}\n`);
+console.log(`Imported ${data.sentences.length} sentences and original Hangul algorithms.`);

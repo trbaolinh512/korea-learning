@@ -1,0 +1,228 @@
+/* Mobile baseline: iPhone 17 Pro Max, 440 × 956 CSS px at DPR 3.
+   Layout remains fluid; this does not set a fixed device width. */
+html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-padding-top:90px}
+img,video{max-width:100%}
+.app-shell{min-height:100svh}
+
+@media(min-width:761px) and (max-width:1000px){
+  .welcome{overflow:clip}
+}
+
+@media(max-width:760px){
+  :root{font-size:15px}
+  body{line-height:1.6}
+  button,a,input,select,summary{-webkit-tap-highlight-color:transparent}
+  button{min-height:44px;font-size:14px;touch-action:manipulation}
+  input,select,textarea{font-size:16px}
+  input[type=checkbox]{width:20px;height:20px;flex-shrink:0}
+  .small,small{font-size:12px}
+  .app-shell{padding-bottom:calc(84px + env(safe-area-inset-bottom,0px))}
+  .site-header{padding-top:env(safe-area-inset-top,0px)}
+  .header-inner{flex-wrap:nowrap;padding:12px max(16px,env(safe-area-inset-right,0px)) 12px max(16px,env(safe-area-inset-left,0px));gap:12px}
+  .brand{min-height:44px;font-size:23px;gap:10px}
+  .brand small{font-size:8px;letter-spacing:1px}
+  .brand-mark{width:38px;height:38px;font-size:30px}
+  .theme-toggle{margin-left:auto;min-width:44px;min-height:44px;order:initial}
+  .site-header nav{position:fixed;inset:auto 0 0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));width:auto;margin:0;gap:4px;padding:8px max(8px,env(safe-area-inset-right,0px)) calc(8px + env(safe-area-inset-bottom,0px)) max(8px,env(safe-area-inset-left,0px));background:var(--surface);border-top:1px solid var(--border);box-shadow:0 -8px 24px #00000012;z-index:40}
+  .site-header nav button{display:flex;flex-direction:column;justify-content:center;gap:4px;min-width:0;min-height:56px;padding:6px 2px;font-size:12px;line-height:1.4;border-radius:12px;white-space:nowrap}
+  .site-header nav button svg{width:21px;height:21px}
+  .main-container{padding:0 max(16px,env(safe-area-inset-right,0px)) 28px max(16px,env(safe-area-inset-left,0px))}
+  .breadcrumb{padding:16px 0;font-size:12px;gap:8px;min-width:0;flex-wrap:wrap}
+  .breadcrumb button{font-size:12px;min-height:44px}
+  .page-heading{flex-wrap:wrap;align-items:flex-start;gap:12px;margin:8px 0 24px}
+  .page-heading h1{font-size:27px;line-height:1.4}
+  .page-heading p{font-size:14px;line-height:1.8}
+  .page-heading .eyebrow,.eyebrow{font-size:10px;line-height:1.7;letter-spacing:1px}
+  .page-heading .badge,.badge{font-size:11px;white-space:normal}
+  .page-heading .exam-clock{font-size:23px;min-height:48px}
+  .panel{padding:20px;border-radius:18px;min-width:0}
+  .muted{line-height:1.8}
+  .info-box{padding:16px;align-items:flex-start;font-size:13px}
+  .info-box p,.info-box strong{font-size:13px}
+  .info-box svg{width:20px;height:20px;margin-top:3px}
+  .hint{font-size:12px;line-height:1.8}
+  .tabs{overflow:visible;gap:5px;padding:5px}
+  .tabs button{white-space:normal;min-width:0;font-size:13px;line-height:1.5;padding:10px 6px;gap:6px}
+  .alphabet-tabs{display:grid;grid-template-columns:repeat(2,minmax(0,1fr))}
+  .alphabet-tabs button{font-size:13px}
+  .alphabet-tabs svg{width:17px;height:17px}
+  .study-tabs{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:3px}
+  .study-tabs button{flex-direction:column;gap:5px;font-size:12px;padding:10px 1px}
+  .study-tabs button svg{display:block;width:18px;height:18px}
+  .subtabs{flex-wrap:wrap;overflow:visible;gap:5px}
+  .subtabs button{font-size:13px;white-space:normal;padding:9px 12px}
+  .subtabs small{font-size:11px}
+  .toolbar,.study-content .toolbar{flex-wrap:wrap;gap:10px}
+  .toolbar .actions{margin:0;flex-wrap:wrap;gap:6px}
+  .toolbar .actions button,.segmented button{font-size:12px;padding:10px}
+  .toolbar .icon-button{min-width:44px}
+  .segmented{flex-wrap:wrap}
+  .card-grid,.study-content .card-grid,.roadmap-hidden .study-content .card-grid{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px}
+  .flashcard{display:flex;flex-direction:column;min-width:0}
+  .flash-top{padding:10px 8px 0;gap:3px}
+  .flash-top .badge,.study-content .flash-top .badge{font-size:10px;max-width:calc(100% - 45px);overflow-wrap:anywhere}
+  .speaker-wrap{flex-shrink:0}
+  .icon-button{min-width:44px;min-height:44px}
+  .card-face,.study-content .card-face{height:auto;min-height:200px;flex:1;padding:12px 10px;white-space:normal}
+  .character{font-size:62px}
+  .character.long,.study-content .character.long{font-size:27px;overflow-wrap:anywhere}
+  .study-content .character{font-size:36px;overflow-wrap:anywhere}
+  .card-face strong,.study-content .card-face strong{font-size:14px;line-height:1.7;overflow-wrap:anywhere}
+  .card-face .roman{font-size:13px}
+  .card-desc{font-size:12px;line-height:1.7}
+  .flip-hint{font-size:12px}
+  .flash-bottom{font-size:11px;padding:8px;gap:3px}
+  .flash-bottom button{min-height:44px;font-size:11px;gap:4px;padding:5px 2px}
+  .roadmap-toolbar{gap:12px;align-items:center}
+  .roadmap-toolbar button{font-size:12px;white-space:nowrap}
+  .roadmap-toolbar .small{font-size:12px;line-height:1.6;max-width:155px;text-align:right}
+  .day-sidebar .day-grid{grid-template-columns:repeat(7,minmax(0,1fr));gap:6px;max-height:244px;overflow-y:auto;overscroll-behavior:contain;padding:3px}
+  .day-sidebar .day-grid button{font-size:13px;min-height:44px}
+  .day-legend,.day-sidebar>p{font-size:12px;line-height:1.7}
+  .day-heading{flex-wrap:wrap;gap:14px}
+  .day-heading>div{min-width:0}
+  .day-heading h2{font-size:22px;line-height:1.5}
+  .day-heading .eyebrow{font-size:10px}
+  .day-heading p{font-size:13px;line-height:1.8}
+  .day-heading button{font-size:13px;padding:10px 14px}
+  .day-navigation{font-size:12px;gap:6px;flex-wrap:wrap}
+  .day-navigation button{font-size:12px;padding:10px}
+  .grammar-card h2{font-size:23px}
+  .grammar-card h3{font-size:17px;line-height:1.6}
+  .grammar-card>p,.grammar-section p,.grammar-card .grammar-formula p,.grammar-card .grammar-meaning{font-size:15px;line-height:1.9}
+  .grammar-caution,.grammar-caution p{font-size:14px;line-height:1.9}
+  .explained-example>div[lang=ko]{font-size:22px;line-height:1.9}
+  .example .example-translation{font-size:14px}
+  .example>.example-analysis>strong{font-size:13px}
+  .example>.example-analysis>p{font-size:14px!important;line-height:1.9}
+  .grammar-apply p,.source-note,.source-note p,.source-note summary{font-size:13px;line-height:1.9}
+  .source-note summary{min-height:44px;padding:10px 0}
+  .quiz-panel{width:100%;padding:20px 16px;min-width:0}
+  .quiz-heading{flex-wrap:wrap;gap:10px}
+  .quiz-heading .badge{font-size:11px}
+  .quiz-panel h2{font-size:20px;line-height:1.7}
+  .quiz-footer{gap:10px;flex-wrap:wrap}
+  .quiz-footer>span{font-size:12px;line-height:1.7}
+  .quiz-footer button{font-size:13px}
+  .option{min-height:76px;font-size:15px;line-height:1.7;overflow-wrap:anywhere;white-space:normal}
+  .option>span:nth-child(2){min-width:0;overflow-wrap:anywhere}
+  .alphabet-quiz .options,.word-quiz .options{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
+  .alphabet-quiz .option{min-height:110px;font-size:13px;grid-template-columns:22px minmax(0,1fr) auto;column-gap:5px;padding:12px 8px}
+  .alphabet-quiz .option>small{font-size:11px}
+  .word-quiz .option{min-height:110px;font-size:14px;padding:12px 10px;gap:8px}
+  .option-letter,.word-quiz .option-letter{width:25px;height:25px;font-size:12px}
+  .word-quiz-prompt{font-size:29px}
+  .feedback,.feedback p{font-size:14px;line-height:1.8}
+  .writing-prompt h2{font-size:30px}
+  .word-writing .writing-prompt h2{font-size:26px}
+  .alphabet-writing .actions button,.writing-board .actions button{font-size:14px;padding:11px 14px}
+  .alphabet-writing .canvas-wrap{width:100%;max-width:380px}
+  .practice-dialog{width:min(460px,calc(100vw - 28px));max-height:calc(100dvh - 32px);padding:20px;overscroll-behavior:contain}
+  .practice-dialog h2{font-size:21px}
+  .practice-dialog input[type=number],.inline-label select{font-size:16px;min-height:44px}
+  .practice-setting,.practice-check{font-size:14px;line-height:1.8}
+  .practice-check{min-height:48px}
+  .practice-dialog .small{font-size:13px}
+  .modal-backdrop{padding:16px max(16px,env(safe-area-inset-right,0px)) 16px max(16px,env(safe-area-inset-left,0px))}
+  .modal{width:100%;max-height:calc(100dvh - 32px);overflow-y:auto;overscroll-behavior:contain}
+  .modal h2{font-size:23px}
+  .modal p,.modal button{font-size:14px}
+  .exam-intro h2{font-size:24px}
+  .exam-intro>p{font-size:14px}
+  .mode-grid{grid-template-columns:1fr;gap:14px}
+  .mode-card{min-height:0;padding:18px;display:grid;grid-template-columns:minmax(0,1fr) auto;column-gap:12px}
+  .mode-top{font-size:15px;margin-bottom:9px}
+  .mode-card>strong{grid-column:2;grid-row:1/3;font-size:28px;margin:0;align-self:center}
+  .mode-card>span:not(.mode-top),.mode-card p{font-size:13px;line-height:1.8}
+  .mode-card p{grid-column:1/-1}
+  .primary.large{font-size:15px;min-height:50px;white-space:normal}
+  .question-sidebar{position:static}
+  .question-sidebar h3{font-size:18px}
+  .question-grid{grid-template-columns:repeat(6,minmax(0,1fr));gap:6px;max-height:300px;overflow-y:auto;padding:3px;overscroll-behavior:contain}
+  .question-grid button{min-height:44px;font-size:13px}
+  .flag-button{font-size:13px;min-height:44px}
+  .korean-question{font-size:21px!important;line-height:1.8!important}
+  .exam-prompt{font-size:20px;line-height:2;padding:16px}
+  .listen-prompt{flex-wrap:wrap}
+  .listen-prompt>span{font-size:12px}
+  .exam-results{gap:16px}
+  .exam-results span{font-size:12px}
+  .exam-results button{font-size:14px}
+  .attempts>div{font-size:14px;gap:12px;align-items:flex-start}
+  .attempts small{font-size:12px}
+  .typing-toolbar h2{font-size:24px}
+  .typing-toolbar p{font-size:14px}
+  .typing-toolbar .actions button{font-size:13px;padding:10px 12px}
+  .typing-target-toolbar .eyebrow{font-size:10px}
+  .typing-target-toolbar button{font-size:12px}
+  .typing-sentence{font-size:30px}
+  .typing-translation{font-size:14px}
+  .typing-input-wrap input{font-size:22px;min-height:56px;scroll-margin:100px 0 120px}
+  .typing-input-wrap>p{font-size:13px}
+  .typing-keyboard-heading{font-size:11px;align-items:flex-start}
+  .typing-key-row{gap:4px}
+  .typing-key{height:62px;border-radius:7px}
+  .typing-key-top{font-size:10px}
+  .typing-key-top [lang=ko]{font-size:12px}
+  .typing-key-ko{font-size:23px}
+  .typing-space{min-height:44px}
+  .welcome{padding:30px 0}
+  .welcome h1{font-size:40px;line-height:1.3}
+  .welcome-copy>p{font-size:15px;line-height:1.9;max-width:275px}
+  .hero-label{font-size:10px;line-height:1.8}
+  .hero-caption{font-size:11px;flex-wrap:wrap;gap:5px}
+  .welcome .primary{font-size:14px;padding:13px 18px}
+  .hero-art{opacity:.25;right:-100px}
+  .home-stats{padding:18px 10px;gap:10px}
+  .home-stats b{font-size:26px}
+  .home-stats p>span{font-size:11px}
+  .section-heading h2{font-size:24px}
+  .path-grid{grid-template-columns:1fr;gap:18px}
+  .path-card h3{font-size:24px}
+  .path-card p{font-size:15px;line-height:1.8;min-height:0}
+  .path-card ul{font-size:14px;line-height:1.8;min-height:0}
+  .path-card .eyebrow{font-size:10px}
+  .path-action{font-size:14px;min-height:58px}
+  .bottom-note{font-size:12px;line-height:1.8;text-align:center;flex-wrap:wrap}
+  .site-footer{padding:24px 16px}
+  .site-footer>div{font-size:12px;line-height:1.8}
+  .site-footer .actions button{font-size:13px;min-height:44px;padding:10px}
+  .footer-small{font-size:11px}
+  .toast{bottom:calc(92px + env(safe-area-inset-bottom,0px));font-size:14px;max-height:40dvh;overflow:auto}
+}
+
+@media(min-width:375px) and (max-width:430px){
+  .day-sidebar .day-grid{grid-template-columns:repeat(6,minmax(0,1fr))}
+}
+
+@media(max-width:374px){
+  .main-container{padding-left:max(12px,env(safe-area-inset-left,0px));padding-right:max(12px,env(safe-area-inset-right,0px))}
+  .panel{padding:16px 12px}
+  .page-heading h1{font-size:24px}
+  .site-header nav button{font-size:11px}
+  .tabs button,.alphabet-tabs button{font-size:12px}
+  .study-tabs button{font-size:11px}
+  .day-sidebar .day-grid,.question-grid{grid-template-columns:repeat(5,minmax(0,1fr))}
+  .flash-bottom{flex-wrap:wrap;justify-content:center}
+  .flash-bottom>span{display:none}
+  .flash-bottom button{font-size:11px}
+  .card-grid,.study-content .card-grid{gap:9px}
+  .alphabet-quiz .option{font-size:12px;padding:10px 6px;column-gap:4px}
+  .alphabet-quiz .option>small{font-size:10px}
+  .word-quiz .option{font-size:13px;padding:10px 7px;gap:5px}
+  .typing-key-row{gap:3px}
+  .typing-key{height:56px;padding:3px 1px}
+  .typing-key-top{font-size:8px}
+  .typing-key-top [lang=ko]{font-size:10px}
+  .typing-key-ko{font-size:20px}
+  .welcome h1{font-size:35px}
+  .home-stats p>span{font-size:10px}
+}
+
+@media(max-height:500px) and (orientation:landscape){
+  .site-header{position:relative}
+  .main-container{padding-left:max(20px,env(safe-area-inset-left,0px));padding-right:max(20px,env(safe-area-inset-right,0px))}
+  .practice-dialog,.modal{max-height:calc(100dvh - 24px)}
+  button{min-height:44px}
+  input,select,textarea{font-size:16px}
+}

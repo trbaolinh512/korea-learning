@@ -7,8 +7,9 @@ try{
   const page=await browser.newPage();
   await page.addInitScript(()=>{window.spoken=[];Object.defineProperty(window,'SpeechSynthesisUtterance',{value:class{constructor(text){this.text=text}}});Object.defineProperty(window,'speechSynthesis',{value:{cancel(){},getVoices(){return [{lang:'ko-KR'}]},speak(u){window.spoken.push(u.text)}}})});
   await page.goto('http://127.0.0.1:5173/#study');await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();
-  assert.match(await page.locator('.example-analysis').first().innerText(),/có 받침 ㅇ/);
-  await page.getByRole('button',{name:'Ngày 31',exact:true}).click();await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();assert.match(await page.locator('.grammar-formula').innerText(),/살다 → 사세요/);
+  await page.getByRole('button',{name:'Ngày 2',exact:true}).click();await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();
+  assert.match(await page.locator('.example-analysis').first().innerText(),/có âm cuối ㅇ/);
+  await page.getByRole('button',{name:'Ngày 20',exact:true}).click();await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();assert.match(await page.locator('.grammar-caution').innerText(),/살다 → 사세요/);
   await page.getByRole('button',{name:'Chữ Hàn',exact:true}).click();assert.match(await page.locator('.info-box').innerText(),/10 cơ bản/);assert.doesNotMatch(await page.locator('.info-box').innerText(),/10 đơn/);
   await page.getByRole('button',{name:'Âm đuôi (Batchim) 7',exact:true}).click();await page.getByRole('button',{name:'Lật thẻ ㄴ',exact:true}).click();assert.equal(await page.evaluate(()=>window.spoken.at(-1)),'안 눈');
   const endAt=Date.now()+100000;

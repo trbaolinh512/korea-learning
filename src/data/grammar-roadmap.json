@@ -1,0 +1,2040 @@
+[
+  {
+    "day": 1,
+    "title": "N + 이에요 / 예요 (Là...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 이에요",
+          "Danh từ không có âm cuối + 예요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Đuôi câu trần thuật thân mật lịch sự, dùng để giới thiệu tên, nghề nghiệp, quốc tịch hoặc định nghĩa sự vật. Dạng nghi vấn giữ nguyên cấu trúc và lên giọng ở cuối câu."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 베트남 사람이에요.",
+        "vi": "Tôi là người Việt Nam.",
+        "explanation": "사람 kết thúc bằng 람, có âm cuối ㅁ nên thêm 이에요; 저는 nêu chủ đề “tôi”."
+      },
+      {
+        "ko": "이거는 사과예요.",
+        "vi": "Cái này là quả táo.",
+        "explanation": "사과 không có âm cuối nên thêm 예요; 이거는 nghĩa là “cái này thì”."
+      }
+    ],
+    "note": "Xét âm tiết cuối của danh từ đứng ngay trước đuôi câu: 사람 kết thúc bằng 람, có âm cuối ㅁ → 사람이에요; 사과 không có âm cuối → 사과예요. 학생 kết thúc bằng 생, có âm cuối ㅇ → 학생이에요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 2,
+    "title": "N + 은 / 는 (Tiểu từ chủ đề)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 은",
+          "Danh từ không có âm cuối + 는"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Gắn sau danh từ để nêu chủ đề đang được nói tới, hoặc dùng để nhấn mạnh, so sánh đối chiếu hai đối tượng với nhau."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 학생이에요.",
+        "vi": "Tôi là học sinh.",
+        "explanation": "저 không có âm cuối nên thêm 는 để nêu chủ đề; 학생 có âm cuối ㅇ nên dùng 이에요."
+      },
+      {
+        "ko": "사과는 맛있어요. 하지만 바나나는 맛없어요.",
+        "vi": "Táo thì ngon. Nhưng chuối thì không ngon.",
+        "explanation": "는 sau 사과 và 바나나 tạo đối chiếu giữa hai loại quả; 하지만 nối hai nhận xét trái nhau."
+      }
+    ],
+    "note": "Chủ đề không nhất thiết là chủ ngữ. 은/는 nêu điều đang nói tới hoặc tạo đối chiếu; 이/가 đánh dấu chủ ngữ. So sánh 저는 학생이에요 (về tôi) và 제가 학생이에요 (tôi là người được xác định).",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 3,
+    "title": "N + 이 / 가 (Tiểu từ chủ ngữ)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 이",
+          "Danh từ không có âm cuối + 가"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Gắn sau danh từ để xác định danh từ đó đóng vai trò là chủ ngữ thực hiện hành động hoặc mang trạng thái của vị ngữ. Thường dùng khi nhắc đến thông tin mới."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "날씨가 좋아요.",
+        "vi": "Thời tiết đẹp.",
+        "explanation": "날씨 không có âm cuối → 가; 좋아요 là vị ngữ đánh giá thời tiết."
+      },
+      {
+        "ko": "책상이 커요.",
+        "vi": "Cái bàn to.",
+        "explanation": "책상 kết thúc bằng 상 có âm cuối ㅇ → 이; 커요 mô tả kích thước bàn."
+      }
+    ],
+    "note": "Các dạng thường gặp: 저 + 가 → 제가; 나 + 가 → 내가; 너 + 가 → 네가; 누구 + 가 → 누가. Chọn 이/가 theo danh từ đứng ngay trước tiểu từ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 4,
+    "title": "N + 을 / 를 (Tiểu từ tân ngữ)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 을",
+          "Danh từ không có âm cuối + 를"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Gắn sau danh từ chỉ đối tượng chịu tác động trực tiếp của ngoại động từ đứng sau nó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 밥을 먹어요.",
+        "vi": "Tôi ăn cơm.",
+        "explanation": "밥 có âm cuối ㅂ → 을; 밥 là thứ được 먹어요 (ăn)."
+      },
+      {
+        "ko": "친구가 영화를 봐요.",
+        "vi": "Bạn tôi xem phim.",
+        "explanation": "영화 không có âm cuối → 를; 친구가 là người thực hiện việc xem."
+      }
+    ],
+    "note": "Trật tự cơ bản là chủ đề/chủ ngữ + tân ngữ + động từ. Tiểu từ có thể được lược trong hội thoại khi ngữ cảnh rõ; hãy học dạng đầy đủ trước.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 5,
+    "title": "A/V + ㅂ니다 / 습니다 & ㅂ니까 / 습니까 (Đuôi câu trang trọng)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động/tính từ có âm cuối + 습니다 (trần thuật) / 습니까? (nghi vấn)",
+          "Gốc động/tính từ không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + ㅂ니다 / ㅂ니까?"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Đuôi câu trang trọng lịch sự, thường dùng trong các tình huống trang trọng, phát biểu, tin tức hoặc giao tiếp với người lớn tuổi/cấp trên."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "오늘 학교에 갑니다.",
+        "vi": "Hôm nay tôi đi đến trường.",
+        "explanation": "가다 bỏ 다, gốc 가 không có âm cuối nên thêm ㅂ니다 → 갑니다; 학교에 là đích đến."
+      },
+      {
+        "ko": "지금 무엇을 먹습니까?",
+        "vi": "Bây giờ bạn đang ăn gì vậy?",
+        "explanation": "먹다 có gốc 먹 với âm cuối ㄱ → 먹습니까? 무엇을 hỏi vật được ăn."
+      }
+    ],
+    "note": "Với gốc ㄹ, bỏ ㄹ trước ㅂ니다/ㅂ니까: 살다 → 삽니다/삽니까? Đây là mức độ trang trọng lịch sự; kính ngữ tôn chủ thể với (으)시 là vấn đề riêng.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 6,
+    "title": "A/V + 아요 / 어요 / 해요 (Đuôi câu thân mật lịch sự)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc có nguyên âm cuối là ㅏ, ㅗ + 아요 (Ví dụ: 가다 -> 가요, 보다 -> 봐요)",
+          "Gốc kết thúc bằng 하다 -> 해요 (Ví dụ: 공부하다 -> 공부해요)",
+          "Gốc có nguyên âm khác + 어요 (Ví dụ: 먹다 -> 먹어요, 읽다 -> 읽어요)"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Đuôi câu phổ biến nhất trong giao tiếp hàng ngày, vừa giữ được sự lịch sự vừa tạo cảm giác gần gũi."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 매일 한국어를 공부해요.",
+        "vi": "Tôi học tiếng Hàn mỗi ngày.",
+        "explanation": "공부하다 → 공부해요; 매일 cho biết việc học diễn ra mỗi ngày."
+      },
+      {
+        "ko": "동생이 집에서 자요.",
+        "vi": "Em tôi ngủ ở nhà.",
+        "explanation": "자다 → 자요; 집에서 chỉ nơi hành động ngủ diễn ra, 동생이 là chủ ngữ."
+      }
+    ],
+    "note": "가다 → 가요, 보다 → 봐요 là dạng rút gọn. Động từ bất quy tắc cần học riêng: 듣다 → 들어요, 돕다 → 도와요. 자다 → 자요, không tách 자요 thành hai từ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 7,
+    "title": "N + 이/가 아니다 (Không phải là...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 이 아니에요 / 아닙니다",
+          "Danh từ không có âm cuối + 가 아니에요 / 아닙니다"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dạng phủ định của \"이에요/예요\", dùng để phủ nhận danh từ đứng trước."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 의사가 아니에요.",
+        "vi": "Tôi không phải là bác sĩ.",
+        "explanation": "의사 không có âm cuối → 가; 아니에요 phủ định danh tính bác sĩ."
+      },
+      {
+        "ko": "여기는 도서관이 아닙니다.",
+        "vi": "Ở đây không phải là thư viện.",
+        "explanation": "도서관 có âm cuối ㄴ → 이; 아닙니다 là phủ định trang trọng lịch sự."
+      }
+    ],
+    "note": "Viết 아니에요, không viết 아니예요. 의사 không có âm cuối → 의사가 아니에요; 도서관 có âm cuối ㄴ → 도서관이 아니에요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 8,
+    "title": "N + 이/가 있다 / 없다 (Có / Không có...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ + 이/가 있어요 (có) hoặc 이/가 없어요 (không có)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả sự tồn tại hoặc sở hữu của người, vật, sự việc nào đó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 시간이 있어요.",
+        "vi": "Tôi có thời gian.",
+        "explanation": "시간 có âm cuối ㄴ → 이; 있어요 nói có thời gian, 저는 là người sở hữu được nêu làm chủ đề."
+      },
+      {
+        "ko": "교실에 선생님이 없어요.",
+        "vi": "Trong phòng học không có giáo viên.",
+        "explanation": "교실에 nêu nơi tồn tại; 선생님이 là người vắng mặt, 없어요 nghĩa là không có ở đó."
+      }
+    ],
+    "note": "Trong mẫu diễn tả sở hữu, người sở hữu thường là chủ đề: 저는 시간이 있어요. Đối tượng đang có là 시간이, không dùng 시간을 trong mẫu này.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 9,
+    "title": "N(địa điểm) + 에 있다 / 없다 (Ở / Không ở tại...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ địa điểm + 에 있어요 / 없어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ vị trí tồn tại của người hoặc vật tại một địa điểm cụ thể. Thường kết hợp với các danh từ chỉ phương hướng (위 trên, 아래 dưới, 앞 trước, 뒤 sau, 옆 bên cạnh, 안 trong, 밖 ngoài)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "책이 책상 위에 있어요.",
+        "vi": "Quyển sách ở trên bàn.",
+        "explanation": "책상 위 là “trên bàn”; 에 gắn sau cả cụm để chỉ vị trí quyển sách."
+      },
+      {
+        "ko": "언니가 지금 집에 없어요.",
+        "vi": "Chị gái bây giờ không có ở nhà.",
+        "explanation": "집에 là “ở nhà”; 없어요 nói chị không có mặt tại nơi này vào lúc nói."
+      }
+    ],
+    "note": "에 đánh dấu vị trí trong mẫu tồn tại cơ bản; ở mẫu hành động thường dùng 에서. Có thể nói 여기에 있어요 hoặc 여기 있어요; lược 에 không có nghĩa là cấm dùng 에.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 10,
+    "title": "N(địa điểm) + 에 가다 / 오다 (Đi đến / Đến...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ địa điểm + 에 가요 / 와요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả hướng di chuyển của hành động \"đi\" hoặc \"đến\" một địa điểm nào đó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 백화점에 가요.",
+        "vi": "Ngày mai tôi đi trung tâm thương mại.",
+        "explanation": "백화점에 chỉ đích đến; 내일 xác định thời gian tương lai trong câu này."
+      },
+      {
+        "ko": "친구가 우리 집에 와요.",
+        "vi": "Bạn tôi đến nhà chúng tôi.",
+        "explanation": "우리 집에 chỉ nhà là đích đến; 오다 → 와요 nghĩa là đến theo điểm nhìn của người nói."
+      }
+    ],
+    "note": "가다 là đi, 오다 là đến theo điểm nhìn của người nói. 에 chỉ đích đến; (으)로 có thể chỉ hướng. Không suy ra rằng mọi câu với 가다 đều cấm 을/를.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 11,
+    "title": "N(thời gian) + 에 (Vào lúc...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ thời gian + 에"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Gắn sau danh từ chỉ thời gian để xác định thời điểm diễn ra hành động. Lưu ý: Trong cách nói thời điểm cơ bản, thường không thêm 에 sau 어제 (hôm qua), 오늘 (hôm nay), 내일 (ngày mai), 지금 (bây giờ), 언제 (khi nào)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "아침 7시에 일어나요.",
+        "vi": "Tôi thức dậy vào lúc 7 giờ sáng.",
+        "explanation": "아침 7시 là 7 giờ sáng; 에 đặt sau cụm giờ để đánh dấu thời điểm thức dậy."
+      },
+      {
+        "ko": "주말에 친구를 만나요.",
+        "vi": "Tôi gặp bạn vào cuối tuần.",
+        "explanation": "주말에 nêu thời điểm gặp; 친구를 là đối tượng của 만나요."
+      }
+    ],
+    "note": "Trong cách nói thời điểm cơ bản, 오늘, 어제, 내일, 지금, 언제 thường đứng trực tiếp trước vị ngữ: 내일 가요, 언제 만나요? Không mở rộng thành lệnh cấm 에 cho mọi ngữ cảnh.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 12,
+    "title": "N(địa điểm) + 에서 (Ở, tại...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ địa điểm + 에서"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ địa điểm nơi một hành động cụ thể đang diễn ra (khác với \"에\" chỉ sự tồn tại tĩnh)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "식당에서 점심을 먹어요.",
+        "vi": "Tôi ăn trưa ở nhà hàng.",
+        "explanation": "식당에서 là nơi ăn; 점심을 là bữa trưa được ăn."
+      },
+      {
+        "ko": "도서관에서 책을 읽어요.",
+        "vi": "Tôi đọc sách ở thư viện.",
+        "explanation": "도서관에서 nêu nơi đọc; 책을 là đối tượng được đọc."
+      }
+    ],
+    "note": "식당에서 먹어요 nêu nơi ăn; 식당에 있어요 nêu nơi tồn tại. 에서 còn có thể chỉ điểm xuất phát khi kết hợp động từ di chuyển.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 13,
+    "title": "N1 + 하고 N2 / N1 + 와/과 N2 (Và, với...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "하고: Dùng được cho cả danh từ có và không có âm cuối (thiên về văn nói).",
+          "과 (có âm cuối) / 와 (không âm cuối): Thiên về văn viết."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để nối hai danh từ ngang hàng (và) hoặc chỉ đối tượng cùng thực hiện hành động (với)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "가방 안에 책하고 공책이 있어요.",
+        "vi": "Trong cặp có sách và vở.",
+        "explanation": "하고 nối 책 và 공책; 가방 안에 chỉ nơi có sách và vở."
+      },
+      {
+        "ko": "저는 친구와 같이 영화를 봐요.",
+        "vi": "Tôi xem phim cùng với bạn.",
+        "explanation": "친구 không có âm cuối nên dùng 와; 같이 làm rõ nghĩa cùng bạn xem phim."
+      }
+    ],
+    "note": "하고, 와/과 có thể mang nghĩa “và” hoặc “với” tùy câu. 같이/함께 làm rõ việc cùng nhau. Không dùng 하고 thay 고 để nối hai động từ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 14,
+    "title": "안 + A/V & A/V + 지 않다 (Không...)",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "안 + Động từ/Tính từ (Với nhiều động từ dạng N+하다, thường đặt 안 trước 하다: 공부 안 해요).",
+          "Gốc động từ/tính từ + 지 않아요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Hình thức phủ định chung cho hành động hoặc trạng thái."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "오늘은 학교에 안 가요.",
+        "vi": "Hôm nay tôi không đi học.",
+        "explanation": "안 đứng trước 가요 để phủ định việc đi; 오늘은 giới hạn câu chuyện vào hôm nay."
+      },
+      {
+        "ko": "이 옷은 예쁘지 않아요.",
+        "vi": "Cái áo này không đẹp.",
+        "explanation": "예쁘다 bỏ 다 rồi thêm 지 않아요 → 예쁘지 않아요, phủ định tính chất đẹp."
+      }
+    ],
+    "note": "안 phủ định hành động hoặc trạng thái, không phải lúc nào cũng nói người đó cố ý không làm. 공부 안 해요 là cách thông dụng với 공부하다; không áp dụng máy móc cho mọi từ kết thúc bằng 하다.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 15,
+    "title": "Ôn tập Giai đoạn 1",
+    "phase": "GIAI ĐOẠN 1: NỀN TẢNG CƠ BẢN (NGÀY 1 – NGÀY 15)",
+    "goal": "Làm quen với cấu trúc câu tiếng Hàn, các tiểu từ cơ bản và đuôi câu trần thuật/nghi vấn lịch sự.",
+    "review": true,
+    "sections": [
+      {
+        "title": "Nhiệm vụ",
+        "lines": [
+          "Phân biệt rõ cách dùng tiểu từ chủ đề (은/는) và tiểu từ chủ ngữ (이/가).",
+          "Phân biệt tiểu từ địa điểm 에 (tồn tại/di chuyển) và 에서 (hành động diễn ra).",
+          "Luyện tập chia đuôi câu 아요/어요 với các động từ bất quy tắc cơ bản."
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Tự đặt câu trước khi xem gợi ý. Chủ đề 은/는 và chủ ngữ 이/가 không thể thay cho nhau trong mọi ngữ cảnh; xét điều đang được hỏi hoặc đối chiếu.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 16,
+    "title": "A/V + 았어요 / 었어요 / 했어요 (Thì quá khứ)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc có nguyên âm ㅏ, ㅗ + 았어요",
+          "Gốc kết thúc bằng 하다 -> 했어요",
+          "Gốc có nguyên âm khác + 었어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả hành động hoặc trạng thái xảy ra hoặc tồn tại trong quá khứ."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "어제 친구를 만났어요.",
+        "vi": "Hôm qua tôi đã gặp bạn.",
+        "explanation": "만나다 → 만나 + 았어요 → 만났어요; 어제 xác định ngày đã qua."
+      },
+      {
+        "ko": "지난주에 날씨가 아주 추웠어요.",
+        "vi": "Tuần trước thời tiết đã rất lạnh.",
+        "explanation": "춥다 → 추우 + 었어요 → 추웠어요; 지난주에 nêu tuần được nói tới."
+      }
+    ],
+    "note": "았/었 diễn tả quá khứ; không nhất thiết mọi trạng thái được nhắc tới đã chấm dứt ở hiện tại. 춥다 thuộc nhóm ㅂ: 추우 + 었어요 → 추웠어요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 17,
+    "title": "V + (으)ㄹ 거예요 (Thì tương lai / Dự định)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 을 거예요",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + ㄹ 거예요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả kế hoạch, dự định trong tương lai của ngôi thứ nhất hoặc sự phỏng đoán của người nói."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 영화를 볼 거예요.",
+        "vi": "Ngày mai tôi sẽ xem phim.",
+        "explanation": "보다 → 볼 거예요 là dự định xem; 내일 là ngày thực hiện."
+      },
+      {
+        "ko": "주말에 집에서 쉴 거예요.",
+        "vi": "Cuối tuần tôi sẽ nghỉ ngơi ở nhà.",
+        "explanation": "쉬다 → 쉴 거예요; 집에서 chỉ nơi nghỉ ngơi, 주말에 là cuối tuần."
+      }
+    ],
+    "note": "Gốc không có âm cuối thêm ㄹ: 보다 → 볼 거예요. Gốc ㄹ giữ một ㄹ: 살다 → 살 거예요; gốc có âm cuối khác thêm 을: 먹다 → 먹을 거예요. Viết cách trước 거예요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 18,
+    "title": "V + 고 싶다 (Muốn làm gì...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 고 싶어요 (khi tường thuật mong muốn của người thứ ba, thường dùng 고 싶어 해요)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả mong muốn, nguyện vọng thực hiện một hành động nào đó của người nói."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "한국에 가고 싶어요.",
+        "vi": "Tôi muốn đi Hàn Quốc.",
+        "explanation": "가다 bỏ 다 rồi thêm 고 싶어요 để nói mong muốn đi; 한국에 là đích."
+      },
+      {
+        "ko": "비빔밥을 먹고 싶어요.",
+        "vi": "Tôi muốn ăn cơm trộn.",
+        "explanation": "먹다 giữ gốc 먹 trước 고 싶어요; 비빔밥을 là món muốn ăn."
+      }
+    ],
+    "note": "Trong hội thoại cơ bản, 고 싶어요 nói mong muốn của người nói hoặc hỏi người nghe. Khi tường thuật mong muốn người thứ ba thường dùng 고 싶어 해요. Đây là hướng dẫn theo điểm nhìn, không phải lệnh cấm tuyệt đối theo ngôi.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 19,
+    "title": "N + (으)로 (Bằng phương tiện / Về phía...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ có âm cuối + 으로",
+          "Danh từ không âm cuối hoặc âm cuối ㄹ + 로"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ phương tiện, công cụ, cách thức thực hiện hành động; hoặc chỉ phương hướng di chuyển."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "학교에 버스로 가요.",
+        "vi": "Tôi đi đến trường bằng xe buýt.",
+        "explanation": "버스 không có âm cuối → 로 để chỉ phương tiện; 학교에 là đích đến."
+      },
+      {
+        "ko": "오른쪽으로 가세요.",
+        "vi": "Hãy đi về phía bên phải.",
+        "explanation": "오른쪽 có âm cuối ㄱ → 으로; 가세요 là lời hướng dẫn đi về phía bên phải."
+      }
+    ],
+    "note": "Ngoại lệ ㄹ: 서울로, không phải 서울으로. 오른쪽 có âm cuối ㄱ → 오른쪽으로. 버스로 chỉ phương tiện, 학교에 chỉ đích đến.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 20,
+    "title": "V + (으)세요 (Hãy / Vui lòng...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 으세요",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + 세요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để yêu cầu, đề nghị hoặc ra lệnh một cách lịch sự cho người nghe làm gì đó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "여기에 앉으세요.",
+        "vi": "Mời ngồi ở đây ạ.",
+        "explanation": "앉다 có âm cuối ㄵ → 앉으세요; 여기에 nêu chỗ được mời ngồi."
+      },
+      {
+        "ko": "조용히 하세요.",
+        "vi": "Hãy giữ trật tự.",
+        "explanation": "조용히 là trạng từ “yên lặng”; 하다 → 하세요 trong lời yêu cầu lịch sự."
+      }
+    ],
+    "note": "Gốc ㄹ bỏ ㄹ: 살다 → 사세요, 만들다 → 만드세요. Gốc 듣- bất quy tắc: 들으세요; 돕- → 도우세요. (으)세요 cũng xuất hiện trong câu kính ngữ, không chỉ mệnh lệnh.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 21,
+    "title": "V + 지 마세요 (Đừng làm gì...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 지 마세요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để khuyên nhủ, yêu cầu hoặc cấm đoán người nghe không nên làm một hành động nào đó một cách lịch sự."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "교실에서 떠들지 마세요.",
+        "vi": "Đừng làm ồn trong lớp học.",
+        "explanation": "떠들다 bỏ 다 rồi thêm 지 마세요; 교실에서 là nơi không được làm ồn."
+      },
+      {
+        "ko": "사진을 찍지 마세요.",
+        "vi": "Xin đừng chụp ảnh.",
+        "explanation": "찍다 bỏ 다 rồi thêm 지 마세요 để yêu cầu không chụp ảnh."
+      }
+    ],
+    "note": "지 마세요 gắn sau gốc động từ: 찍다 → 찍지 마세요. Dạng khẳng định 찍으세요 và dạng cấm 찍지 마세요 có ý nghĩa đối lập.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 22,
+    "title": "못 + V & V + 지 못하다 (Không thể...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "못 + Động từ (Đặt trước 하다: 공부 못 해요)",
+          "Gốc động từ + 지 못해요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả sự không thể thực hiện hành động do thiếu năng lực hoặc do hoàn cảnh khách quan tác động (안 là phủ định chung, không nhất thiết chỉ ý muốn)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 수영을 못 해요.",
+        "vi": "Tôi không biết bơi / không thể bơi.",
+        "explanation": "수영을 하다 là bơi; 못 đặt trước 해요 cho biết không thể/không biết bơi theo ngữ cảnh."
+      },
+      {
+        "ko": "어제 아파서 학교에 가지 못했어요.",
+        "vi": "Hôm qua vì ốm nên tôi không thể đi học.",
+        "explanation": "가다 → 가지 못했어요 là phủ định ở quá khứ; 아파서 cho biết lý do sức khỏe."
+      }
+    ],
+    "note": "못 nói không thực hiện được do khả năng/điều kiện; không khẳng định người nói nhất thiết muốn làm. 안 là phủ định chung, cũng dùng với trạng thái: 안 추워요. Trong 수영을 못 해요, 못 và 해요 viết cách.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 23,
+    "title": "V + (으)ㄹ까요? (Nhé? / Nhỉ? - Đề nghị, hỏi ý kiến)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 을까요?",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + ㄹ까요?"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để rủ rê, đề nghị người nghe cùng làm gì đó, hoặc hỏi ý kiến của đối phương."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "우리 같이 커피를 마실까요?",
+        "vi": "Chúng ta cùng uống cà phê nhé?",
+        "explanation": "마시다 không có âm cuối → 마실까요? 우리 같이 cho thấy đây là lời rủ cùng uống."
+      },
+      {
+        "ko": "내일 몇 시에 만날까요?",
+        "vi": "Ngày mai mấy giờ chúng ta gặp nhau nhỉ?",
+        "explanation": "만나다 → 만날까요? 몇 시에 hỏi thời điểm hai bên sẽ gặp nhau."
+      }
+    ],
+    "note": "Gốc có âm cuối khác ㄹ thêm 을까요; không âm cuối thêm ㄹ까요; gốc ㄹ giữ ㄹ: 만들다 → 만들까요? Ngoài lời rủ, mẫu này còn dùng để hỏi phỏng đoán theo ngữ cảnh.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 24,
+    "title": "V + (으)ㅂ시다 (Hãy cùng nhau...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 읍시다",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + ㅂ시다"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Đuôi câu rủ rê, đề nghị người nghe cùng thực hiện hành động với mình (cần cân nhắc quan hệ và mức độ kính trọng khi đề nghị)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "같이 점심을 먹읍시다.",
+        "vi": "Chúng ta hãy cùng ăn trưa đi.",
+        "explanation": "먹다 có âm cuối ㄱ → 먹읍시다, đề nghị cùng ăn trưa."
+      },
+      {
+        "ko": "내일 도서관에서 공부합시다.",
+        "vi": "Ngày mai hãy cùng học ở thư viện nhé.",
+        "explanation": "공부하다 không có âm cuối ở gốc 하 → 공부합시다; 도서관에서 là nơi học."
+      }
+    ],
+    "note": "Đây là lời đề nghị cùng làm, không phải mức lịch sự phù hợp với mọi quan hệ. Với người cần kính trọng, nên cân nhắc 같이 …(으)실까요? thay vì áp dụng máy móc theo tuổi.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 25,
+    "title": "V + 고 있다 (Đang...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 고 있어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả một hành động đang diễn ra tại thời điểm nói (thì hiện tại tiếp diễn)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "지금 음악을 듣고 있어요.",
+        "vi": "Bây giờ tôi đang nghe nhạc.",
+        "explanation": "듣다 giữ 듣 trước 고 → 듣고 있어요; 지금 xác định hành động đang diễn ra."
+      },
+      {
+        "ko": "어머니가 요리를 하고 계세요.",
+        "vi": "Mẹ đang nấu ăn - dùng kính ngữ 계시다",
+        "explanation": "요리를 하다 là nấu ăn; 하고 계세요 dùng 계시다 để kính trọng người mẹ."
+      }
+    ],
+    "note": "듣고 있어요 giữ nguyên gốc 듣- vì 고 bắt đầu bằng phụ âm. 고 있다 còn diễn tả trạng thái được duy trì như 알고 있어요; không giới hạn ở hành động đang cử động.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 26,
+    "title": "V + 아/어/해 주다 (Làm gì cho ai...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Động từ chia theo đuôi 아/어/해 + 주세요 / 줘요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả việc thực hiện một hành động nào đó vì lợi ích của người khác, hoặc nhờ vả ai đó làm giúp mình."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "창문을 좀 열어 주세요.",
+        "vi": "Vui lòng mở giúp tôi cửa sổ với.",
+        "explanation": "열다 → 열어 주세요, nhờ mở cửa sổ giúp; 좀 làm lời nhờ nhẹ hơn."
+      },
+      {
+        "ko": "친구가 숙제를 도와주었어요.",
+        "vi": "Bạn tôi đã giúp đỡ tôi làm bài tập.",
+        "explanation": "돕다 → 도와주었어요; 친구가 là người giúp, 숙제를 là việc được giúp làm."
+      }
+    ],
+    "note": "열다 → 열어 주세요 là nhờ mở giúp. Với người được giúp cần kính trọng, có thể dùng 드리다: 선생님을 도와드려요. Học dạng viết cách 아/어 주다 trước.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 27,
+    "title": "N + 에게 / 한테 / 께 (Cho, tới ai...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ người/động vật + 에게 (thường gặp trong văn viết; cũng dùng trong lời nói) / 한테 (văn nói) / 께 (kính ngữ)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ đối tượng tiếp nhận hành động (tặng quà cho ai, gọi điện cho ai, gửi thư cho ai...)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "동생에게 선물을 주었어요.",
+        "vi": "Tôi đã tặng quà cho em.",
+        "explanation": "동생에게 là người nhận; 선물을 là quà được tặng, 주었어요 chỉ việc đã cho."
+      },
+      {
+        "ko": "선생님께 질문을 했어요.",
+        "vi": "Tôi đã đặt câu hỏi cho thầy giáo.",
+        "explanation": "선생님께 dùng 께 để kính trọng thầy cô là người tiếp nhận câu hỏi."
+      }
+    ],
+    "note": "에게 dùng rộng trong văn viết và cả lời nói; 한테 thiên về hội thoại; 께 tôn kính người tiếp nhận. Không hiểu 에게 là chỉ được dùng khi viết.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 28,
+    "title": "N + 에게서 / 한테서 (Từ ai...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ chỉ người/động vật + 에게서 (thường gặp trong văn viết; cũng dùng trong lời nói) / 한테서 (văn nói)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ nguồn gốc xuất phát của hành động (nhận được cái gì từ ai, nghe tin từ ai...)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "친구한테서 편지를 받았어요.",
+        "vi": "Tôi đã nhận được thư từ bạn.",
+        "explanation": "친구한테서 chỉ người gửi/nguồn nhận thư; 편지를 받았어요 là đã nhận thư."
+      },
+      {
+        "ko": "부모님에게서 전화를 받았어요.",
+        "vi": "Tôi đã nhận được điện thoại từ bố mẹ.",
+        "explanation": "부모님에게서 chỉ người gọi; 전화를 받았어요 nghĩa là đã nhận cuộc gọi."
+      }
+    ],
+    "note": "에게서/한테서 thường chỉ nguồn là người hoặc động vật; 에서 thường chỉ nguồn là địa điểm/tổ chức. 전화를 받다 nghĩa là nhận cuộc gọi.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 29,
+    "title": "N1 + 에서 N2 + 까지 / N1 + 부터 N2 + 까지 (Từ... đến...)",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Địa điểm 1 + 에서 + Địa điểm 2 + 까지",
+          "Thời gian 1 + 부터 + Thời gian 2 + 까지"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả điểm bắt đầu và điểm kết thúc về không gian (에서 ~ 까지) hoặc thời gian (부터 ~ 까지)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "집에서 회사까지 30분 걸려요.",
+        "vi": "Từ nhà đến công ty mất 30 phút.",
+        "explanation": "집에서 là điểm xuất phát, 회사까지 là điểm cuối; 30분 걸려요 cho biết thời gian di chuyển."
+      },
+      {
+        "ko": "아침 9시부터 오후 5시까지 일해요.",
+        "vi": "Tôi làm việc từ 9 giờ sáng đến 5 giờ chiều.",
+        "explanation": "9시부터 và 5시까지 xác định đầu/cuối khoảng thời gian làm việc."
+      }
+    ],
+    "note": "Đây là hai mẫu cơ bản nên học trước, không phải ranh giới tuyệt đối giữa không gian và thời gian. 부터 cũng có thể đánh dấu điểm đầu của phạm vi hoặc thứ tự tùy ngữ cảnh.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 30,
+    "title": "Ôn tập Giai đoạn 2",
+    "phase": "GIAI ĐOẠN 2: THÌ QUÁ KHỨ, TƯƠNG LAI & MỆNH LỆNH (NGÀY 16 – NGÀY 30)",
+    "goal": "Diễn đạt được các mốc thời gian khác nhau, mong muốn cá nhân, lời đề nghị và mệnh lệnh.",
+    "review": true,
+    "sections": [
+      {
+        "title": "Nhiệm vụ",
+        "lines": [
+          "Phân biệt phủ định 안 (phủ định chung) và 못 (không thực hiện được do khả năng/điều kiện).",
+          "Nắm vững cách rủ rê, đề nghị qua hai mẫu câu (으)ㄹ까요? và (으)ㅂ시다.",
+          "Luyện tập đặt câu với các tiểu từ chỉ đối tượng 에게/한테 và 에게서/한테서."
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Giải thích lý do chọn cấu trúc trong câu cụ thể. Không dùng mẹo “안 luôn chủ quan, 못 luôn khách quan” thay cho việc hiểu nghĩa câu.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 31,
+    "title": "A/V + 고 (Và, rồi...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ/tính từ + 고"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để liệt kê hai hay nhiều hành động, trạng thái ngang hàng; hoặc diễn tả trình tự thời gian (làm hành động 1 rồi mới làm hành động 2)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이 가방은 싸고 예뻐요.",
+        "vi": "Cái cặp này rẻ và đẹp.",
+        "explanation": "싸다 + 고 → 싸고; rẻ và đẹp là hai tính chất được liệt kê cho cùng chiếc cặp."
+      },
+      {
+        "ko": "저녁을 먹고 텔레비전을 봐요.",
+        "vi": "Tôi ăn tối rồi xem tivi.",
+        "explanation": "먹고 nối ăn tối với xem tivi theo thứ tự được hiểu trong ngữ cảnh."
+      }
+    ],
+    "note": "고 có nghĩa liệt kê hoặc trình tự tùy ngữ cảnh. Có thể gặp quá khứ trước 고 khi cần diễn tả thời điểm riêng: 어제는 쉬었고 오늘은 일해요. Không cấm 았/었고 một cách tuyệt đối.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 32,
+    "title": "A/V + 지만 (Nhưng...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ/tính từ + 지만"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để nối hai mệnh đề có nội dung trái ngược hoặc tương phản nhau."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "한국어는 어렵지만 재미있어요.",
+        "vi": "Tiếng Hàn khó nhưng thú vị.",
+        "explanation": "어렵다 + 지만 → 어렵지만; 재미있어요 tạo ý tương phản với việc khó."
+      },
+      {
+        "ko": "키는 작지만 농구를 잘해요.",
+        "vi": "Tuy thấp nhưng chơi bóng rổ giỏi.",
+        "explanation": "작지만 nối đặc điểm thấp với khả năng chơi bóng rổ giỏi; chủ thể được lược theo ngữ cảnh."
+      }
+    ],
+    "note": "지만 nối hai nội dung tương phản; có thể gắn sau dấu quá khứ: 어려웠지만 재미있었어요. Sự tương phản phụ thuộc ngữ cảnh, không chỉ cặp từ trái nghĩa.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 33,
+    "title": "A/V + 아서 / 어서 / 해서 (Vì... nên / Rồi...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Động/tính từ chia theo đuôi 아/어/해 + 서"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ nguyên nhân - kết quả (vì vế trước nên dẫn đến vế sau). Ở mẫu nguyên nhân sơ cấp, thường đặt thì ở cuối câu và dùng (으)니까 khi vế sau là lời yêu cầu/rủ rê. Phân biệt với nghĩa nối tiếp bên dưới.",
+          "Chỉ hành động nối tiếp có liên quan mật thiết với nhau."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "배가 아파서 병원에 갔어요.",
+        "vi": "Vì đau bụng nên tôi đã đi bệnh viện.",
+        "explanation": "아프다 → 아파서 theo lược ㅡ; đau bụng là lý do đi bệnh viện, thì quá khứ ở 갔어요."
+      },
+      {
+        "ko": "친구를 만나서 같이 밥을 먹었어요.",
+        "vi": "Tôi gặp bạn rồi cùng nhau ăn cơm.",
+        "explanation": "만나다 → 만나서; gặp bạn là hành động dẫn tới cùng ăn cơm, đây là nghĩa nối tiếp."
+      }
+    ],
+    "note": "Trong mẫu nguyên nhân sơ cấp, thường để dấu thì ở cuối câu và tránh câu yêu cầu/rủ rê ở vế sau; dùng (으)니까 khi cần nêu lý do cho lời đề nghị. Không áp dụng giới hạn này máy móc cho nghĩa nối tiếp của 아/어서.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 34,
+    "title": "A/V + (으)니까 (Vì... nên...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc có âm cuối + 으니까",
+          "Gốc không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + 니까"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Nêu nguyên nhân hoặc căn cứ cho nhận định, lời khuyên, lời đề nghị của người nói. Có thể chia thì quá khứ ở vế trước và vế sau thường dùng với câu mệnh lệnh (으)세요 hoặc rủ rê (으)ㅂ시다."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "날씨가 추우니까 따뜻한 옷을 입으세요.",
+        "vi": "Vì trời lạnh nên hãy mặc áo ấm vào.",
+        "explanation": "춥다 → 추우니까 theo ㅂ bất quy tắc; 입으세요 là lời khuyên mặc áo ấm."
+      },
+      {
+        "ko": "시간이 없으니까 택시를 탑시다.",
+        "vi": "Vì không có thời gian nên hãy đi taxi đi.",
+        "explanation": "없다 → 없으니까; 탑시다 là đề nghị đi taxi dựa trên việc thiếu thời gian."
+      }
+    ],
+    "note": "Gốc ㄹ bỏ ㄹ trước 니까: 살다 → 사니까. 춥다 thuộc nhóm ㅂ → 추우니까; không phải 춥으니까. (으)니까 có thể nêu căn cứ khách quan, không chỉ lý do chủ quan.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 35,
+    "title": "V + (으)러 가다 / 오다 (Đi / Đến để làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 으러 가다/오다",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + 러 가다/오다"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả mục đích của hành động di chuyển (đi đâu để làm gì). Chỉ đi kèm với các động từ di chuyển như 가다, 오다, 다니다..."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "책을 빌리러 도서관에 가요.",
+        "vi": "Tôi đến thư viện để mượn sách.",
+        "explanation": "빌리다 không có âm cuối → 빌리러; mượn sách là mục đích đến thư viện."
+      },
+      {
+        "ko": "한국어를 배우러 한국에 왔어요.",
+        "vi": "Tôi đã đến Hàn Quốc để học tiếng Hàn.",
+        "explanation": "배우다 → 배우러; 왔어요 chỉ việc đã đến Hàn Quốc để học tiếng Hàn."
+      }
+    ],
+    "note": "Gốc ㄹ giữ ㄹ trước 러: 살다 → 살러 가요. Mẫu này nêu mục đích đi/đến, không kết hợp tùy ý với mọi vị ngữ ở vế sau.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 36,
+    "title": "V + (으)려고 하다 (Định, có ý định làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 으려고 해요",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + 려고 해요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả ý định, kế hoạch của chủ ngữ ; không phân biệt với (으)ㄹ 거예요 chỉ bằng mức độ chắc chắn."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 친구를 만나려고 해요.",
+        "vi": "Ngày mai tôi định gặp bạn.",
+        "explanation": "만나다 → 만나려고 해요 để nêu ý định gặp bạn; 내일 là ngày dự kiến."
+      },
+      {
+        "ko": "이번 방학에 여행을 가려고 해요.",
+        "vi": "Kỳ nghỉ này tôi dự định đi du lịch.",
+        "explanation": "가다 → 가려고 해요; 이번 방학에 xác định kỳ nghỉ dự định đi du lịch."
+      }
+    ],
+    "note": "(으)려고 하다 nhấn mạnh ý định; (으)ㄹ 거예요 có thể nói kế hoạch hoặc phỏng đoán. Không xếp hai mẫu lên một thang chắc chắn cố định. 먹다 → 먹으려고 해요; 만들다 → 만들려고 해요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 37,
+    "title": "A/V + 아/어/해야 되다 / 하다 (Phải làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Động/tính từ chia theo đuôi 아/어/해 + 야 돼요 / 야 해요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả nghĩa vụ, sự bắt buộc hoặc điều cần thiết phải thực hiện."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 시험이 있어서 공부해야 돼요.",
+        "vi": "Ngày mai có bài kiểm tra nên tôi phải học bài.",
+        "explanation": "공부하다 → 공부해야 돼요 là nghĩa vụ học; 시험이 있어서 nêu lý do có bài kiểm tra."
+      },
+      {
+        "ko": "9시까지 회사에 가야 해요.",
+        "vi": "Tôi phải đến công ty chậm nhất lúc 9 giờ.",
+        "explanation": "가다 → 가야 해요; 9시까지 là hạn chót đến công ty, bao gồm thời điểm 9 giờ."
+      }
+    ],
+    "note": "돼요 là dạng rút gọn của 되어요, không viết 되요. 9시까지 là chậm nhất đến 9 giờ, không nhất thiết phải trước 9 giờ. 가야 해요 diễn tả điều cần thực hiện.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 38,
+    "title": "V + (으)ㄹ 수 있다 / 없다 (Có thể / Không thể làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 을 수 있어요 / 없어요",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + ㄹ 수 있어요 / 없어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả khả năng (biết làm/không biết làm) hoặc điều kiện cho phép thực hiện hành động."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 운전을 할 수 있어요.",
+        "vi": "Tôi có thể lái xe.",
+        "explanation": "운전하다 → 운전을 할 수 있어요; có thể lái xe là khả năng của người nói."
+      },
+      {
+        "ko": "오늘 바빠서 파티에 갈 수 없어요.",
+        "vi": "Hôm nay bận nên tôi không thể đến bữa tiệc.",
+        "explanation": "가다 → 갈 수 없어요; 바빠서 nêu điều kiện ngăn việc đến dự tiệc."
+      }
+    ],
+    "note": "Gốc ㄹ giữ ㄹ trước 수: 만들 수 있어요. Gốc khác có âm cuối thêm 을: 먹을 수 있어요; không âm cuối thêm ㄹ: 갈 수 있어요. Phân biệt “có thể” với “được phép” 아/어도 되다.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 39,
+    "title": "V + 아/어/해 보다 (Thử làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Động từ chia theo đuôi 아/어/해 + 봐요 / 봤어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả việc thử trải nghiệm một hành động nào đó (ở quá khứ 아/어 봤어요 mang nghĩa \"đã từng làm gì\")."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "이 구두를 한번 신어 보세요.",
+        "vi": "Hãy thử xỏ đôi giày này xem sao.",
+        "explanation": "신다 → 신어 보세요 là lời mời thử mang giày; 한번 nghĩa là thử một lần."
+      },
+      {
+        "ko": "저는 제주도에 가 봤어요.",
+        "vi": "Tôi đã từng đi đảo Jeju rồi.",
+        "explanation": "가다 → 가 봤어요 nói đã có trải nghiệm đến Jeju; không chỉ một kế hoạch tương lai."
+      }
+    ],
+    "note": "신다 → 신어 보다: thử xỏ/mang giày. 보다 (xem) cũng có thể kết hợp với trợ động từ 보다: 봐 보세요 là cách nói hợp lệ. Không cấm cấu trúc chỉ vì lặp cùng một từ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 40,
+    "title": "V + 기 전에 (Trước khi làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 기 전에 (Với danh từ dùng: N + 전에)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả hành động ở vế sau xảy ra trước thời điểm của hành động ở vế trước."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "밥을 먹기 전에 손을 씻어요.",
+        "vi": "Trước khi ăn cơm tôi rửa tay.",
+        "explanation": "먹다 + 기 전에 → 먹기 전에; việc rửa tay xảy ra trước việc ăn."
+      },
+      {
+        "ko": "자기 전에 일기를 써요.",
+        "vi": "Trước khi đi ngủ tôi viết nhật ký.",
+        "explanation": "자다 + 기 전에 → 자기 전에; viết nhật ký diễn ra trước khi ngủ."
+      }
+    ],
+    "note": "기 전에 gắn sau gốc động từ: 자다 → 자기 전에. Danh từ + 전에: 수업 전에. Trong cách diễn đạt cơ bản, không thêm dấu quá khứ trước 기 전에.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 41,
+    "title": "V + (으)ㄴ 후에 (Sau khi làm gì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 은 후에",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + ㄴ 후에",
+          "(Với danh từ dùng: N + 후에)"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả hành động ở vế sau xảy ra sau khi hành động ở vế trước đã hoàn thành."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "수업이 끝난 후에 집에 가요.",
+        "vi": "Sau khi kết thúc tiết học tôi về nhà.",
+        "explanation": "수업이 là chủ ngữ của 끝나다; 끝나다 → 끝난 후에 chỉ sau khi tiết học kết thúc."
+      },
+      {
+        "ko": "점심을 먹은 후에 커피를 마셔요.",
+        "vi": "Sau khi ăn trưa tôi uống cà phê.",
+        "explanation": "먹다 có âm cuối ㄱ → 먹은 후에; uống cà phê diễn ra sau bữa trưa."
+      }
+    ],
+    "note": "끝나다 là nội động từ: 수업이 끝난 후에. Nếu dùng tân ngữ 수업을, đổi sang ngoại động từ 끝내다: 수업을 끝낸 후에. Hai cách đều diễn tả sau khi kết thúc tiết học.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 42,
+    "title": "V + (으)면서 (Vừa... vừa...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 으면서",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + 면서"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả hai hành động diễn ra đồng thời cùng một lúc bởi cùng một chủ ngữ."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "음악을 들으면서 공부해요.",
+        "vi": "Tôi vừa nghe nhạc vừa học bài.",
+        "explanation": "듣다 đổi ㄷ thành ㄹ trước 으 → 들으면서; nghe nhạc và học cùng diễn ra ở một người."
+      },
+      {
+        "ko": "밥을 먹으면서 이야기를 해요.",
+        "vi": "Chúng tôi vừa ăn cơm vừa nói chuyện.",
+        "explanation": "먹다 + 으면서 → 먹으면서; hai hành động ăn và trò chuyện xảy ra đồng thời."
+      }
+    ],
+    "note": "듣다 là ㄷ bất quy tắc trước nguyên âm: 듣 + 으면서 → 들으면서. Mẫu đồng thời cơ bản dùng cùng chủ thể; không thay bằng 고 nếu muốn nhấn mạnh hai hành động cùng lúc.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 43,
+    "title": "A/V + (으)ㄹ 때 (Khi, lúc...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động/tính từ có âm cuối + 을 때",
+          "Gốc động/tính từ không âm cuối (hoặc âm cuối ㄹ) + ㄹ 때",
+          "(Với danh từ dùng: N + 때, ví dụ: 방학 때 - lúc nghỉ hè)"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Chỉ khoảng thời gian hoặc thời điểm mà một hành động, trạng thái nào đó xảy ra."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "시간이 있을 때 책을 읽어요.",
+        "vi": "Khi có thời gian tôi đọc sách.",
+        "explanation": "있다 có âm cuối ㅆ → 있을 때; đọc sách diễn ra khi có thời gian."
+      },
+      {
+        "ko": "피곤할 때 일찍 자요.",
+        "vi": "Lúc mệt mỏi tôi đi ngủ sớm.",
+        "explanation": "피곤하다 → 피곤할 때; trạng thái mệt là mốc tình huống cho việc đi ngủ sớm."
+      }
+    ],
+    "note": "Gốc ㄹ giữ ㄹ: 살 때; không âm cuối thêm ㄹ: 피곤할 때; có âm cuối khác thêm 을: 먹을 때. Đã xảy ra có thể dùng 았/었을 때: 어렸을 때.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 44,
+    "title": "A/V + (으)면 (Nếu... thì...)",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động/tính từ có âm cuối + 으면",
+          "Gốc động/tính từ không âm cuối (hoặc âm cuối ㄹ) + 면"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Diễn tả giả định, điều kiện ở vế trước dẫn đến kết quả ở vế sau."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 비가 오면 집에 있을 거예요.",
+        "vi": "Nếu ngày mai trời mưa thì tôi sẽ ở nhà.",
+        "explanation": "오다 không có âm cuối → 오면; mưa là điều kiện để chọn ở nhà."
+      },
+      {
+        "ko": "돈을 많이 벌면 세계 여행을 하고 싶어요.",
+        "vi": "Nếu kiếm được nhiều tiền thì tôi muốn đi du lịch thế giới.",
+        "explanation": "벌다 có âm cuối ㄹ → 벌면; kiếm nhiều tiền là điều kiện gắn với mong muốn du lịch."
+      }
+    ],
+    "note": "Gốc ㄹ giữ ㄹ trước 면: 살다 → 살면; gốc âm cuối khác thêm 으면: 먹으면. Động từ bất quy tắc vẫn cần biến đổi: 듣다 → 들으면, 춥다 → 추우면.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 45,
+    "title": "Ôn tập Giai đoạn 3",
+    "phase": "GIAI ĐOẠN 3: LIÊN KẾT CÂU & TRẠNG THÁI (NGÀY 31 – NGÀY 45)",
+    "goal": "Nối các vế câu phức tạp hơn (nguyên nhân, tương phản, trình tự) và diễn tả khả năng, nghĩa vụ.",
+    "review": true,
+    "sections": [
+      {
+        "title": "Nhiệm vụ",
+        "lines": [
+          "So sánh sự khác biệt giữa hai cấu trúc chỉ nguyên nhân 아서/어서 và (으)니까.",
+          "Thành thạo cách diễn đạt trình tự thời gian với 기 전에 và (으)ㄴ 후에.",
+          "Luyện tập kết hợp các đuôi câu điều kiện và khả năng."
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Khi so sánh 아/어서 và (으)니까, xét quan hệ nguyên nhân hay nối tiếp và kiểu câu phía sau. Không chỉ học bản dịch tiếng Việt “vì… nên…”.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 46,
+    "title": "V + 아/어/해도 되다 (Được phép làm gì...)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Động từ chia theo đuôi 아/어/해 + 도 돼요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để xin phép hoặc cho phép ai đó thực hiện một hành động nào đó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "여기에 앉아도 돼요?",
+        "vi": "Tôi ngồi ở đây có được không?",
+        "explanation": "앉다 → 앉아도 돼요? hỏi xin phép ngồi ở đây, không hỏi kỹ năng ngồi."
+      },
+      {
+        "ko": "네, 들어가도 돼요.",
+        "vi": "Vâng, bạn có thể vào.",
+        "explanation": "들어가다 → 들어가도 돼요; đây là lời cho phép đi vào đáp lại yêu cầu."
+      }
+    ],
+    "note": "아/어도 돼요 diễn tả được phép, không phải có kỹ năng. 앉아도 돼요? là xin phép ngồi; 앉을 수 있어요 có thể nói khả năng hoặc điều kiện ngồi.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 47,
+    "title": "V + (으)면 안 되다 (Không được phép làm gì...)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ có âm cuối + 으면 안 돼요",
+          "Gốc động từ không âm cuối (hoặc âm cuối ㄹ) + 면 안 돼요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để cấm đoán, ngăn cản ai đó làm gì vì vi phạm quy định hoặc gây hại."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "박물관에서 사진을 찍으면 안 돼요.",
+        "vi": "Không được phép chụp ảnh trong bảo tàng.",
+        "explanation": "찍다 có âm cuối ㄱ → 찍으면 안 돼요, diễn tả cấm chụp ảnh ở bảo tàng trong ví dụ."
+      },
+      {
+        "ko": "수업 시간에 자면 안 돼요.",
+        "vi": "Không được ngủ trong giờ học.",
+        "explanation": "자다 không có âm cuối → 자면 안 돼요; 수업 시간에 giới hạn lệnh cấm vào giờ học."
+      }
+    ],
+    "note": "으면 안 돼요 cấm thực hiện hành động; 지 않아도 돼요 là không bắt buộc làm. Hai cấu trúc không đồng nghĩa: 가면 안 돼요 (không được đi) khác 가지 않아도 돼요 (không cần đi).",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 48,
+    "title": "A/V + 네요 (Cảm thán: ...quá! / ...nhỉ!)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động/tính từ + 네요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Thể hiện sự ngạc nhiên, cảm thán trực tiếp của người nói khi nhận ra hoặc phản ứng trước một thông tin, sự việc."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "한국어를 정말 잘하시네요!",
+        "vi": "Bạn nói tiếng Hàn giỏi thật đấy!",
+        "explanation": "잘하시네요 có 시 để kính trọng người được khen; 네요 thể hiện nhận ra khả năng nói giỏi."
+      },
+      {
+        "ko": "오늘 날씨가 참 춥네요.",
+        "vi": "Thời tiết hôm nay lạnh thật nhỉ.",
+        "explanation": "춥다 giữ ㅂ trước phụ âm ㄴ của 네요 → 춥네요; đây là phản ứng trước thời tiết."
+      }
+    ],
+    "note": "네요 thể hiện nhận ra hoặc phản ứng với thông tin/tình huống; không nhất thiết lần đầu trong đời thấy điều đó. Gốc ㄹ bỏ ㄹ trước ㄴ: 멀다 → 머네요.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 49,
+    "title": "A/V + 겠어요 (Phỏng đoán / Ý chí: Chắc là... / Sẽ...)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động/tính từ + 겠어요"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Phỏng đoán về một sự việc dựa trên tình huống nhìn thấy/nghe thấy (Chắc là...).",
+          "Thể hiện ý chí của ngôi thứ nhất (Sẽ...)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "음식이 아주 맛있겠어요.",
+        "vi": "Món ăn trông chắc là ngon lắm đây.",
+        "explanation": "맛있다 + 겠어요 diễn tả phỏng đoán món ăn ngon từ tình huống, không phải ý chí của món ăn."
+      },
+      {
+        "ko": "열심히 공부하겠어요.",
+        "vi": "Tôi sẽ học tập chăm chỉ.",
+        "explanation": "공부하다 + 겠어요 thể hiện ý chí sẽ học chăm chỉ của người nói."
+      }
+    ],
+    "note": "겠 có thể diễn tả phỏng đoán hoặc ý chí theo ngữ cảnh; không dịch mọi câu thành tương lai. 맛있겠어요 là phỏng đoán; 공부하겠어요 là ý chí của người nói trong ví dụ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 50,
+    "title": "N + 보다 (Hơn...)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ A + 은/는 + Danh từ B + 보다 + Tính từ/Động từ"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để so sánh mức độ giữa hai đối tượng (A hơn B). Thường đi kèm với từ 더 (hơn)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "비행기가 기차보다 (더) 빨라요.",
+        "vi": "Máy bay nhanh hơn tàu hỏa.",
+        "explanation": "기차보다 là chuẩn so sánh; 비행기가 là đối tượng được nhận xét nhanh hơn. 더 có thể lược."
+      },
+      {
+        "ko": "저는 겨울보다 여름을 더 좋아해요.",
+        "vi": "Tôi thích mùa hè hơn mùa đông.",
+        "explanation": "겨울보다 đặt mùa đông làm chuẩn; 여름을 là mùa được thích hơn."
+      }
+    ],
+    "note": "보다 đánh dấu chuẩn so sánh; 더 thường làm rõ mức độ nhưng có thể lược. Câu thứ hai so sánh mức độ thích hai mùa, không nói mùa hè có phẩm chất hơn mùa đông.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 51,
+    "title": "N + 만 (Chỉ...) & N + 도 (Cũng...)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Danh từ + 만 / Danh từ + 도 (Thay thế cho các tiểu từ 은/는, 이/가, 을/를)."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "만: Giới hạn phạm vi, loại trừ các đối tượng khác (Chỉ).",
+          "도: Bổ sung thêm đối tượng tương tự (Cũng)."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "저는 물만 마셨어요.",
+        "vi": "Tôi chỉ uống nước thôi.",
+        "explanation": "만 theo sau 물 giới hạn thứ đã uống là nước; 마셨어요 là quá khứ của 마시다."
+      },
+      {
+        "ko": "저도 학생이에요.",
+        "vi": "Tôi cũng là học sinh.",
+        "explanation": "도 theo sau 저 thêm người nói vào nhóm học sinh; 학생 kết thúc bằng 생 có âm cuối ㅇ → 이에요."
+      }
+    ],
+    "note": "도/만 thường thay tiểu từ chủ đề, chủ ngữ hoặc tân ngữ ở mức cơ bản; có thể theo sau tiểu từ nơi chốn: 학교에서도, 집에서만. Không hiểu rằng chúng luôn loại bỏ mọi tiểu từ khác.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 52,
+    "title": "V + 는 것 / 기 (Danh từ hóa động từ)",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 는 것 (văn nói thường rút gọn thành 는 거) hoặc 기."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Biến đổi một động từ hoặc cụm động từ thành cụm danh từ để làm chủ ngữ hoặc tân ngữ trong câu."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "제 취미는 영화 보는 것이에요.",
+        "vi": "Sở thích của tôi là xem phim.",
+        "explanation": "보다 → 보는 것 biến hành động xem phim thành cụm danh từ; 이에요 gắn sau 것."
+      },
+      {
+        "ko": "저는 노래 부르기를 좋아해요.",
+        "vi": "Tôi thích việc hát.",
+        "explanation": "부르다 + 기 → 부르기 là danh từ hóa; 를 đánh dấu cụm hoạt động được 좋아해요."
+      }
+    ],
+    "note": "는 것 và 기 cùng danh từ hóa nhưng không thay nhau tự do trong mọi cụm cố định. 것 là danh từ phụ thuộc nên viết cách: 보는 것. 영화 보기 là tên một hoạt động.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 53,
+    "title": "Định ngữ tính từ: A + (으)ㄴ + N",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc tính từ có âm cuối + 은 + Danh từ",
+          "Gốc tính từ không âm cuối (hoặc âm cuối ㄹ bỏ ㄹ) + ㄴ + Danh từ",
+          "Đặc biệt: Tính từ kết thúc bằng 있다/없다 (맛있다, 재미있다...) + 는 + Danh từ."
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng tính từ để bổ nghĩa trực tiếp cho danh từ đứng sau nó."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "예쁜 꽃을 샀어요.",
+        "vi": "Tôi đã mua bông hoa đẹp.",
+        "explanation": "예쁘다 → 예쁜 để bổ nghĩa 꽃; 샀어요 là đã mua."
+      },
+      {
+        "ko": "어제 재미있는 영화를 봤어요.",
+        "vi": "Hôm qua tôi đã xem một bộ phim thú vị.",
+        "explanation": "재미있다 dùng 는 → 재미있는 để bổ nghĩa 영화; 어제 cho biết thời điểm xem."
+      }
+    ],
+    "note": "예쁘다 → 예쁜; 좋다 → 좋은; 멀다 (xa) → 먼 (bỏ ㄹ). Các từ 재미있다/맛있다 dùng 는: 재미있는 영화, 맛있는 음식. ㅂ bất quy tắc: 춥다 → 추운 날.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 54,
+    "title": "Định ngữ động từ (Hiện tại & Quá khứ): V + 는 / (으)ㄴ + N",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Hiện tại: Gốc động từ + 는 + Danh từ",
+          "Quá khứ: Gốc động từ + 은/ㄴ + Danh từ"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng mệnh đề động từ để bổ nghĩa cho danh từ đứng sau, xác định rõ danh từ đó là đối tượng nào."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "지금 공부하는 사람이 제 동생이에요.",
+        "vi": "Người đang học bài bây giờ là em tôi.",
+        "explanation": "공부하다 + 는 → 공부하는 bổ nghĩa 사람 ở hiện tại; người này được xác định là em."
+      },
+      {
+        "ko": "어제 읽은 책이 아주 재미있었어요.",
+        "vi": "Quyển sách tôi đã đọc hôm qua rất thú vị.",
+        "explanation": "읽다 có âm cuối ㄺ → 읽은; mệnh đề 어제 읽은 xác định quyển sách đã đọc hôm qua."
+      }
+    ],
+    "note": "Hiện tại: 읽는 책; quá khứ/hoàn thành: 읽은 책. Gốc ㄹ bỏ ㄹ trước 는: 살다 → 사는 사람. Gốc ㄹ bỏ ㄹ rồi thêm ㄴ ở dạng hoàn thành: 만들다 → 만든 음식.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 55,
+    "title": "Định ngữ động từ (Tương lai): V + (으)ㄹ + N",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Cấu trúc",
+        "lines": [
+          "Gốc động từ + 을/ㄹ + Danh từ"
+        ]
+      },
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Dùng để bổ nghĩa cho danh từ chỉ một sự việc, hành động sẽ diễn ra trong tương lai hoặc chưa xảy ra."
+        ]
+      }
+    ],
+    "examples": [
+      {
+        "ko": "내일 만날 친구가 한국 사람이에요.",
+        "vi": "Người bạn mà tôi sẽ gặp ngày mai là người Hàn Quốc.",
+        "explanation": "만나다 → 만날 bổ nghĩa 친구; 내일 cho biết cuộc gặp chưa xảy ra lúc nói."
+      },
+      {
+        "ko": "주말에 입을 옷을 샀어요.",
+        "vi": "Tôi đã mua quần áo để mặc vào cuối tuần.",
+        "explanation": "입다 có âm cuối ㅂ → 입을 (không thuộc nhóm ㅂ bất quy tắc); cụm này chỉ quần áo để mặc cuối tuần."
+      }
+    ],
+    "note": "Không âm cuối thêm ㄹ: 만나다 → 만날; âm cuối khác thêm 을: 입다 → 입을; gốc ㄹ giữ ㄹ: 만들다 → 만들 음식. Đây là định ngữ bổ nghĩa danh từ, không tự nó tạo câu hoàn chỉnh.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 56,
+    "title": "Lược ㅡ và ㄹ khi chia từ",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Lược ㅡ: Gốc động/tính từ kết thúc bằng ㅡ khi gặp nguyên âm 아/어 thì ㅡ bị lược bỏ. Nếu âm tiết trước đó có nguyên âm ㅏ, ㅗ thì chia 아요, còn lại chia 어요.",
+          "Ví dụ: 바쁘다 -> 바빠요 (bận), 예쁘다 -> 예뻐요 (đẹp), 쓰다 -> 써요 (viết/đắng).",
+          "Lược ㄹ: Gốc động/tính từ có âm cuối ㄹ lược ㄹ trước các đuôi như 는, ㅂ니다, (으)세요 (사는, 삽니다, 사세요).",
+          "Ví dụ: 살다 + ㅂ니다 -> 삽니다 (sống); 만들다 + 세요 -> 만드세요 (hãy làm)."
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "ㅡ: không có âm tiết trước để xét thì chọn 어 (쓰다 → 써요); không phải mọi nguyên âm ㅡ ở bất kỳ vị trí nào cũng bị xóa. ㄹ: 살다 → 사는/삽니다/사세요 nhưng 살고/살아요; đây thường được phân tích là hiện tượng lược âm có quy tắc.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 57,
+    "title": "Bất quy tắc của 'ㅂ'",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Một số tính từ/động từ có âm cuối ㅂ khi gặp nguyên âm thì ㅂ biến thành 우 (riêng 돕다, 곱다 cho dạng 도와, 고와 khi kết hợp với 아), sau đó chia theo quy tắc thông thường."
+        ]
+      },
+      {
+        "title": "Ví dụ",
+        "lines": [
+          "춥다 (lạnh) -> 추우 + 어요 -> 추워요",
+          "덥다 (nóng) -> 더우 + 어요 -> 더워요",
+          "어렵다 (khó) -> 어려우 + 어요 -> 어려워요",
+          "돕다 (giúp đỡ) -> 돕 + 아요 -> 도와요"
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Chỉ một nhóm từ ㅂ biến đổi; 입다 → 입어요, 잡다 → 잡아요 vẫn giữ ㅂ. 돕다/곱다 có 도와/고와 trước 아, nhưng trước (으)면 là 도우면/고우면, không phải 도오면.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 58,
+    "title": "Bất quy tắc của 'ㄷ'",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Một số động từ có âm cuối ㄷ khi gặp nguyên âm thì ㄷ biến thành ㄹ. (Các từ thông dụng: 듣다 nghe, 걷다 đi bộ, 묻다 hỏi, 싣다 chất lên). Lưu ý: 닫다 (đóng), 받다 (nhận), 믿다 (tin) chia bình thường."
+        ]
+      },
+      {
+        "title": "Ví dụ",
+        "lines": [
+          "듣다 (nghe) -> 들 + 어요 -> 들어요",
+          "걷다 (đi bộ) -> 걸 + 어서 -> 걸어서",
+          "묻다 (hỏi) -> 물 + 을 거예요 -> 물을 거예요"
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "묻다 nghĩa “hỏi” → 물어요; 묻다 nghĩa “chôn” → 묻어요. Phải học cùng nghĩa của từ. 듣고 vẫn giữ ㄷ vì 고 bắt đầu bằng phụ âm.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 59,
+    "title": "Bất quy tắc của '르'",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": false,
+    "sections": [
+      {
+        "title": "Giải thích",
+        "lines": [
+          "Một nhóm động/tính từ kết thúc bằng 르 (như 모르다, 빠르다, 부르다) khi gặp nguyên âm 아/어 thì ㅡ rụng đi, đồng thời thêm một phụ âm ㄹ làm âm cuối cho âm tiết đứng liền trước nó."
+        ]
+      },
+      {
+        "title": "Ví dụ",
+        "lines": [
+          "모르다 (không biết) -> 몰 + 라요 -> 몰라요",
+          "빠르다 (nhanh) -> 빨 + 라요 -> 빨라요",
+          "부르다 (gọi/hát) -> 불 + 러요 -> 불러요"
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Không phải mọi từ 르 trừ 따르다 đều theo mẫu này: 따르다 → 따라요, 치르다 → 치러요; 푸르다 → 푸르러요 thuộc kiểu 러. Học nhóm 모르다/빠르다/부르다 trước, rồi ghi nhớ ngoại lệ.",
+    "source": "references/grammar-roadmap-60-days.md"
+  },
+  {
+    "day": 60,
+    "title": "Tổng ôn tập & Chiến thuật làm bài TOPIK 1",
+    "phase": "GIAI ĐOẠN 4: CẤU TRÚC NÂNG CAO TOPIK 1 & BẤT QUY TẮC (NGÀY 46 – NGÀY 60)",
+    "goal": "Hoàn thiện các cấu trúc định ngữ, cảm thán, xin phép/cấm đoán và làm chủ các quy tắc biến âm quan trọng.",
+    "review": true,
+    "sections": [
+      {
+        "title": "Nhiệm vụ tổng kết",
+        "lines": [
+          "Rà soát nội dung ngày 1–59, gồm các bài học và ba buổi ôn tập.",
+          "Chiến thuật luyện đọc TOPIK I (không gắn cứng với số câu):",
+          "Với câu chọn tiểu từ/liên từ: Chú ý tiểu từ (이/가, 은/는, 을/를, 에, 에서) và các liên từ nối câu (그래서, 그러나, 그런데, 그러면).",
+          "Với câu hỏi về nghĩa: Tìm từ/ngữ pháp đồng nghĩa hoặc trái nghĩa, chú ý các cấu trúc phủ định (안, 못, 지 않다) và biểu hiện thời gian (기 전에, (으)ㄴ 후에).",
+          "Với đoạn đọc: Đọc câu hỏi trước để xác định từ khóa, gạch chân các đuôi câu biểu thị ý định ((으)려고 하다), lời khuyên (아/어야 하다) hoặc sự cho phép/cấm đoán (아/어도 되다, (으)면 안 되다) để chọn đáp án chính xác nhất."
+        ]
+      }
+    ],
+    "examples": [],
+    "note": "Ôn các ngày 1–59, trong đó ngày 15, 30, 45 là ôn tập, không phải 59 chủ điểm mới. Khi luyện đề, đọc hướng dẫn và dạng câu thực tế; không mặc định từng khoảng số câu luôn kiểm tra một nhóm ngữ pháp cố định.",
+    "source": "references/grammar-roadmap-60-days.md"
+  }
+]

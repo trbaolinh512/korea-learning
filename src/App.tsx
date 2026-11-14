@@ -11,7 +11,7 @@ const initial:Progress={day:1,completed:[],learned:[],attempts:[],writing:{}};
 const paths=['home','hangul','study','exam'];
 function readPage():Page {const path=location.hash.slice(1);return paths.includes(path)?path as Page:'home'}
 export default function App() {
-  const [page,setPage]=useState<Page>(readPage),[dark,setDark]=useStored('korea-theme',false),[progress,setProgress]=useStored<Progress>('korea-progress-v1',initial),[session,setSession]=useStored<ExamSession|null>('korea-exam-v1',null),[notice,setNotice]=useState('');
+  const [page,setPage]=useState<Page>(readPage),[dark,setDark]=useStored('korea-theme',true),[progress,setProgress]=useStored<Progress>('korea-progress-v1',initial),[session,setSession]=useStored<ExamSession|null>('korea-exam-v1',null),[notice,setNotice]=useState('');
   const file=useRef<HTMLInputElement>(null);
   useEffect(()=>{setSession(current=>upgradeExamContent(current))},[setSession]);
   useEffect(()=>{const listener=()=>{setPage(readPage());window.scrollTo(0,0)};window.addEventListener('hashchange',listener);return()=>window.removeEventListener('hashchange',listener)},[]);

@@ -30,7 +30,7 @@ try {
   await page.getByRole('button',{name:'Luyện TOPIK',exact:true}).click();
   assert.equal(await page.locator('.day-grid button').count(),60);assert.equal(await page.locator('.flashcard').count(),10);
   await page.getByRole('button',{name:'Hoàn thành ngày',exact:true}).click();await page.getByRole('button',{name:'Ngày 60',exact:true}).click();
-  await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();assert.equal(await page.locator('.grammar-card').count(),1);assert.match(await page.locator('.grammar-card').first().innerText(),/Chủ điểm 30/);
+  await page.getByRole('button',{name:'Ngữ pháp',exact:true}).click();assert.equal(await page.locator('.grammar-card').count(),1);assert.match(await page.locator('.grammar-card').first().innerText(),/Ngày 60\/60/);
   await page.getByRole('button',{name:'Ngày 1',exact:true}).click();await page.getByRole('button',{name:'Luyện viết',exact:true}).click();
   await page.locator('canvas').waitFor();
   await page.getByRole('button',{name:'Nghe',exact:true}).click();assert.equal(await page.locator('.word-quiz-prompt').count(),0);await page.locator('.listen-prompt').waitFor();
@@ -40,6 +40,9 @@ try {
   await page.locator('.option').first().click();await page.getByRole('button',{name:'Câu tiếp',exact:true}).click();await page.reload();assert.match(await page.locator('.quiz-heading').innerText(),/Câu 2\/10/);
   await page.getByRole('button',{name:'Nộp bài',exact:true}).click();await page.getByRole('dialog').waitFor();await page.getByRole('button',{name:'Nộp và xem kết quả',exact:true}).click();await page.getByRole('heading',{name:'Kết quả bài thi'}).waitFor();assert.equal(await page.locator('.feedback').count(),1);
   await page.screenshot({path:'test-results/exam-desktop.png',fullPage:true,animations:"disabled"});
+  assert.equal(await page.locator('html').getAttribute('data-theme'),'dark','first visit defaults to dark');
+  await page.getByRole('button',{name:'Chuyển chế độ sáng',exact:true}).click();assert.equal(await page.locator('html').getAttribute('data-theme'),'light');
+  await page.reload();assert.equal(await page.locator('html').getAttribute('data-theme'),'light','saved light preference persists');
   await page.getByRole('button',{name:'Chuyển chế độ tối',exact:true}).click();assert.equal(await page.locator('html').getAttribute('data-theme'),'dark');
   await page.getByRole('button',{name:'Trang chủ',exact:true}).first().click();await page.screenshot({path:'test-results/home-dark.png',fullPage:true,animations:"disabled"});
   await page.getByRole('button',{name:'Chuyển chế độ sáng',exact:true}).click();
