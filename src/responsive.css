@@ -3,6 +3,7 @@
 html{-webkit-text-size-adjust:100%;text-size-adjust:100%;scroll-padding-top:90px}
 img,video{max-width:100%}
 .app-shell{min-height:100svh}
+.brand-mark{display:block;object-fit:contain;padding:0;background:transparent;border-radius:0;flex-shrink:0}
 
 @media(min-width:761px) and (max-width:1000px){
   .welcome{overflow:clip}
