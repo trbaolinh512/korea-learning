@@ -1,11 +1,13 @@
 import { shuffle } from './lib';
+export type { InkPoint } from './ink';
+import type { InkPoint } from './ink';
 export function newCycle<T extends {id:string}>(pool:T[], recent:string[]):T[] {
   const items=shuffle(pool);
   const safe=items.findIndex(item=>!recent.includes(item.id));
   if(safe>0)[items[0],items[safe]]=[items[safe],items[0]];
+  else if(safe<0&&items.length>1){const different=items.findIndex(item=>item.id!==recent.at(-1));if(different>0)[items[0],items[different]]=[items[different],items[0]]}
   return items;
 }
-export interface InkPoint { x:number; y:number }
 export function handwritingPayload(strokes:InkPoint[][],guide={width:256,height:256}) {
   return {options:'enable_homework_spellcheck',requests:[{writing_guide:guide,ink:strokes.map(stroke=>[stroke.map(p=>Math.round(p.x)),stroke.map(p=>Math.round(p.y))]),language:'ko'}]};
 }

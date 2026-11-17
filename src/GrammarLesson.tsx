@@ -1,9 +1,14 @@
 import { Speaker } from './components';
+import {lazy,Suspense,useState} from 'react';
+const GrammarTypingQuiz=lazy(()=>import('./GrammarTypingQuiz'));
 import lessons from './data/grammar-roadmap.json';
 
 export default function GrammarLesson({day}:{day:number}) {
   const lesson=lessons[day-1];
+  const [practice,setPractice]=useState(false);
   return <article className="panel grammar-card">
+    <div className="tabs grammar-mode"><button className={!practice?'active':''} aria-pressed={!practice} onClick={()=>setPractice(false)}>Bài học</button><button className={practice?'active':''} aria-pressed={practice} onClick={()=>setPractice(true)}>Luyện tập ngữ pháp</button></div>
+    {practice?<Suspense fallback={<p>Đang mở bài luyện…</p>}><GrammarTypingQuiz key={day} day={day}/></Suspense>:<>
     <span className="badge">Ngày {day}/60 · {lesson.review?'Ôn tập':'Bài học ngữ pháp'}</span>
     <h2>{lesson.title}</h2>
     <p className="grammar-meaning">{lesson.phase}</p>
@@ -20,5 +25,6 @@ export default function GrammarLesson({day}:{day:number}) {
       <div className="example-analysis"><strong>Vì sao dùng cấu trúc này?</strong><p>{example.explanation}</p></div>
     </div>)}</>}
     <details className="source-note"><summary>Tài liệu ngữ pháp tham khảo</summary><p>Lộ trình 60 ngày học ngữ pháp TOPIK I do bạn cung cấp. Nội dung được biên tập lại, sửa lỗi và bổ sung phân tích ví dụ; các ngày ôn tập giữ nhiệm vụ tự học.</p><p>Ngữ pháp N: danh từ · V: động từ · A: tính từ · Âm cuối: phụ âm ở cuối âm tiết. Không dùng phiên âm Latin thay cho cách viết và phát âm tiếng Hàn.</p></details>
+    </>}
   </article>;
 }

@@ -110,3 +110,15 @@ Quy tắc trong src/responsive.css: điều hướng đáy màn hình cho điệ
 Chạy npm run test:responsive khi Vite đang phục vụ tại 127.0.0.1:5173. Kiểm tra 17–18 trạng thái cho từng kích thước, tràn ngang, vị trí các nút, điều hướng, lưới đáp án, dialog và thao tác vẽ cảm ứng. Ảnh iPhone nằm trong test-results/responsive/. Có thể chạy một cấu hình riêng: node scripts/responsive.mjs iphone-17-pro-max.
 
 Phạm vi xác minh: Chromium/Chrome với viewport và cảm ứng mô phỏng. Môi trường hiện tại không có WebKit; chưa kiểm tra trực tiếp Safari hoặc bàn phím ảo trên iPhone thật.
+
+## Phiên âm, quiz ngữ pháp và bảng viết nâng cấp
+
+Chi tiết và giới hạn: [NANG_CAP_THE_NGU_PHAP_VA_LUYEN_VIET.md](NANG_CAP_THE_NGU_PHAP_VA_LUYEN_VIET.md). Thẻ TOPIK có Latin RR cạnh nghĩa (504 từ, chưa xác minh toàn bộ với Papago). Tạo lại bằng npm run data:romanization khi đổi từ vựng. Ngữ pháp có tab Luyện tập ngữ pháp: Việt → gõ tiếng Hàn, chấm theo câu mẫu, cài đặt tự chuyển. Bảng viết chung có tẩy nét, hoàn tác, xóa bảng, kích thước hiển thị như trước; thử lại nhận diện với nét được chuẩn hóa khi lượt đầu chưa khớp.
+
+Kiểm tra giao diện mới: npm run test:practice, với Vite tại 127.0.0.1:5173. Giữ nguyên thao tác bấm Kiểm tra để gửi nhận diện.
+
+## Bài luyện ngữ pháp đa dạng
+
+Phần luyện hiện dùng 1.160 câu, mỗi ngày học có 12–28 câu, các ngày ôn tập lấy cả giai đoạn. Có trắc nghiệm 2×2, điền câu/hội thoại, ghép thẻ, gõ dạng chia và gõ cả câu. Tổng hợp phân bổ theo giai đoạn; câu sai quay lại sau bốn câu xen kẽ với thứ tự lựa chọn khác. Chi tiết: [CAP_NHAT_LUYEN_NGU_PHAP_DA_DANG.md](CAP_NHAT_LUYEN_NGU_PHAP_DA_DANG.md).
+
+Tạo lại dữ liệu: npm run data:grammar-practice. Kiểm tra giao diện: npm run test:grammar. Giữ ngân hàng luyện tập tách khỏi hai câu ví dụ trong bài học; không dùng lại vòng hai ví dụ làm toàn bộ ngân hàng luyện.

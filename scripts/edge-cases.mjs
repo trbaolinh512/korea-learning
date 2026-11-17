@@ -7,11 +7,13 @@ const base='http://127.0.0.1:5173';
 const noOverflow=async()=>assert.ok(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth),'mobile overflow');
 try {
   await page.goto(`${base}/#hangul`);await page.getByRole('button',{name:'Trắc nghiệm',exact:true}).click();
-  await page.clock.install();await page.getByRole('button',{name:'Cài đặt luyện tập'}).click();
+  await page.clock.install({time:new Date('2026-11-18T12:00:00Z')});await page.clock.pauseAt(new Date('2026-11-18T12:00:01Z'));await page.getByRole('button',{name:'Cài đặt luyện tập'}).click();
   await page.getByRole('spinbutton',{name:'Thời gian mỗi câu'}).fill('10');await page.getByRole('button',{name:'Xong',exact:true}).click();
-  assert.equal(await page.locator('.timer').innerText(),'10s');assert.equal(await page.locator('.feedback').count(),0);
+  await page.waitForFunction(()=>document.querySelector('.alphabet-quiz .timer')?.textContent==='10s');assert.equal(await page.locator('.feedback').count(),0);
   await page.clock.runFor(10000);await page.getByRole('status').filter({hasText:'Hết thời gian'}).waitFor();
-  await page.clock.runFor(1000);assert.equal(await page.locator('.timer').innerText(),'10s');assert.equal(await page.locator('.feedback').count(),0);
+  await page.clock.runFor(1000);await page.waitForFunction(()=>document.querySelector('.alphabet-quiz .badge')?.textContent.includes('Câu 2'));
+  await page.waitForFunction(()=>document.querySelector('.alphabet-quiz .timer')?.textContent==='10s');assert.equal(await page.locator('.feedback').count(),0);
+  await page.clock.resume();
   await page.getByRole('button',{name:'Luyện TOPIK',exact:true}).click();
   for(const tab of ['Ngữ pháp','Luyện viết','Nghe','Đọc']){await page.getByRole('button',{name:tab,exact:true}).click();await noOverflow()}
   await page.getByRole('button',{name:'Thi thử',exact:true}).click();

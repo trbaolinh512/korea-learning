@@ -1,0 +1,53 @@
+.card-meaning{display:flex;align-items:baseline;justify-content:center;gap:7px;flex-wrap:wrap;max-width:100%}
+.card-meaning .card-romaja{font-size:13px;color:var(--purple);font-weight:500;overflow-wrap:anywhere}
+.flash-roman-source{font-size:11px;min-height:40px;display:flex;align-items:center;justify-content:center;color:var(--purple);text-decoration:none;padding:7px}
+.flash-roman-source:hover{text-decoration:underline}
+.grammar-mode{margin-bottom:22px}
+.grammar-typing-quiz{min-width:0}
+.grammar-typing-quiz .quiz-heading h3{margin:0}
+.grammar-quiz-meaning{font-size:23px;font-weight:600;line-height:1.8;margin:24px 0 12px}
+.grammar-typing-quiz form{margin:24px 0}
+.grammar-typing-quiz input{display:block;width:100%;min-height:55px;border:2px solid var(--purple);border-radius:12px;background:var(--bg);color:var(--text);padding:14px;font-size:20px;font-family:'Noto Sans KR',sans-serif;margin:10px 0 16px}
+.grammar-typing-quiz .feedback [lang=ko]{font-size:21px;display:flex;align-items:center;gap:8px;flex-wrap:wrap}
+.grammar-practice-controls{display:flex;align-items:end;justify-content:space-between;gap:15px;flex-wrap:wrap;margin:18px 0}
+.grammar-practice-controls label{display:grid;gap:7px;font-size:13px;min-width:180px}
+.grammar-practice-controls select{min-height:44px;border:1px solid var(--border);border-radius:10px;padding:10px 12px;background:var(--bg);color:var(--text);font-size:16px}
+.grammar-practice-controls>.small{max-width:220px}
+.grammar-question-kind{font-weight:600;color:var(--purple);display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:20px 0 10px}
+.grammar-typing-quiz h4{font-size:16px;line-height:1.8;margin:18px 0 8px}
+.grammar-practice-prompt{font-size:22px;line-height:1.9;white-space:pre-line;overflow-wrap:anywhere;padding:18px;background:var(--bg);border:1px solid var(--border);border-radius:12px}
+.grammar-choice-options{grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:22px 0}
+.grammar-choice-options .option{min-height:88px;white-space:normal;overflow-wrap:anywhere;line-height:1.8}
+.grammar-selected-tokens,.grammar-token-bank{display:flex;align-items:center;gap:8px;flex-wrap:wrap;padding:14px;border-radius:12px;min-height:75px;margin:12px 0}
+.grammar-selected-tokens{border:2px dashed var(--purple);background:var(--purple-soft)}
+.grammar-token-bank{border:1px solid var(--border);background:var(--bg)}
+.grammar-selected-tokens button,.grammar-token-bank button{font-size:19px;min-height:46px;padding:10px 13px;line-height:1.6}
+.grammar-answer-feedback{min-height:24px}
+.grammar-typing-quiz>.quiz-footer{flex-wrap:wrap}
+@media(max-width:760px){
+  .grammar-practice-controls{display:grid;grid-template-columns:minmax(0,1fr)}
+  .grammar-practice-controls>.small{max-width:none}
+  .grammar-practice-prompt{font-size:21px;padding:14px}
+  .grammar-choice-options .option{font-size:14px;min-height:100px;gap:7px;padding:12px 9px}
+  .grammar-choice-options{gap:10px}
+  .grammar-selected-tokens,.grammar-token-bank{padding:10px;gap:7px}
+  .grammar-selected-tokens button,.grammar-token-bank button{font-size:18px;padding:9px 11px}
+}
+.writing-editor{min-width:0;margin:20px 0}
+.writing-editor-heading{display:flex;align-items:center;gap:12px;margin-bottom:12px}
+.writing-editor-heading strong{flex:1;min-width:0;overflow-wrap:anywhere;font-size:15px}
+.writing-tools{display:flex;justify-content:space-between;gap:12px;flex-wrap:wrap;margin:12px 0}
+.writing-tools .segmented{flex-wrap:wrap}
+.writing-tools .segmented button{min-height:44px;font-size:12px;padding:9px}
+.writing-editor>.actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:7px}
+.writing-editor>.actions button{min-height:44px;white-space:normal;font-size:13px;padding:10px 5px}
+.writing-editor>.small{font-size:12px;margin:12px 0 0;line-height:1.8}
+@media(max-width:760px){
+  .flash-roman-source{font-size:12px;min-height:44px}
+  .grammar-quiz-meaning{font-size:23px}
+  .grammar-typing-quiz input{font-size:20px;scroll-margin:100px 0 120px}
+  .grammar-typing-quiz .small{font-size:13px}
+  .writing-editor>.actions button{font-size:13px}
+  .writing-tools .segmented button{font-size:12px;gap:5px}
+}
+@media(max-width:374px){.writing-editor>.actions button{font-size:11px;gap:4px}.writing-tools .segmented button{font-size:11px}.grammar-quiz-meaning{font-size:21px}}
